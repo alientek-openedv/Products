@@ -7,15 +7,13 @@
 .. toctree::
    :maxdepth: 4
    :caption: 开发板&核心板
-   :titlesonly:
 
-   board/index  
+   boards/index  
 
 
 .. toctree::
    :maxdepth: 4
    :caption: 模块配件
-   :titlesonly:
 
    modules/index 
 
@@ -23,7 +21,6 @@
 .. toctree::
    :maxdepth: 4
    :caption: 开发工具
-   :titlesonly:
 
    tool/index 
 
@@ -31,28 +28,25 @@
 .. toctree::
    :maxdepth: 4
    :caption: 开源四轴
-   :titlesonly:
 
    fouraxis-fly/index  
 
 
+   
+
 
 .. toctree::
    :maxdepth: 4
-   :caption:  教学书籍与视频
-   :titlesonly:
+   :caption: 教学书籍与视频
 
-   book&videos/index
+   book-videos/index
 
 
  .. toctree::
    :maxdepth: 4
    :caption: 正点原子产品选型手册
-   :titlesonly:
 
    select-manual/index  
-
-
 
 
  .. toctree::
@@ -60,7 +54,7 @@
    :caption: 版本更新记录
 
    changelog/zdyz_changelog
-   about/index    
+   
 
 
 
@@ -69,7 +63,6 @@
    :caption: 关于正点原子   
 
    README
-
    about/index
 
    

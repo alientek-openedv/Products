@@ -1,4 +1,4 @@
-正点原子stm32f103战舰开发板
+stm32f407最小系统板
 ==========================
 
 资料下载链接
@@ -37,10 +37,10 @@
 产品图片
 --------
 
-正点原子stm32f103战舰开发板
+stm32f407最小系统板
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: media/stm32f103_warship/stm32f103_warship.jpg
+.. figure:: media/stm32f103_warship/F103正.png
    :align: center
 
-    正点原子stm32f103战舰开发板
+   stm32f407最小系统板

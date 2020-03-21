@@ -40,7 +40,7 @@
 正点原子stm32f103战舰开发板
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: media/stm32f103_warship/stm32f103_warship.jpg
+.. figure:: /media/stm32f103_warship/stm32f103_warship.png
    :align: center
 
-    正点原子stm32f103战舰开发板
+   正点原子stm32f103战舰开发板

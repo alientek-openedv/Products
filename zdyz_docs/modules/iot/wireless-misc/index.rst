@@ -1,19 +1,12 @@
-.. _Linuxproduct:
+.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-.. 野火产品资料链接 documentation master file, created by
-   sphinx-quickstart on Sat Nov 16 02:47:04 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-杂类无线模块
+ 其它无线模块
 ============================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 4
 
    nrf24l01
-   rfid_rc522
-   telecontrol_1838
 
 
 

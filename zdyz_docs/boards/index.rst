@@ -6,12 +6,12 @@
 .. toctree::
    :maxdepth: 4
 
-    stm32/index
+   stm32/index
 
-    arm-linux/index
+   arm-linux/index
 
-    fpga/index
+   fpga/index
 
-    iot/index
+   iot/index
 
-    i.mx-rt/index    
+   i.mx-rt/index    

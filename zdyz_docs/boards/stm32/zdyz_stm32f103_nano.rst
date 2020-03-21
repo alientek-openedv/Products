@@ -1,11 +1,11 @@
-野火STM32F103C8T6核心板
-正点原子stm32f103战舰开发板
+
+正点原子stm32f103-nano开发板
 ==========================
 
 资料下载链接
 ------------
 
-正点原子stm32f103战舰开发板资料链接：
+正点原子stm32f103-nano开发板资料链接：
 
 - ``资料盘`` 文件夹包链接：https://pan.baidu.com/s/1L3XLJWVBeBUkzfsiwViFYg   提取码 ：q0uc  
  
@@ -38,10 +38,10 @@
 产品图片
 --------
 
-正点原子stm32f103战舰开发板
+正点原子stm32f103-nano开发板
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: media/stm32f103_warship/stm32f103_warship.jpg
+.. figure:: media/stm32f103_nano/stm32f103_nano.png
    :align: center
 
-    正点原子stm32f103战舰开发板
+   正点原子stm32f103-nano开发板

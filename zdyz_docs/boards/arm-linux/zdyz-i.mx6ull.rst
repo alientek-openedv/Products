@@ -42,20 +42,19 @@
 i.MX6ULL阿尔法开发板
 ~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: media/imx6ull/阿尔法正面.PNG
+.. figure:: media/imx6ull/阿尔法正面.png
    :align: center
 
-    正点原子i.MX6ULL Linux阿尔法开发板
+   正点原子i.MX6ULL Linux阿尔法开发板
 
 
 i.MX 6ULL阿尔法核心板
 ~~~~~~~~~~~~~~~~~~~~
 
-.. figure:: media/imx6ull/核心板.jpg
-
+.. figure:: media/imx6ull/核心板.png
    :align: center
 
-    正点原子i.MX6ULL Linux阿尔法核心板
+   正点原子i.MX6ULL Linux阿尔法核心板
 
 
 

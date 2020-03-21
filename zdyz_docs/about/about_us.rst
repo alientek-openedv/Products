@@ -8,12 +8,12 @@
 联系方式
 ============
 
-- 原子哥在线教学平台    www.yuanzige.com
-- 原子哥APP下载         www.yuanzige.com/download
-- 正点原子公司网址      www.alientek.com  
-- 正点原子技术论坛      www.openedv.com 
-- 正点原子B站链接       https://space.bilibili.com/394620890
-- 正点原子官方商城      https://openedv.taobao.com
+- 原子哥在线教学平台：    https://www.yuanzige.com
+- 原子哥APP下载：         https://www.yuanzige.com/download
+- 正点原子公司网址：      https://www.alientek.com  
+- 正点原子技术论坛：      http://www.openedv.com 
+- 正点原子B站链接：       https://space.bilibili.com/394620890
+- 正点原子官方商城：      https://openedv.taobao.com
 - 传真：020-36773971
 - 电话：020-38271790 
   

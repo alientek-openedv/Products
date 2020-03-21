@@ -6,7 +6,7 @@
 ============================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 4
 
    dap/index
    programmer/index

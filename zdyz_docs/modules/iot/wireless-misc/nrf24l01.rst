@@ -15,6 +15,6 @@
 .. figure:: media/nrf24.png
    :align: center
 
-    正点原子NRF24L01模块
+   正点原子NRF24L01模块
 
 

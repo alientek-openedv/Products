@@ -15,6 +15,6 @@
 .. figure:: media/atk-hc05.png
    :align: center
 
-    ATK-HC05蓝牙模块
+   ATK-HC05蓝牙模块
 
 

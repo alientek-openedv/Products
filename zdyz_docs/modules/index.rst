@@ -12,8 +12,6 @@
    iot/index
 
    lcd/index
-
-
    sensor/index
 
    other/index

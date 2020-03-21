@@ -5,7 +5,7 @@
 资料下载链接
 ------------
 
-正点原子DAP仿真器资料链接，本资料适用于普通版及高速版DAP仿真器：
+正点原子DAP仿真器资料链接，本资料分为普通版及高速版DAP仿真器：
 
 - 普通版链接： https://pan.baidu.com/s/1DuRhDblF2VKew94WQjboFA  提取码：omq5 
 
@@ -21,7 +21,7 @@
 
    :align: center
 
-    正点原子DAP仿真器
+   正点原子DAP仿真器
 
 高速版
 ~~~~~~
@@ -30,4 +30,4 @@
 
    :align: center
 
-    正点原子高速DAP仿真器
+   正点原子高速DAP仿真器

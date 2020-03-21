@@ -13,8 +13,8 @@
 --------
 
 
-.. figure:: media/ATK-ESP-01 WIFI模组.png
+.. figure:: media/ATK-ESP-01.png
 
    :align: center
 
-    正点原子ATK-ESP-01 WiFi模块
+   正点原子ATK-ESP-01 WiFi模块

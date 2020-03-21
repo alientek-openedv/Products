@@ -17,4 +17,4 @@ mini-pro脱机下载器通过上位机导入烧写镜像时，提供固件程序
 
    :align: center
 
-    正点原子mini-pro脱机烧录器
+   正点原子mini-pro脱机烧录器
