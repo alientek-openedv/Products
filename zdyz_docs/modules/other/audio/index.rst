@@ -7,9 +7,7 @@
 .. toctree::
    :maxdepth: 1
 
-   audio/index
-
-   gps/index
+   mp3_vs1053
 
    
 

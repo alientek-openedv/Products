@@ -13,9 +13,9 @@
 产品图片
 --------
 
-.. figure:: media/ATK-301指纹识别模块.jpg
+.. figure:: media/ATK-301指纹识别模块.JPG
    :align: center
 
-    正点原子ATK-301指纹识别模块
+   正点原子ATK-301指纹识别模块
 
 

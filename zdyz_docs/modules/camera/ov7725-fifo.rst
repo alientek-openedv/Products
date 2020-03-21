@@ -12,7 +12,9 @@
 产品图片
 --------
 
-.. figure:: media/OV7725_带FIFO.jpg
+.. figure:: media/OV7725无FIFO版本摄像头模块.jpg
+   :align: center
 
+   正点原子ATK-301指纹识别模块
 
 

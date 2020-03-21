@@ -33,10 +33,8 @@ MiniFly四轴飞行器资料链接：
 --------
 
 
-
 .. figure:: media/minifly.png
-
    :align: center
 
-    正点原子MiniFly四轴飞行器
+   正点原子MiniFly四轴飞行器
 

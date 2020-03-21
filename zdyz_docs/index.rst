@@ -32,30 +32,25 @@
    fouraxis-fly/index  
 
 
-   
-
 
 .. toctree::
    :maxdepth: 4
    :caption: 教学书籍与视频
 
-   book-videos/index
+   book-videos/index  
 
 
- .. toctree::
+.. toctree::
    :maxdepth: 4
    :caption: 正点原子产品选型手册
 
    select-manual/index  
 
-
- .. toctree::
+.. toctree::
    :maxdepth: 4
-   :caption: 版本更新记录
+   :caption: 常见问题
 
-   changelog/zdyz_changelog
-   
-
+   faq/index        
 
 
 .. toctree::

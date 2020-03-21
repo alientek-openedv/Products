@@ -14,9 +14,9 @@ ATK-1.3 TFTLCD是ALIENTEK推出的一款高性能1.3寸液晶显示模块。该�
 产品图片
 --------
 
-.. figure:: media/1.3-lcd.png
+.. figure:: media/1.3寸TFTLCD模块.png
    :align: center
 
-    正点原子ATK-1.3寸TFTLCD液晶屏模块
+   正点原子ATK-1.3寸TFTLCD液晶屏模块
 
 

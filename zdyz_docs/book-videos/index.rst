@@ -9,7 +9,8 @@
    :maxdepth: 4
 
    
-   zdyz-i.mx6ull
+   
+   zdyz-board-book
 
    zdyz-rtos
 
