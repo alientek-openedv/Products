@@ -1,5 +1,5 @@
 
-正点原子ATK-ESP-01 WiFi模块资料
+ATK-ESP-01 WiFi模块资料
 ============================
 
 资料下载链接
@@ -12,9 +12,11 @@
 产品图片
 --------
 
+ATK-ESP-01 WiFi模块主图如 :numref:`pic_major` 所示。
+
+.. _pic_major:
 
 .. figure:: media/ATK-ESP-01.png
-
    :align: center
 
-   正点原子ATK-ESP-01 WiFi模块
+   ATK-ESP-01 WiFi模块

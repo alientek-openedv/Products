@@ -14,7 +14,7 @@ ATK1218-BD GPS+北斗双定位模块资料：
 产品图片
 --------
 
-.. figure:: media/北斗.png
+.. figure:: media/gps_beidou.png
    :align: center
 
    ATK1218-BD GPS+北斗双定位模

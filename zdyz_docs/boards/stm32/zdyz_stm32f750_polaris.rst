@@ -1,10 +1,10 @@
-正点原子stm32f103战舰开发板
+stm32f750北极星开发板
 ==========================
 
 资料下载链接
 ------------
 
-正点原子stm32f103战舰开发板资料链接：
+正点原子stm32f750北极星开发板资料链接：
 
 - ``资料盘`` 文件夹包链接：https://pan.baidu.com/s/1L3XLJWVBeBUkzfsiwViFYg   提取码 ：q0uc  
  
@@ -37,10 +37,11 @@
 产品图片
 --------
 
-正点原子stm32f103战舰开发板
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stm32f750北极星开发板主图如 :numref:`pic_major` 所示。
 
-.. figure:: media/stm32f103_warship/stm32f103_warship.jpg
+.. _pic_major:
+
+.. figure:: media/stm32f75-h750-polaris/F750NB.png
    :align: center
 
-    正点原子stm32f103战舰开发板
+   stm32f750北极星开发板

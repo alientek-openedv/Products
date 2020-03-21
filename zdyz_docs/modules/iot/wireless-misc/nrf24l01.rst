@@ -1,20 +1,24 @@
 
-正点原子NRF24L01模块
+NRF24L01-2.4G无线模块
 ====================
 
 下载资料链接
 ------------
 
-正点原子NRF24L01模块：
+正点原子NRF24L01-2.4G无线模块：
 
 - 链接：http://www.openedv.com/posts/list/3191.htm   提取码：无
 
 产品图片
 --------
 
+NRF24L01-2.4G无线模块主图如 :numref:`pic_major` 所示。
+
+.. _pic_major:
+
 .. figure:: media/nrf24.png
    :align: center
 
-   正点原子NRF24L01模块
+   NRF24L01-2.4G无线模块
 
 

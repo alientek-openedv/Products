@@ -5,7 +5,7 @@ GPRS/GSM模块
 ============
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
 
 
 

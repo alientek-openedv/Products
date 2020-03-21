@@ -5,59 +5,83 @@
 ====================
 
 .. toctree::
-   :maxdepth: 4
-   :caption: 开发板&核心板
+   :maxdepth: 3
+   :caption: 正点原子开发板&核心板
+   :titlesonly:   
 
    boards/index  
 
 
 .. toctree::
-   :maxdepth: 4
-   :caption: 模块配件
+   :maxdepth: 2
+   :caption: 正点原子模块与配件
+   :titlesonly:  
 
    modules/index 
 
 
 .. toctree::
-   :maxdepth: 4
-   :caption: 开发工具
+   :maxdepth: 3
+   :caption: 正点原子开发工具
+   :titlesonly:   
 
    tool/index 
 
 
 .. toctree::
-   :maxdepth: 4
-   :caption: 开源四轴
+   :maxdepth: 3
+   :caption: 正点原子开源四轴
+   :titlesonly:   
 
    fouraxis-fly/index  
 
 
 
 .. toctree::
-   :maxdepth: 4
-   :caption: 教学书籍与视频
+   :maxdepth: 3
+   :caption: 正点原子教学书籍与视频
+   :titlesonly: 
 
    book-videos/index  
 
+.. toctree::
+   :maxdepth: 3
+   :caption: 正点原子旧产品
+   :titlesonly: 
+
+   old-products/index  
+
+
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: 正点原子产品选型手册
+   :titlesonly: 
 
    select-manual/index  
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 2
    :caption: 常见问题
+   :titlesonly: 
 
-   faq/index        
+   faq/index   
 
 
 .. toctree::
-   :maxdepth: 4
-   :caption: 关于正点原子   
+   :maxdepth: 2
+   :caption: 关于本文档
+   :titlesonly: 
 
-   README
+   ../../README           
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 关于正点原子   
+   :titlesonly: 
+
+   ../README
    about/index
 
    

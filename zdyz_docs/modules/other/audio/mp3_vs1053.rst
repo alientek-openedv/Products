@@ -14,6 +14,10 @@ ATK-VS1053 MP3模块模块资料链接：
 产品图片
 --------
 
+ATK-VS1053 MP3模块主图如 :numref:`pic_major` 所示。
+
+.. _pic_major:
+
 .. figure:: media/atk-mp3.png
    :align: center
 

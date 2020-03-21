@@ -1,5 +1,5 @@
 
-正点原子无线调试器
+无线调试器
 =================
 
 资料下载链接
@@ -14,21 +14,21 @@
 产品图片
 --------
 
-普通版
-~~~~~~
+无线调试器普通版主图如 :numref:`pic_major1` 所示。
+
+.. _pic_major1:
 
 .. figure:: media/DAP仿真器.png
-
    :align: center
 
-    正点原子DAP仿真器
+   正点原子DAP仿真器
 
-高速版
-~~~~~~
+无线调试器高速版主图如 :numref:`pic_major2` 所示。
+
+.. _pic_major2:
 
 .. figure:: media/高速DAP仿真器.png
-
    :align: center
 
-    正点原子高速DAP仿真器
+   正点原子高速DAP仿真器
 

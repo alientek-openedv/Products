@@ -1,5 +1,5 @@
 
-正点原子《原子教你玩stm32》系列
+《原子教你玩stm32》系列
 =================================
 
 
@@ -51,10 +51,11 @@
 产品图片
 --------
 
-基于正点原子STM32F103战舰开发板
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+《原子教你玩stm32》教学书籍封面主图如 :numref:`pic_major_study_stm32` 所示。
 
-.. figure:: media/原子教你玩stm32.png
+.. _pic_major_study_stm32:
+
+.. figure:: media/study_stm32.png
    :align: center
 
    原子教你玩stm32

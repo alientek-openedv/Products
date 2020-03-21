@@ -1,5 +1,5 @@
 
-正点原子ATK-HC05蓝牙模块资料
+ATK-HC05蓝牙模块资料
 ===========================
 
 资料下载链接
@@ -11,6 +11,10 @@
 
 产品图片
 --------
+
+ATK-HC05蓝牙模块主图如 :numref:`pic_major` 所示。
+
+.. _pic_major:
 
 .. figure:: media/atk-hc05.png
    :align: center

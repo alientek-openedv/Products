@@ -37,10 +37,11 @@ stm32f407最小系统板
 产品图片
 --------
 
-stm32f407最小系统板
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stm32f407最小系统板主图如 :numref:`pic_major_minisysboard_f407` 所示。
 
-.. figure:: media/stm32f103_warship/F103正.png
+.. _pic_major_minisysboard_f407:
+
+.. figure:: media/stm32f103_warship/F103_F04.png
    :align: center
 
    stm32f407最小系统板

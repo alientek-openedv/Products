@@ -1,9 +1,9 @@
-.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek.
 
 MiniFly四轴飞行器
 =========================
 
 MiniFly是正点原子最新推出的一款开源微型四轴飞行器，该四轴飞行器主要有以下特点：
+
  - 开源，可二次开发；
  - 支持定高飞行、 手动飞行以及定点飞行（搭配光流模块） ；
  - 支持 4D 空翻；
@@ -32,6 +32,9 @@ MiniFly四轴飞行器资料链接：
 产品图片
 --------
 
+MiniFly四轴飞行器主图如 :numref:`pic_major_minifly` 所示。
+
+.. _pic_major_minifly:
 
 .. figure:: media/minifly.png
    :align: center

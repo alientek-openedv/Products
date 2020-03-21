@@ -1,10 +1,9 @@
-... 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek.
 
-
-正点原子悟空四轴飞行器
+悟空四轴飞行器
 =========================
 
-MiniFly是正点原子最新推出的一款开源四轴飞行器，该四轴飞行器主要有以下特点：
+悟空四轴飞行器是正点原子最新推出的一款开源大四轴飞行器，该四轴飞行器主要有以下特点：
+
  - 开源，可二次开发；
  - 支持定高飞行、 手动飞行以及定点飞行（搭配光流模块） ；
  - 支持 4D 空翻；
@@ -22,22 +21,57 @@ MiniFly是正点原子最新推出的一款开源四轴飞行器，该四轴飞�
 - 链接： http://www.openedv.com/forum.php?mod=viewthread&tid=98585
 
 
-资料下载链接
+资料链接
 ------------
 
-正点原子悟空四轴飞行器资料链接：
+正点原子悟空四轴飞行器资使用资料
+^^^^^^^^^^
+
 
 - 链接： https://pan.baidu.com/s/1ScpiDOfuZsz2YxTTcoBObA  提取码：zleg  
+  
+  
+产品讨论帖
+^^^^^^^^^^  
+
+正点原子悟空四轴飞行器产品讨论贴: http://www.openedv.com 
+
 
 
 产品图片
 --------
 
+悟空四轴飞行器主图如 :numref:`pic_major_wukong` 所示。
 
+.. _pic_major_wukong:
 
-.. figure:: media/悟空.png
-
+.. figure:: media/wukong.png
    :align: center
 
-    正点原子悟空四轴飞行器
+   悟空四轴飞行器
 
+
+
+购买方式
+-------- 
+
+正点原子官方淘宝店：https://openedv.taobao.com 
+
+
+
+
+产品问题答疑
+------------
+
+- 阿里旺旺：https://openedv.taobao.com 上淘宝直接一对一咨询技术。  
+- 开源电子网【论坛】：http://www.openedv.com 
+- QQ群：http://www.openedv.com   点击首页“官方QQ群”即可加入最新群。 
+- 微信群：http://www.openedv.com 点击首页“微信群”即可加入最新群。
+  
+
+
+关于正点原子  
+-----------------
+
+ | :ref:`公司简介` 
+ | :ref:`联系方式`

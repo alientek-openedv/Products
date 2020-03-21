@@ -1,5 +1,5 @@
 
-正点原子stm32f103-nano开发板
+stm32f103-nano开发板
 ==========================
 
 资料下载链接
@@ -38,10 +38,11 @@
 产品图片
 --------
 
-正点原子stm32f103-nano开发板
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stm32f103-nano开发板主图如 :numref:`pic_major` 所示。
+
+.. _pic_major:
 
 .. figure:: media/stm32f103_nano/stm32f103_nano.png
    :align: center
 
-   正点原子stm32f103-nano开发板
+   stm32f103-nano开发板

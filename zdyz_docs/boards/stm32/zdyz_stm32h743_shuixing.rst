@@ -1,5 +1,4 @@
-
-正点原子stm32f103战舰开发板
+stm32h743水星开发板
 ==========================
 
 资料下载链接
@@ -38,11 +37,12 @@
 产品图片
 --------
 
-正点原子stm32f103战舰开发板
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stm32f103战舰开发板主图如 :numref:`pic_major` 所示。
 
-.. figure:: media/stm32f103_warship/stm32f103_warship.jpg
+.. _pic_major:
+
+.. figure:: media/stm32f103_warship/stm32f103_warship.png
    :align: center
 
-    正点原子stm32f103战舰开发板
+   stm32h743水星开发板
 

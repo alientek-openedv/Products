@@ -4,7 +4,7 @@
 ============================================
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
 
    zdyz_stm32f103_mini
 
@@ -33,3 +33,8 @@
    zdyz_stm32f103_nano
 
    zdyz_stm32f407_nano
+
+   zdyz_stm32f103_mini_sysboard
+
+   zdyz_stm32f407_mini_sysboard
+

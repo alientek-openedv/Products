@@ -1,10 +1,10 @@
-正点原子stm32f103最小系统板
+stm32f103最小系统板
 ==========================
 
 资料下载链接
 ------------
 
-正点原子stm32f103战舰开发板资料链接：
+正点原子stm32f103最小系统板资料链接：
 
 - ``资料盘`` 文件夹包链接：https://pan.baidu.com/s/1L3XLJWVBeBUkzfsiwViFYg   提取码 ：q0uc  
  
@@ -37,10 +37,11 @@
 产品图片
 --------
 
-正点原子stm32f103最小系统板
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+stm32f103最小系统板主图如 :numref:`pic_major_minisysboard` 所示。
 
-.. figure:: media/stm32f103_mini_sysboard/F103正.png
+.. _pic_major_minisysboard:
+
+.. figure:: media/stm32f103_mini_sysboard/F103_407.png
    :align: center
 
    正点原子stm32f103最小系统板

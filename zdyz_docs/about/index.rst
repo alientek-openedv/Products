@@ -1,11 +1,8 @@
 .. vim: syntax=rst
 
 
-关于正点原子
-============================
-
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 1
 
    about_us
 

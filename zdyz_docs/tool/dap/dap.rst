@@ -1,5 +1,5 @@
 
-正点原子DAP仿真器
+DAP仿真器
 =================
 
 资料下载链接
@@ -14,20 +14,20 @@
 产品图片
 --------
 
-普通版
-~~~~~~
+DAP仿真器普通版主图如 :numref:`pic_major_nordap` 所示。
 
-.. figure:: media/DAP仿真器.png
+.. _pic_major_nordap:
 
+.. figure:: media/nordap.png
    :align: center
 
    正点原子DAP仿真器
 
-高速版
-~~~~~~
+DAP仿真器高速版主图如 :numref:`pic_major_hsdap` 所示。
 
-.. figure:: media/高速DAP仿真器.png
+.. _pic_major_hsdap:
 
+.. figure:: media/hsdap.png
    :align: center
 
    正点原子高速DAP仿真器
