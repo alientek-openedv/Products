@@ -6,6 +6,8 @@ Lora模块
 .. toctree::
    :maxdepth: 0
 
+   atk-lora-02
+
 
 
 
