@@ -6,11 +6,14 @@
 # 文档当中的第三方链接通过弹新窗口打开
 
 import os
+import io
 import re
 import sys
 import shutil
 import subprocess
-import beautifulsoup4
+import bs4
+
+from bs4 import BeautifulSoup
 import codecs
 from lxml import etree
 
@@ -27,25 +30,25 @@ import xml.etree.ElementTree as ET
 examples = []
 
 
-git_hub_url = ['build']
+git_hub_url = ["https://github.com/alientek-openedv/Products/tree/master/zdyz_docs/"]
 
 
 #排除在外的文件夹
-examples_except = ['build']
+examples_except = ["build"]
 
 
 sys.path.append(os.path.abspath('_ext'))
 sys.path.append(os.path.abspath('_templates'))
 
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding = 'utf-8')
+
 
 #获取当前工作目录路径
 py_curdir = os.getcwd() 
 
-print("zdyz curdir")
 
-print(py_curdir)
+print("py_curdir = " + py_curdir)
 
-print("\r\n")
 
 
 
@@ -56,31 +59,32 @@ def getallfilesofwalk_del(dir):
     
     #不是目录不需要递归了   
     if not os.path.isdir(dir):
-
-        print (dir)
-        print("\r\n")       
-
+   
         if os.path.splitext(dir)[1]=='.html' or os.path.splitext(dir)[1]=='.HTML':         
-  
-           os.remove(dir)
+            print (dir)
+            print("\r\n")   
+            os.remove(dir)
+
 
         return   
 
     dirlist = os.listdir(dir)
     for dirret in dirlist:
+        if dirret in examples_except[0]:
+           continue
+
         fullname = dir + "\\" + dirret
         if os.path.isdir(fullname):
 
             #递归
-            getallfiles(fullname)
+            getallfilesofwalk_del(fullname)
         else:
-            print  (fullname)
-            print("\r\n") 
+
 
             if os.path.splitext(fullname)[1]=='.html' or os.path.splitext(fullname)[1]=='.HTML':         
-  
-               os.remove(fullname)  
-
+                print  (fullname)
+                print("\r\n")                                
+                os.remove(fullname) 
 
 
 
@@ -92,37 +96,84 @@ def getallfilesofwalk_git_url(dir):
     #不是目录不需要递归了   
     if not os.path.isdir(dir):
 
-        print (dir)
-        print("\r\n")       
-
+           
         if os.path.splitext(dir)[1]=='.html' or os.path.splitext(dir)[1]=='.HTML':  
 
            #通过已有html文件来创建对象
            soup = BeautifulSoup(open(dir))
+           print (dir) 
+           print('\r\n')
+
+           #查找所有的链接标签
+           tags = soup.findAll('a')
 
            #打印输出标签a  
-           print (soup.a)    
+           print(tags[0].name)
+
+
            
         return   
 
     dirlist = os.listdir(dir)
     for dirret in dirlist:
+
         fullname = dir + "\\" + dirret
         if os.path.isdir(fullname):
 
             #递归
-            getallfiles(fullname)
+            getallfilesofwalk_git_url(fullname)
+
+
         else:
-            print  (fullname)
-            print("\r\n") 
+
 
             if os.path.splitext(fullname)[1]=='.html' or os.path.splitext(fullname)[1]=='.HTML': 
 
-               #通过已有html文件来创建对象
-               soup = BeautifulSoup(open(dir))
+               print  (fullname)
+               print("\r\n") 
 
-               #打印输出标签a  
-               print (soup.a)               
+               with open(fullname,"r",encoding="utf-8") as file:
+
+                   fcontent = file.read()               
+
+                   #通过已有html文件来创建对象
+                   soup = BeautifulSoup(fcontent, 'lxml')
+
+
+                   #查找所有的链接标签
+                   tags = soup.findAll('a', text = re.compile(r"\s+View page source"))
+
+                   for li in tags: 
+
+                      print(li)
+
+                      del li['rel']
+
+                      li.string =  r' Edit on Products/Docs'
+
+                      print(li) 
+
+                      rst_relpath = os.path.relpath(fullname, py_curdir+"\\"+examples_except[0]+"\\"+'html') 
+
+
+                      #文件是.rst后缀
+                      li['href'] = git_hub_url[0] + os.path.splitext(rst_relpath)[0] + ".rst"              
+
+                      #打印输出标签a  
+                      print(li)
+
+
+                      with open(fullname,"w",encoding="utf-8") as f_write:
+
+                          f_write.writelines(soup.prettify()) 
+
+
+
+
+                   #print(soup.prettify())
+
+
+               
 
                      
 
@@ -190,7 +241,9 @@ if __name__ == "__main__":
 
     getallfilesofwalk_del(py_curdir)
 
-    getallfilesofwalk_git_url(py_curdir + '/' + 'html')
+    print(py_curdir+"\\"+examples_except[0]+"\\"+'html')
+
+    getallfilesofwalk_git_url(py_curdir+"\\"+examples_except[0]+"\\"+'html')
 
 
 
