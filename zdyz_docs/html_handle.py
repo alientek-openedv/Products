@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
-#
-# Add any Sphinx extension module names here, as strings. They can be
+# 作者正点原子保留所有权，如有bug请反馈
 # 本脚本用来处理html文件的相关信息，如删除多余的html文件
 # 修改html文件能链接到Github上面
 # 文档当中的第三方链接通过弹新窗口打开
+# 
 
 import os
 import io
@@ -139,6 +139,8 @@ def getallfilesofwalk_git_url(dir):
                    #通过已有html文件来创建对象
                    soup = BeautifulSoup(fcontent, 'lxml')
 
+                   tags = soup.findAll('a', text = re.compile(r"\s+View page source"))
+
 
                    #查找所有的链接标签
                    tags = soup.findAll('a', text = re.compile(r"\s+View page source"))
@@ -157,15 +159,41 @@ def getallfilesofwalk_git_url(dir):
 
 
                       #文件是.rst后缀
-                      li['href'] = git_hub_url[0] + os.path.splitext(rst_relpath)[0] + ".rst"              
+                      li['href'] = git_hub_url[0] + os.path.splitext(rst_relpath)[0] + ".rst"    
 
-                      #打印输出标签a  
+                      li['class']="fa fa-github"          
+
+                      #打印输出后的标签
+                      print(li)
+
+                   #查找所有的链接标签
+                   tags = soup.findAll('a', attrs={"href":re.compile(r"\s?https?:")});
+
+                   for li in tags: 
+
+                      li['target']="_blank"
+
+                      #打印输出后的标签
                       print(li)
 
 
-                      with open(fullname,"w",encoding="utf-8") as f_write:
+                   #查找所有的链接标签
+                   tags = soup.findAll('a', attrs={"href":re.compile(r"\s?www:")});
 
-                          f_write.writelines(soup.prettify()) 
+                   for li in tags: 
+
+                      li['target']="_blank"
+
+                      #打印输出后的标签
+                      print("target add" + li)
+
+
+
+
+                   #写回原文件
+                   with open(fullname,"w",encoding="utf-8") as f_write:
+
+                       f_write.writelines(soup.prettify()) 
 
 
 
