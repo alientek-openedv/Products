@@ -53,7 +53,7 @@ i.MX6ULL阿尔法开发板主图如 :numref:`pic_major_imx6ull` 所示。
 
 .. _pic_major_imx6ull:
 
-.. figure:: media/imx6ull/imx_6ull_core.png
+.. figure:: media/imx6ull/imx_6ull_board.png
    :align: center
 
    i.MX6ULL Linux阿尔法开发板
