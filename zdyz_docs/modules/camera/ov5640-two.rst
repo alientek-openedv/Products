@@ -1,6 +1,7 @@
 
-4G通信模块ME3630-C3B/C-MP01
-====================================
+摄像头OV2640模块
+=============================
+
 
 资料链接
 ------------
@@ -13,22 +14,13 @@
 产品讨论帖
 ^^^^^^^^^^  
 
-4G通信模块ME3630-C3B/C-MP01产品讨论贴: http://www.openedv.com 
-
+摄像头OV2640模块产品讨论贴: http://www.openedv.com 
 
 产品图片
 --------
 
-
-4G通信模块ME3630-C3B/C-MP01主图如 :numref:`pic_major_OV7725` 所示。
-
-.. _pic_major_OV7725:
-
-.. figure:: media/OV7725_FIFO.png
-   :align: center
-
-   4G通信模块ME3630-C3B/C-MP01
-
+.. figure:: media/OV2640.jpg
+   :alt: OV2640
 
 
 购买方式

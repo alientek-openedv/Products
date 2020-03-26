@@ -1,6 +1,9 @@
+.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-GSM/GPRS模块ATK-SIM800C
-====================================
+SDIO-WIFI模块
+============================================
+
+
 
 资料链接
 ------------
@@ -8,27 +11,39 @@ GSM/GPRS模块ATK-SIM800C
 模块使用资料
 ^^^^^^^^^^
 
-- 链接：提取码：
+ | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
+ | 提取码：kih8
   
 产品讨论帖
 ^^^^^^^^^^  
 
-GSM/GPRS模块ATK-SIM800C产品讨论贴: http://www.openedv.com 
+SDIO-WIFI模块产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 
 
 产品图片
 --------
 
 
-GSM/GPRS模块ATK-SIM800C主图如 :numref:`pic_major_OV7725` 所示。
+ASDIO-WIFI模块正面图如 :numref:`pic_major_atk_lora` 所示。
 
-.. _pic_major_OV7725:
+.. _pic_major_atk_lora:
 
-.. figure:: media/OV7725_FIFO.png
+.. figure:: media/atk-lora-02-major.png
    :align: center
 
-   GSM/GPRS模块ATK-SIM800C
+   
+   SDIO-WIFI模块实物图正面
 
+
+SDIO-WIFI模块图如 :numref:`pic_major_atk_lora1` 所示。
+
+.. _pic_major_atk_lora1:
+
+.. figure:: media/atk-lora-02-major1.png
+   :align: center
+
+   
+   SDIO-WIFI模块实物图背面
 
 
 购买方式
@@ -54,6 +69,4 @@ GSM/GPRS模块ATK-SIM800C主图如 :numref:`pic_major_OV7725` 所示。
 
  | :ref:`公司简介` 
  | :ref:`联系方式`
-
-
 

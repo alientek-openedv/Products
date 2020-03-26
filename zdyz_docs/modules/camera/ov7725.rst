@@ -1,5 +1,5 @@
 
-WIFI模块ATK-RM04
+摄像头OV2640模块
 =============================
 
 
@@ -14,7 +14,7 @@ WIFI模块ATK-RM04
 产品讨论帖
 ^^^^^^^^^^  
 
-WIFI模块ATK-RM04产品讨论贴: http://www.openedv.com 
+摄像头OV2640模块产品讨论贴: http://www.openedv.com 
 
 产品图片
 --------
