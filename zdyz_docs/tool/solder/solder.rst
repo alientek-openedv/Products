@@ -1,29 +1,72 @@
+.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
 T100智能焊台
-=================
+============================================
 
-T100智能焊台是广州市星翼电子科技有限公司（正点原子）最新推出的一款多功能智能焊台。该焊台主要有以下特点：
- - 体积小，重量轻，便携。
- - 升温快，8秒可熔锡。
- - 使用一体式的T12烙铁头，更换方便。
- - 控温稳定，空置烙铁头稳定度±2°C。
- - 使用1.3寸OLED大屏幕，显示效果好。
- - 支持外部电池或电源适配器供电，方便户外使用。
- - 支持给外部电池充电，充电电流可调。
- - 支持休眠、待机、自动关机等功能。
- - 支持保存6组烙铁头参数，方便用户切换使用不同的烙铁头。
-   
+
+
+资料链接
+------------
+
+模块使用资料
+^^^^^^^^^^
+
+ | 百度网盘-链接： https://pan.baidu.com/s/1y6Y4u8cK1mOSeJHzi-AEKw
+ | 提取码：q23p
+  
+产品讨论帖
+^^^^^^^^^^  
+
+T100智能焊台产品讨论贴: http://www.openedv.com/thread-296324-1-1.html
+
 
 产品图片
 --------
 
-T100智能焊台主图如 :numref:`pic_major2` 所示。
 
-.. _pic_major2:
+T100智能焊台正面图如 :numref:`pic_major_atk_lora` 所示。
 
-.. figure:: media/T100.png
+.. _pic_major_atk_lora:
+
+.. figure:: media/atk-lora-02-major.png
    :align: center
 
-   正点原子T100焊台外观
+   
+   T100智能焊台实物图正面
 
+
+T100智能焊台背图如 :numref:`pic_major_atk_lora1` 所示。
+
+.. _pic_major_atk_lora1:
+
+.. figure:: media/atk-lora-02-major1.png
+   :align: center
+
+   
+   T100智能焊台实物图背面
+
+
+购买方式
+-------- 
+
+正点原子官方淘宝店：https://openedv.taobao.com 
+
+
+
+
+产品问题答疑
+------------
+
+- 阿里旺旺：https://openedv.taobao.com 上淘宝直接一对一咨询技术。  
+- 开源电子网【论坛】：http://www.openedv.com 
+- QQ群：http://www.openedv.com   点击首页“官方QQ群”即可加入最新群。 
+- 微信群：http://www.openedv.com 点击首页“微信群”即可加入最新群。
+  
+
+
+关于正点原子  
+-----------------
+
+ | :ref:`公司简介` 
+ | :ref:`联系方式`
 

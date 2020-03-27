@@ -3,10 +3,11 @@
 .. toctree::
    :maxdepth: 2
 
+   solder/index
    dap/index
    programmer/index
-   solder/index
-   wireless-dap/index
+   
+
 
 
 

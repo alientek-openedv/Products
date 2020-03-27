@@ -23,27 +23,25 @@
 产品图片
 --------
 
+- 4G DTU通信ATK-M751主图如下所示
 
-4GDTU通信模块ATK-M750正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_2640_Z:
 
-.. _pic_major_atk_lora:
+.. figure:: media/2640_Z.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   4GDTU通信模块ATK-M750实物图正面
+  4G DTU通信ATK-M751实物图正面
 
 
-4GDTU通信模块ATK-M750背图如 :numref:`pic_major_atk_lora1` 所示。
 
-.. _pic_major_atk_lora1:
+.. _pic_major_2640_B:
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
+.. figure:: media/2640_B.png
+
 
    
-   4GDTU通信模块ATK-M750实物图背面
+  4G DTU通信ATK-M751实物图背面
 
 
 购买方式

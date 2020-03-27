@@ -23,27 +23,25 @@ WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/thread-307939-1-1.h
 产品图片
 --------
 
+- 4G DTU通信ATK-M751主图如下所示
 
-WIFI模块ATK-ESP8266块正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_2640_Z:
 
-.. _pic_major_atk_lora:
+.. figure:: media/2640_Z.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   WIFI模块ATK-ESP8266实物图正面
+  4G DTU通信ATK-M751实物图正面
 
 
-WIFI模块ATK-ESP8266背图如 :numref:`pic_major_atk_lora1` 所示。
 
-.. _pic_major_atk_lora1:
+.. _pic_major_2640_B:
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
+.. figure:: media/2640_B.png
+
 
    
-   WIFI模块ATK-ESP8266实物图背面
+  4G DTU通信ATK-M751实物图背面
 
 
 购买方式

@@ -1,8 +1,8 @@
 
-ATK-1.3-TFTLCD液晶屏模块资料
+4.3寸RGBLCD电容触摸屏模块480*272
 =====================================
 
-ATK-1.3 TFTLCD是ALIENTEK推出的一款高性能1.3寸液晶显示模块。该模块分辨率高达240*240，支持16位真彩色显示，采用ST7789V2驱动，该芯片自带RAM，无需外加驱动器，单片机只需要使用SPI接口就可以轻易驱动该液晶屏幕。
+
 
 资料链接
 ------------
@@ -10,30 +10,46 @@ ATK-1.3 TFTLCD是ALIENTEK推出的一款高性能1.3寸液晶显示模块。该�
 模块使用资料
 ^^^^^^^^^^
 
-- 链接：https://pan.baidu.com/s/122h80H2B93dDTLQD_XFTHw  提取码：wik5 
+- 资料链接：https://pan.baidu.com/s/1fppniO6pHf2AzaAsG7ML6w 
+- 提取码：aiye 
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-ATK-1.3-TFTLCD液晶屏模块产品讨论贴: http://www.openedv.com   
+- 4.3寸RGBLCD电容触摸屏模块480*272产品讨论贴: http://openedv.com/thread-77927-1-1.html
+
+
 
 产品图片
 --------
 
-ATK-1.3寸TFTLCD液晶屏模块主图如 :numref:`pic_major_1_3TFTLCD` 所示。
+- 4.3寸RGBLCD电容触摸屏模块480*272主图如下所示
 
-.. _pic_major_1_3TFTLCD:
+.. _pic_major_2640_Z:
 
-.. figure:: media/1_3TFTLCD.png
-   :align: center
+.. figure:: media/2640_Z.png
 
-   ATK-1.3寸TFTLCD液晶屏模块
+
+   
+  4.3寸RGBLCD电容触摸屏模块480*272实物图正面
+
+
+
+.. _pic_major_2640_B:
+
+.. figure:: media/2640_B.png
+
+
+   
+  4.3寸RGBLCD电容触摸屏模块480*272实物图背面
+
+
 
 
 购买方式
 -------- 
 
-正点原子官方淘宝店：https://openedv.taobao.com 
+- 正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 
@@ -52,6 +68,7 @@ ATK-1.3寸TFTLCD液晶屏模块主图如 :numref:`pic_major_1_3TFTLCD` 所示。
 -----------------
 
  | :ref:`公司简介` 
- | :ref:`联系方式`   
+ | :ref:`联系方式`
+
 
 

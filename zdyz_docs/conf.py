@@ -50,7 +50,7 @@ extensions = ['sphinx.ext.imgmath',
 templates_path = ['_templates']
 
 # Numbered figure
-numfig = True
+
 
 # The suffix(es) of source filenames.
 # You can specify multiple suffix as a list of string:

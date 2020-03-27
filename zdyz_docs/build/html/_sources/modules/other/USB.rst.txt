@@ -23,27 +23,25 @@ LORA模块ATK-LORA产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 产品图片
 --------
 
+- 4G DTU通信ATK-M751主图如下所示
 
-LORA模块ATK-LORA正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_2640_Z:
 
-.. _pic_major_atk_lora:
+.. figure:: media/2640_Z.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   LORA模块ATK-LORA实物图正面
+  4G DTU通信ATK-M751实物图正面
 
 
-LORA模块ATK-LORA背图如 :numref:`pic_major_atk_lora1` 所示。
 
-.. _pic_major_atk_lora1:
+.. _pic_major_2640_B:
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
+.. figure:: media/2640_B.png
+
 
    
-   LORA模块ATK-LORA实物图背面
+  4G DTU通信ATK-M751实物图背面
 
 
 购买方式
