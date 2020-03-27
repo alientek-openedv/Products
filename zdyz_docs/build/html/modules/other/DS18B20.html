@@ -1,0 +1,331 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="zh-CN" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="zh-CN" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>GPRS DTU模块ATK-GPRS-M26 &mdash; 正点原子产品资料汇总 1.0.0 文档</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/language_data.js"></script>
+        <script src="../../_static/translations.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="索引" href="../../genindex.html" />
+    <link rel="search" title="搜索" href="../../search.html" />
+    <link rel="next" title="WIFI模块ATK-RM04" href="OLED.html" />
+    <link rel="prev" title="WIFI模块ATK-ESP8266" href="DHT11.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> 正点原子产品资料汇总
+          
+
+          
+            
+            <img src="../../_static/atklogo.png" class="logo" alt="Logo"/>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                1.0.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">正点原子开发板&amp;核心板</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../boards/stm32/index.html">正点原子STM32开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../boards/arm-linux/index.html">正点原子Linux开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../boards/fpga/index.html">正点原子FPGA开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../boards/iot/index.html">正点原子FPGA开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../boards/i.mx-rt/index.html">正点原子NXP开发板</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子模块与配件</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../camera/index.html">摄像头模块</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../iot/index.html">IOT模块</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../lcd/index.html">lcd液晶屏</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">其他模块和配件</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="ADDA.html">WIFI模块ATK-RM04</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-1218-BD.html">4G通信模块ME3630-C3B/C-MP01</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-2MD4850.html">SDIO-WIFI模块</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-301.html">2.4G通信模块NRF24L01</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-LED-RING.html">WIFI模块ATK-RM04</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-MPU6050.html">4GDTU通信模块ATK-M750</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-P9813.html">WIFI模块ATK-RM04</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-PAJ7620.html">以太网模块ENC28J60</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-RGB2VGA.html">WIFI模块ATK-RM04</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-USB-TTL.html">WIFI模块ATK-RM04</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-VL53L0X.html">4G DTU通信ATK-M751</a></li>
+<li class="toctree-l2"><a class="reference internal" href="DHT11.html">WIFI模块ATK-ESP8266</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">GPRS DTU模块ATK-GPRS-M26</a></li>
+<li class="toctree-l2"><a class="reference internal" href="OLED.html">WIFI模块ATK-RM04</a></li>
+<li class="toctree-l2"><a class="reference internal" href="PMW3901.html">GSM/GPRS模块ATK-SIM800C</a></li>
+<li class="toctree-l2"><a class="reference internal" href="USB.html">LORA模块ATK-LORA</a></li>
+<li class="toctree-l2"><a class="reference internal" href="VS1053.html">蓝牙模块ATK-HC05</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子开发工具</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/solder/index.html">智能焊台</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/dap/index.html">仿真器与调试器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/programmer/index.html">脱机烧录器</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子开源四轴</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/minifly.html">MiniFly四轴飞行器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/wukong.html">悟空四轴飞行器</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子教学书籍与视频</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyz-board-book.html">开发板教学书籍</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyz-rtos.html">RTOS实时操作系统教学书籍</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyz-gui.html">GUI图形界面教学书籍</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyz-lwip-book.html">嵌入式网络教学书籍《LWIP开发手册》系列</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子旧产品</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../old-products/index.html">正点原子旧产品</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子产品选型手册</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../select-manual/index.html">正点原子产品选型手册</a></li>
+</ul>
+<p class="caption"><span class="caption-text">常见问题</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../faq/index.html">常见问题</a></li>
+</ul>
+<p class="caption"><span class="caption-text">关于正点原子</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html">公司简介</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html#id2">联系方式</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">正点原子产品资料汇总</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../index.html">&lt;no title&gt;</a> &raquo;</li>
+        
+          <li><a href="index.html">其他模块和配件</a> &raquo;</li>
+        
+      <li>GPRS DTU模块ATK-GPRS-M26</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../_sources/modules/other/DS18B20.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="gprs-dtuatk-gprs-m26">
+<h1>GPRS DTU模块ATK-GPRS-M26<a class="headerlink" href="#gprs-dtuatk-gprs-m26" title="永久链接至标题">¶</a></h1>
+<div class="section" id="id1">
+<h2>资料链接<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h2>
+<div class="section" id="id2">
+<h3>模块使用资料<a class="headerlink" href="#id2" title="永久链接至标题">¶</a></h3>
+<blockquote>
+<div><div class="line-block">
+<div class="line">百度网盘-链接： <a class="reference external" href="https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ">https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ</a></div>
+<div class="line">提取码：kih8</div>
+</div>
+</div></blockquote>
+</div>
+<div class="section" id="id3">
+<h3>产品讨论帖<a class="headerlink" href="#id3" title="永久链接至标题">¶</a></h3>
+<p>GPRS DTU模块ATK-GPRS-M26产品讨论贴: <a class="reference external" href="http://www.openedv.com/thread-307939-1-1.html">http://www.openedv.com/thread-307939-1-1.html</a></p>
+</div>
+</div>
+<div class="section" id="id4">
+<h2>产品图片<a class="headerlink" href="#id4" title="永久链接至标题">¶</a></h2>
+<p>GPRS DTU模块ATK-GPRS-M26正面图如 <a class="reference internal" href="../../tool/solder/solder.html#pic-major-atk-lora"><span class="std std-numref">图 103</span></a> 所示。</p>
+<div class="figure align-center" id="id8">
+<span id="pic-major-atk-lora"></span><img alt="modules\other\media/atk-lora-02-major.png" src="modules\other\media/atk-lora-02-major.png" />
+<p class="caption"><span class="caption-number">图 93 </span><span class="caption-text">GPRS DTU模块ATK-GPRS-M26实物图正面</span><a class="headerlink" href="#id8" title="永久链接至图片">¶</a></p>
+</div>
+<p>GPRS DTU模块ATK-GPRS-M26背图如 <a class="reference internal" href="../../tool/solder/solder.html#pic-major-atk-lora1"><span class="std std-numref">图 104</span></a> 所示。</p>
+<div class="figure align-center" id="id9">
+<span id="pic-major-atk-lora1"></span><img alt="modules\other\media/atk-lora-02-major1.png" src="modules\other\media/atk-lora-02-major1.png" />
+<p class="caption"><span class="caption-number">图 94 </span><span class="caption-text">GPRS DTU模块ATK-GPRS-M26实物图背面</span><a class="headerlink" href="#id9" title="永久链接至图片">¶</a></p>
+</div>
+</div>
+<div class="section" id="id5">
+<h2>购买方式<a class="headerlink" href="#id5" title="永久链接至标题">¶</a></h2>
+<p>正点原子官方淘宝店：<a class="reference external" href="https://openedv.taobao.com">https://openedv.taobao.com</a></p>
+</div>
+<div class="section" id="id6">
+<h2>产品问题答疑<a class="headerlink" href="#id6" title="永久链接至标题">¶</a></h2>
+<ul class="simple">
+<li><p>阿里旺旺：<a class="reference external" href="https://openedv.taobao.com">https://openedv.taobao.com</a> 上淘宝直接一对一咨询技术。</p></li>
+<li><p>开源电子网【论坛】：<a class="reference external" href="http://www.openedv.com">http://www.openedv.com</a></p></li>
+<li><p>QQ群：<a class="reference external" href="http://www.openedv.com">http://www.openedv.com</a>   点击首页“官方QQ群”即可加入最新群。</p></li>
+<li><p>微信群：<a class="reference external" href="http://www.openedv.com">http://www.openedv.com</a> 点击首页“微信群”即可加入最新群。</p></li>
+</ul>
+</div>
+<div class="section" id="id7">
+<h2>关于正点原子<a class="headerlink" href="#id7" title="永久链接至标题">¶</a></h2>
+<blockquote>
+<div><div class="line-block">
+<div class="line"><a class="reference internal" href="../../about/about_us.html#id1"><span class="std std-ref">公司简介</span></a></div>
+<div class="line"><a class="reference internal" href="../../about/about_us.html#id2"><span class="std std-ref">联系方式</span></a></div>
+</div>
+</div></blockquote>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="OLED.html" class="btn btn-neutral float-right" title="WIFI模块ATK-RM04" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="DHT11.html" class="btn btn-neutral float-left" title="WIFI模块ATK-ESP8266" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script>
+
+  
+  
+    
+   
+
+</body>
+</html>

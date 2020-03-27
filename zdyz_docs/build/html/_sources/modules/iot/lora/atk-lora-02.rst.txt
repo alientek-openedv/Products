@@ -1,0 +1,85 @@
+.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
+
+ATK-LORA-02无线串口模块
+============================================
+
+ATK-LORA-02_V1.5(V1.5 是版本号，型号是ATK-LORA-02，下面均以ATK-LORA-02表示该产品)是ALIENTEK 推出的一款采用SMD 封装，体积小、微功率、低功耗、高性能远距离LORA 无线串口模块。模块设计是采用高效的ISM 频段射频SX1278 扩频芯片，模块的工作频率410Mhz~441Mhz，以1Mhz 频率为步进信道，共32 个信道，可通过AT 指令在线修改串口速率，发射功率，空中速率、工作模式等各种参数，并且支持固件升级功能。ATK-LORA-02 模块具有：体积小、灵敏度高、支持低功耗省电，
+
+特点包括：
+
+1、工业频段：433Mhz 免申请频段
+2、多种功率等级（最大20dBm，最大100mW）
+3、多种串口波特率、空中速率、工作模式
+4、支持空中唤醒功能，低接收功耗
+5、双512 环形FIFO
+6、频率410-441Mhz，提供32 个信道
+7、接收灵敏度达-136dBm，传输距离3000 米
+8、自动分包传输，保证数据包的完整性
+
+
+
+资料链接
+------------
+
+模块使用资料
+^^^^^^^^^^
+
+ | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
+ | 提取码：kih8
+  
+产品讨论帖
+^^^^^^^^^^  
+
+ATK-LORA-02无线串口模块产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+
+
+产品图片
+--------
+
+
+ATK-LORA-02无线串口模块正面图如 :numref:`pic_major_atk_lora` 所示。
+
+.. _pic_major_atk_lora:
+
+.. figure:: media/atk-lora-02-major.png
+   :align: center
+
+   
+   ATK-LORA-02 无线串口模块实物图正面
+
+
+ATK-LORA-02无线串口模块背图如 :numref:`pic_major_atk_lora1` 所示。
+
+.. _pic_major_atk_lora1:
+
+.. figure:: media/atk-lora-02-major1.png
+   :align: center
+
+   
+   ATK-LORA-02 无线串口模块实物图背面
+
+
+购买方式
+-------- 
+
+正点原子官方淘宝店：https://openedv.taobao.com 
+
+
+
+
+产品问题答疑
+------------
+
+- 阿里旺旺：https://openedv.taobao.com 上淘宝直接一对一咨询技术。  
+- 开源电子网【论坛】：http://www.openedv.com 
+- QQ群：http://www.openedv.com   点击首页“官方QQ群”即可加入最新群。 
+- 微信群：http://www.openedv.com 点击首页“微信群”即可加入最新群。
+  
+
+
+关于正点原子  
+-----------------
+
+ | :ref:`公司简介` 
+ | :ref:`联系方式`
+
