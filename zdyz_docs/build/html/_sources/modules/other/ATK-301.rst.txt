@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-2.4G通信模块NRF24L01
+指纹识别模块ATK-301
 ============================================
 
 
@@ -11,19 +11,19 @@
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：
+- 百度网盘-链接： https://pan.baidu.com/s/1V-SkhC12N8xA_oMvuz93_Q 
+- 提取码：uz2d
   
 产品讨论帖
 ^^^^^^^^^^  
 
-2.4G通信模块NRF24L01无线串口模块产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 指纹识别模块ATK-301模块产品讨论贴:  http://www.openedv.com/thread-305126-1-1.html
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- 指纹识别模块ATK-301主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  指纹识别模块ATK-301实物图正面
 
 
 
@@ -41,7 +41,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  指纹识别模块ATK-301实物图背面
 
 
 购买方式

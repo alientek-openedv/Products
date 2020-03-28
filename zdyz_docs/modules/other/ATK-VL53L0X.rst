@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G DTU通信ATK-M751
+激光测距模块ATK-VL53L0X
 ============================================
 
 
@@ -11,19 +11,19 @@
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/19Uo818Lv68G7GXttdODPiA 
+- 提取码：g3mz
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-4G DTU通信ATK-M751产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 激光测距模块ATK-VL53L0X产品讨论贴: http://www.openedv.com/thread-133995-1-1.html
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- 激光测距模块ATK-VL53L0X主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  激光测距模块ATK-VL53L0X实物图正面
 
 
 
@@ -41,7 +41,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  激光测距模块ATK-VL53L0X实物图背面
 
 
 购买方式

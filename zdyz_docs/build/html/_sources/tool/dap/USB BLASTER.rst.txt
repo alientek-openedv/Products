@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-LORA模块ATK-LORA
+USB BLASTER仿真器【FPGA专用】
 ============================================
 
 
@@ -11,20 +11,20 @@ LORA模块ATK-LORA
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/1S31hWbn4bglHltz9SRawHg
+- 提取码：qr1k
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-LORA模块ATK-LORA产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- USB BLASTER仿真器【FPGA专用】产品讨论贴: hhttp://www.openedv.com/thread-300513-1-1.html
 
 
 产品图片
 --------
 
 
-LORA模块ATK-LORA正面图如 :numref:`pic_major_atk_lora` 所示。
+- USB BLASTER仿真器【FPGA专用】正面图如 :numref:`pic_major_atk_lora` 所示。
 
 .. _pic_major_atk_lora:
 
@@ -32,10 +32,10 @@ LORA模块ATK-LORA正面图如 :numref:`pic_major_atk_lora` 所示。
    :align: center
 
    
-   LORA模块ATK-LORA实物图正面
+   USB BLASTER仿真器【FPGA专用】实物图正面
 
 
-LORA模块ATK-LORA背图如 :numref:`pic_major_atk_lora1` 所示。
+USB BLASTER仿真器【FPGA专用】背图如 :numref:`pic_major_atk_lora1` 所示。
 
 .. _pic_major_atk_lora1:
 
@@ -43,7 +43,7 @@ LORA模块ATK-LORA背图如 :numref:`pic_major_atk_lora1` 所示。
    :align: center
 
    
-   LORA模块ATK-LORA实物图背面
+   USB BLASTER仿真器【FPGA专用】实物图背面
 
 
 购买方式

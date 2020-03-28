@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-LORA模块ATK-LORA
+三合一USB转换器模块
 ============================================
 
 
@@ -11,19 +11,19 @@ LORA模块ATK-LORA
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/1asU6yTNw46D4k3mD6CD4tQ 
+- 提取码：czis
   
 产品讨论帖
 ^^^^^^^^^^  
 
-LORA模块ATK-LORA产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 三合一USB转换器模块产品讨论贴: http://www.openedv.com/thread-296388-1-1.html
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- 三合一USB转换器模块主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@ LORA模块ATK-LORA产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  三合一USB转换器模块实物图正面
 
 
 
@@ -41,7 +41,7 @@ LORA模块ATK-LORA产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  三合一USB转换器模块实物图背面
 
 
 购买方式

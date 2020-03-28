@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-WIFI模块ATK-RM04
+RGB转VGA模块ATK-RGB2VGA
 ============================================
 
 
@@ -11,19 +11,19 @@ WIFI模块ATK-RM04
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/1v-l9-gSgE68QLZNJqpnnyQ 
+- 提取码：y852 
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-WIFI模块ATK-RM04产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- RGB转VGA模块ATK-RGB2VGA产品讨论贴: http://www.openedv.com/thread-106622-1-1.html 
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- RGB转VGA模块ATK-RGB2VGA主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@ WIFI模块ATK-RM04产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  RGB转VGA模块ATK-RGB2VGA实物图正面
 
 
 
@@ -41,7 +41,7 @@ WIFI模块ATK-RM04产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  RGB转VGA模块ATK-RGB2VGA实物图背面
 
 
 购买方式

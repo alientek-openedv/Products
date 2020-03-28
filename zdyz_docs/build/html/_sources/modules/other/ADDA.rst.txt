@@ -11,20 +11,21 @@
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/1L1WpyqTQVzgLhPspl0NI-Q 
+- 提取码：tzpd 
+
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-高速AD/DA模块产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 高速AD/DA模块产品讨论贴: http://www.openedv.com/thread-288410-1-1.html
 
 
 产品图片
 --------
 
 
-高速AD/DA模块正面图如 :numref:`pic_major_atk_lora` 所示。
+- 高速AD/DA模块正面图如 :numref:`pic_major_atk_lora` 所示。
 
 .. _pic_major_atk_lora:
 

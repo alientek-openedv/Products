@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-蓝牙模块ATK-HC05
+MP3音乐模块VS1053
 ============================================
 
 
@@ -11,19 +11,19 @@
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/1fOJDHIHHB5rc74z6Tka4oA 
+- 提取码：3rb5
   
 产品讨论帖
 ^^^^^^^^^^  
 
-蓝牙模块ATK-HC05产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- MP3音乐模块VS1053产品讨论贴: http://www.openedv.com/posts/list/3195.htm
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- MP3音乐模块VS1053主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  MP3音乐模块VS1053实物图正面
 
 
 
@@ -41,7 +41,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  MP3音乐模块VS1053实物图背面
 
 
 购买方式

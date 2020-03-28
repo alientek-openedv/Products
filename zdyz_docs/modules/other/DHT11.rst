@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-WIFI模块ATK-ESP8266
+温湿度传感器DHT11
 ============================================
 
 
@@ -11,19 +11,19 @@ WIFI模块ATK-ESP8266
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/1EPvHj5ZUHRUZ4Ny8WR9N1Q 
+- 提取码：0fon 
   
 产品讨论帖
 ^^^^^^^^^^  
 
-WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 温湿度传感器DHT11产品讨论贴: http://www.openedv.com/posts/list/58199.htm
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- 温湿度传感器DHT11主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@ WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/thread-307939-1-1.h
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  温湿度传感器DHT11实物图正面
 
 
 
@@ -41,7 +41,7 @@ WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/thread-307939-1-1.h
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  温湿度传感器DHT11实物图背面
 
 
 购买方式

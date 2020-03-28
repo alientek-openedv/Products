@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4GDTU通信模块ATK-M750
+六轴传感器模块ATK-MPU6050
 ============================================
 
 
@@ -11,19 +11,19 @@
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/13FizjFehqjq8bfDVIobD7w 
+- 提取码：dgsj
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-4GDTU通信模块ATK-M750产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 六轴传感器模块ATK-MPU6050产品讨论贴: http://www.openedv.com/posts/list/54036.htm
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- 六轴传感器模块ATK-MPU6050主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  六轴传感器模块ATK-MPU6050实物图正面
 
 
 
@@ -41,7 +41,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  六轴传感器模块ATK-MPU6050实物图背面
 
 
 购买方式

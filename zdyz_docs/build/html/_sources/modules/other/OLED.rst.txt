@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-WIFI模块ATK-RM04
+0.96寸OLED显示模块
 ============================================
 
 
@@ -11,19 +11,19 @@ WIFI模块ATK-RM04
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/19LOrzs3q_Ln1DPUt-d9ffw 
+- 提取码：kn6l
   
 产品讨论帖
 ^^^^^^^^^^  
 
-WIFI模块ATK-RM04产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 0.96寸OLED显示模块产品讨论贴: http://www.openedv.com/posts/list/0/3194.htm
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- 0.96寸OLED显示模块主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@ WIFI模块ATK-RM04产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  0.96寸OLED显示模块实物图正面
 
 
 
@@ -41,7 +41,7 @@ WIFI模块ATK-RM04产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  0.96寸OLED显示模块实物图背面
 
 
 

@@ -11,20 +11,20 @@ T100智能焊台
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1y6Y4u8cK1mOSeJHzi-AEKw
- | 提取码：q23p
+- 百度网盘-链接： https://pan.baidu.com/s/1y6Y4u8cK1mOSeJHzi-AEKw
+- 提取码：q23p
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-T100智能焊台产品讨论贴: http://www.openedv.com/thread-296324-1-1.html
+- T100智能焊台产品讨论贴: http://www.openedv.com/thread-296324-1-1.html
 
 
 产品图片
 --------
 
 
-T100智能焊台正面图如 :numref:`pic_major_atk_lora` 所示。
+- T100智能焊台正面图如 :numref:`pic_major_atk_lora` 所示。
 
 .. _pic_major_atk_lora:
 
@@ -43,7 +43,7 @@ T100智能焊台背图如 :numref:`pic_major_atk_lora1` 所示。
    :align: center
 
    
-   T100智能焊台实物图背面
+   DAP仿真器【高速版】ATK-HSDAP实物图背面
 
 
 购买方式

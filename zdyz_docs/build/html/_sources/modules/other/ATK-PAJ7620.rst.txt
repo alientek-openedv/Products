@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-以太网模块ENC28J60
+手势识别模块ATK-PAJ7620
 ============================================
 
 
@@ -11,19 +11,19 @@
 模块使用资料
 ^^^^^^^^^^
 
- | 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
- | 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/17JsdxX61ctjgoJbign-7Zg 
+- 提取码：v4vm
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-以太网模块ENC28J60产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- 手势识别模块ATK-PAJ7620产品讨论贴: http://www.openedv.com/thread-233690-1-1.html
 
 
 产品图片
 --------
 
-- 4G DTU通信ATK-M751主图如下所示
+- 手势识别模块ATK-PAJ7620主图如下所示
 
 .. _pic_major_2640_Z:
 
@@ -31,7 +31,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图正面
+  手势识别模块ATK-PAJ7620实物图正面
 
 
 
@@ -41,7 +41,7 @@
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  手势识别模块ATK-PAJ7620实物图背面
 
 
 购买方式
