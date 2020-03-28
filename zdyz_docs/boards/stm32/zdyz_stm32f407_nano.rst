@@ -34,7 +34,7 @@ stm32f407 nano开发板
 ^^^^^^^^^^^^^^^^^
 - 视频网盘经常失效，请移步在线观看平台：
 
-1. ``原子哥在线教学平台`` 免费观看: https://www.yuanzige.com
+1. 原子哥在线教学平台免费观看: https://www.yuanzige.com
 #. B站哔哩哔哩：https://space.bilibili.com/394620890
 #. 腾讯课堂：https://ke.qq.com/course/278479
 
@@ -48,15 +48,24 @@ stm32f407 nano开发板
 产品图片
 --------
 
-- stm32f103精英开发板主图如下所示
+- stm32f407 nano开发板主图如下所示
 
-.. _pic_major_5640_Z:
+.. _pic_major_stm32f407_nano:
 
-.. figure:: media/stm32f103_jingying/jingying.png
+.. figure:: media/stm32f407_nano/stm32f407_nano.png
 
 
    
- stm32f103精英开发板主图
+ stm32f407 nano开发板主图
+
+
+.. _pic_major_stm32f407_nanob:
+
+.. figure:: media/stm32f407_nano/stm32f407_nanob.png
+
+
+   
+  stm32f407 nano开发板实物图背面
 
 
 

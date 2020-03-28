@@ -43,21 +43,31 @@ stm32f103-nano开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103精英开发板产品讨论贴: http://www.openedv.com 
+- stm32f103-nano开发板产品讨论贴: http://www.openedv.com 
 
 
 产品图片
 --------
 
-- stm32f103精英开发板主图如下所示
+- stm32f103-nano开发板主图如下所示
 
-.. _pic_major_5640_Z:
+.. _pic_major_stm32f103_nano:
 
-.. figure:: media/stm32f103_jingying/jingying.png
+.. figure:: media/stm32f103_nano/stm32f103_nano.png
 
 
    
- stm32f103精英开发板主图
+  stm32f103-nano开发板实物图正面
+
+
+
+.. _pic_major_stm32f103b_nano:
+
+.. figure:: media/stm32f103_nano/stm32f103b_nano.png
+
+
+   
+  stm32f103-nano开发板实物图背面
 
 
 

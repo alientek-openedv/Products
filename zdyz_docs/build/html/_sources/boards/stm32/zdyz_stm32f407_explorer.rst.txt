@@ -34,7 +34,7 @@ stm32f407探索者开发板
 ^^^^^^^^^^^^^^^^^
 - 视频网盘经常失效，请移步在线观看平台：
 
-1. ``原子哥在线教学平台`` 免费观看: https://www.yuanzige.com
+1. 原子哥在线教学平台免费观看: https://www.yuanzige.com
 #. B站哔哩哔哩：https://space.bilibili.com/394620890
 #. 腾讯课堂：https://ke.qq.com/course/278479
 
@@ -42,21 +42,21 @@ stm32f407探索者开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103精英开发板产品讨论贴: http://www.openedv.com 
+- stm32f407探索者开发板产品讨论贴: http://www.openedv.com 
 
 
 产品图片
 --------
 
-- stm32f103精英开发板主图如下所示
+- stm32f407探索者开发板主图如下所示
 
-.. _pic_major_5640_Z:
+.. _pic_major_stm32f407_explorer:
 
-.. figure:: media/stm32f103_jingying/jingying.png
+.. figure:: media/stm32f407_explorer/stm32f407_explorer.png
 
 
    
- stm32f103精英开发板主图
+ stm32f407探索者开发板主图
 
 
 
