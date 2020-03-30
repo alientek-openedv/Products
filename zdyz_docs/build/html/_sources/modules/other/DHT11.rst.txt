@@ -25,23 +25,15 @@
 
 - 温湿度传感器DHT11主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_DH11:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/DH11.png
 
 
    
   温湿度传感器DHT11实物图正面
 
 
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  温湿度传感器DHT11实物图背面
 
 
 购买方式

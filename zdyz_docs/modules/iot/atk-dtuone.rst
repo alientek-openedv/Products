@@ -26,9 +26,9 @@
 
 - 4G DTU通信ATK-M751主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_m7510:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/m7510.png
 
 
    
@@ -36,14 +36,23 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_m751:
 
-.. figure:: media/2640_B.png
+.. figure:: media/m751.png
 
 
    
-  4G DTU通信ATK-M751实物图背面
+  4G DTU通信ATK-M751实物图左侧面
 
+
+
+.. _pic_major_m7512:
+
+.. figure:: media/m7512.png
+
+
+   
+  4G DTU通信ATK-M751实物图右侧面
 
 
 

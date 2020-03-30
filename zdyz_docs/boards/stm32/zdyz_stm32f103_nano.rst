@@ -8,26 +8,26 @@ stm32f103-nano开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1n6ORnf8uVQQR7EHAAaskPw—提取码：e6oj  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1IOtGG23jdGyLif1BUQw94Q 提取码：efel 
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1uqVc1kWU1goRb79RATh3zg—提取码：rn40   
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1mgeiLiCGmMm_otk1wQykfA 提取码：joro   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：http://pan.baidu.com/s/1i5GwEqT—提取码：无
+-  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：https://pan.baidu.com/s/1RmvKl6HGtalBAt95ZRLrKg 提取码：3gdu
 
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w—提取码：y035  
+-  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w 提取码：y035  
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g—提取码：gt0n 
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g 提取码：gt0n 
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/133A1l68GXbMAhjWdGOmX7g—提取码：无
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
    
--  配套 ``UcosIII-实时系统`` 视频链接：http://pan.baidu.com/s/1dFkbkMP—提取码：无   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1_gF3jO6kWyChuRRGIynCOg 提取码：6mge   
 
--  配套 ``STenwin-图形界面`` 视频链接：http://pan.baidu.com/s/1c29LDj6—提取码：无
+-  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1971Uekb6iAPKGYUgt_USzA 提取码：mz1t
 
--  配套 ``LWIP网络通信编程`` 视频链接：http://pan.baidu.com/s/1eSsMB3G—提取码：无
+-  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1kxCrU6myt17UrjoXNot6ng 提取码：xgo8
 
       
 
@@ -43,7 +43,7 @@ stm32f103-nano开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103-nano开发板产品讨论贴: http://www.openedv.com 
+- stm32f103-nano开发板产品讨论贴: http://www.openedv.com/thread-277075-1-1.html
 
 
 产品图片

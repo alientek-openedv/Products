@@ -26,23 +26,14 @@ GSM/GPRS模块ATK-SIM800C
 
 - GSM/GPRS模块ATK-SIM800C主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_sim800c:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/sim800c.png
 
 
    
   GSM/GPRS模块ATK-SIM800C实物图正面
 
-
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  GSM/GPRS模块ATK-SIM800C实物图背面
 
 
 

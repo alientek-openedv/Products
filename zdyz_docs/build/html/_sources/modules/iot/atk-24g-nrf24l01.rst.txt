@@ -26,24 +26,13 @@
 
 - 2.4G通信模块NRF24L01主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_2401:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/2401.png
 
 
    
   2.4G通信模块NRF24L01实物图正面
-
-
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  2.4G通信模块NRF24L01实物图背面
-
 
 
 

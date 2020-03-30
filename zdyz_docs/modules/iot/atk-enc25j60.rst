@@ -26,9 +26,9 @@
 
 - 以太网模块ENC28J60主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_yitaiwang:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/yitaiwang.png
 
 
    
@@ -36,9 +36,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_yitaiwang01:
 
-.. figure:: media/2640_B.png
+.. figure:: media/yitaiwang01.png
 
 
    

@@ -24,23 +24,15 @@ LED灯环ATK-LED-RING
 
 - LED灯环ATK-LED-RING主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_ring:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/ring.png
 
 
    
   LED灯环ATK-LED-RING实物图正面
 
 
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  LED灯环ATK-LED-RING实物图背面
 
 
 购买方式

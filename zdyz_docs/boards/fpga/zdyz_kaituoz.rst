@@ -7,20 +7,20 @@ FPGA开拓者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1L3XLJWVBeBUkzfsiwViFYg   提取码 ：q0uc  
+- ``资料盘`` 独立文件夹链接：    提取码：q0uc  
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1uqVc1kWU1goRb79RATh3zg   提取码 rn40   
+- ``资料盘`` 独立压缩包链接：    提取码：rn40   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学FPGA-开拓者之基础篇`` 视频链接： http://pan.baidu.com/s/1i5GwEqT  提取码：无
+-  配套 ``手把手教你学FPGA-开拓者之基础篇`` 视频链接：https://pan.baidu.com/s/12CY2WpUisFh1DE59tMe8qg  提取码：zzz2
 
--  配套 ``手把手教你学FPGA-开拓者之中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w  提取码：y035  
+-  配套 ``手把手教你学FPGA-开拓者之中级篇`` 视频链接：https://pan.baidu.com/s/1-D1jRFbLVQ969I6S70EUng  提取码：4fua  
 
--  配套 ``手把手教你学FPGA-开拓者之高级篇`` 视频链接： https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g  提取码：gt0n 
+-  配套 ``手把手教你学FPGA-开拓者之高级篇`` 视频链接：https://pan.baidu.com/s/1vo9OFavDegjHlrpJZa_tsQ  提取码：xivd 
    
--  配套 ``手把手教你学FPGA-开拓者之NiosII篇`` 视频链接： https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g  提取码：gt0n    
+-  配套 ``手把手教你学FPGA-开拓者之NiosII篇`` 视频链接：https://pan.baidu.com/s/1fDOMyuq-xD3Ny7Jl1kRxWw  提取码：rkgz    
       
 
 视频在线学习平台
@@ -33,18 +33,32 @@ FPGA开拓者开发板
 #. 腾讯课堂：https://ke.qq.com/course/278479
 
 
+产品讨论帖
+^^^^^^^^^^^^^^^^^
+
+- FPGA开拓者开发板产品讨论贴: http://www.openedv.com/thread-281143-1-1.html
+
+
 产品图片
 --------
 
 - FPGA开拓者开发板主图如下所示
 
-.. _pic_major_5640_Z:
+.. _pic_major_DSC_0481:
 
-.. figure:: media/stm32f103_jingying/jingying.png
+.. figure:: media/DSC_0481.png
 
 
    
- FPGA开拓者开发板主图
+ FPGA开拓者开发板正面图
+
+.. _pic_major_DSC_0483:
+
+.. figure:: media/DSC_0483.png
+
+
+   
+ FPGA开拓者开发板背面图
 
 
 

@@ -25,9 +25,9 @@
 
 - 指纹识别模块ATK-301主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_zhiwen:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/zhiwen.png
 
 
    
@@ -35,9 +35,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_zhiwen01:
 
-.. figure:: media/2640_B.png
+.. figure:: media/zhiwen01.png
 
 
    

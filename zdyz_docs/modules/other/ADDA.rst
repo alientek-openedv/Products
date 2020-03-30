@@ -25,26 +25,25 @@
 --------
 
 
-- 高速AD/DA模块正面图如 :numref:`pic_major_atk_lora` 所示。
+- 高速AD/DA模块正面图如下所示。
 
-.. _pic_major_atk_lora:
+.. _pic_major_ADDAZ:
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
+.. figure:: media/ADDAZ.png
+
 
    
-   高速AD/DA模块实物图正面
+  高速AD/DA模块实物图正面
 
 
-高速AD/DA模块背图如 :numref:`pic_major_atk_lora1` 所示。
 
-.. _pic_major_atk_lora1:
+.. _pic_major_ADDAB:
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
+.. figure:: media/ADDAB.png
+
 
    
-   高速AD/DA模块实物图背面
+  高速AD/DA模块实物图背面
 
 
 购买方式

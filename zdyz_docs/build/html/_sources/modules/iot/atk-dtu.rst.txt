@@ -26,9 +26,9 @@
 
 - 4GDTU通信模块ATK-M750主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_m750:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/m750.png
 
 
    
@@ -36,9 +36,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_m7501:
 
-.. figure:: media/2640_B.png
+.. figure:: media/m7501.png
 
 
    

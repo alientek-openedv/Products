@@ -7,26 +7,26 @@ stm32f429阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1n6ORnf8uVQQR7EHAAaskPw—提取码：e6oj  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1GhqY4HxPBbEJ8T-jBLrG_w 提取码：gfga 
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1uqVc1kWU1goRb79RATh3zg—提取码：rn40   
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1fvBMwS-0SjQnjf5l_bzLLA 提取码：l8md  
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：http://pan.baidu.com/s/1i5GwEqT—提取码：无
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1rOKffzVTM8nZjp4N_81xaw 提取码：fkdt
 
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w—提取码：y035  
+-  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1PTznn6gAaVwI59spI-zecw 提取码：49m8  
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g—提取码：gt0n 
+-  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1vvuxOke0NpyzGz_EXTvObg 提取码：b7by 
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/133A1l68GXbMAhjWdGOmX7g—提取码：无
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
    
--  配套 ``UcosIII-实时系统`` 视频链接：http://pan.baidu.com/s/1dFkbkMP—提取码：无   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1_gF3jO6kWyChuRRGIynCOg 提取码：6mge   
 
--  配套 ``STenwin-图形界面`` 视频链接：http://pan.baidu.com/s/1c29LDj6—提取码：无
+-  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1971Uekb6iAPKGYUgt_USzA 提取码：mz1t
 
--  配套 ``LWIP网络通信编程`` 视频链接：http://pan.baidu.com/s/1eSsMB3G—提取码：无
+-  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1kxCrU6myt17UrjoXNot6ng 提取码：xgo8
 
       
 
@@ -42,7 +42,7 @@ stm32f429阿波罗开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f429阿波罗开发板产品讨论贴: http://www.openedv.com 
+- stm32f429阿波罗开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html 
 
 
 产品图片

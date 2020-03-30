@@ -8,18 +8,9 @@
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1nuAAnhfXWxROYNlzf4QHpg 提取码：ihkw  
+- ``资料盘`` 独立文件夹链接：  提取码：ihkw  
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1zH4Jcs6A-NG6-nR8dcnj3A 提取码：i5xu   
-
-视频网盘链接
-^^^^^^^^^^^
-
--  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：http://pan.baidu.com/s/1i5GwEqT 提取码：无
-
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w 提取码：y035  
-
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g 提取码：gt0n 
+- ``资料盘`` 独立压缩包链接：  提取码：i5xu   
 
       
 
@@ -35,7 +26,7 @@
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- 潘多拉IoT开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- 潘多拉IoT开发板产品讨论贴: www.openedv.com/thread-284556-1-1.html
 
 
 产品图片
@@ -43,13 +34,13 @@
 
 - 潘多拉IoT开发板主图如下所示
 
-.. _pic_major_5640_Z:
+.. _pic_major_panduola:
 
-.. figure:: media/stm32f103_jingying/jingying.png
+.. figure:: media/panduola.png
 
 
    
- 潘多拉IoT开发板主图
+ 潘多拉IoT开发板正面图图
 
 
 

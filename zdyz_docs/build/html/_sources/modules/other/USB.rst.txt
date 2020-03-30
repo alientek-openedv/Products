@@ -25,23 +25,23 @@
 
 - 三合一USB转换器模块主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_usb31:
 
-.. figure:: media/2640_Z.png
-
-
-   
-  三合一USB转换器模块实物图正面
-
-
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
+.. figure:: media/usb31.png
 
 
    
-  三合一USB转换器模块实物图背面
+  三合一USB转换器模块实物图头正面
+
+
+
+.. _pic_major_usb310:
+
+.. figure:: media/usb310.png
+
+
+   
+  三合一USB转换器模块实物图尾正面
 
 
 购买方式

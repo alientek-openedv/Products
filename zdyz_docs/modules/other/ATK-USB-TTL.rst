@@ -24,23 +24,15 @@ USB-TTL串口模块ATK-USB-TTL
 
 - USB-TTL串口模块ATK-USB-TTL主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_USBTTL:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/USBTTL.png
 
 
    
   USB-TTL串口模块ATK-USB-TTL实物图正面
 
 
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  USB-TTL串口模块ATK-USB-TTL实物图背面
 
 
 购买方式

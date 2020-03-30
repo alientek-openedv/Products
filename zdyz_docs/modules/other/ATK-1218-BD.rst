@@ -25,23 +25,15 @@
 
 - 北斗GPS模块ATK-1218-BD主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_gprsbeidou:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/gprsbeidou.png
 
 
    
   北斗GPS模块ATK-1218-BD 实物图正面
 
 
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  北斗GPS模块ATK-1218-BD实物图背面
 
 
 购买方式

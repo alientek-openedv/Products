@@ -26,23 +26,13 @@ SDIO-WIFI模块
 
 - SDIO-WIFI模块主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_sdio:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/sdio.png
 
 
    
   SDIO-WIFI模块实物图正面
-
-
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  SDIO-WIFI模块实物图背面
 
 
 

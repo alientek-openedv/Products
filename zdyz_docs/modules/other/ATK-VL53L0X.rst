@@ -25,23 +25,11 @@
 
 - 激光测距模块ATK-VL53L0X主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_vd53lox:
 
-.. figure:: media/2640_Z.png
-
-
-   
-  激光测距模块ATK-VL53L0X实物图正面
+.. figure:: media/vd53lox.png
 
 
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  激光测距模块ATK-VL53L0X实物图背面
 
 
 购买方式

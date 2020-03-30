@@ -25,9 +25,9 @@
 
 - 0.96寸OLED显示模块主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_096OLEDZ:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/096OLEDZ.png
 
 
    
@@ -35,9 +35,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_096OLED:
 
-.. figure:: media/2640_B.png
+.. figure:: media/096OLED.png
 
 
    

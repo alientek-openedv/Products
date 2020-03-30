@@ -26,9 +26,9 @@ GPRS DTU模块ATK-GPRS-M26
 
 - GPRS DTU模块ATK-GPRS-M26主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_gprsm26:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/gprsm26.png
 
 
    
@@ -36,13 +36,23 @@ GPRS DTU模块ATK-GPRS-M26
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_gprsm262:
 
-.. figure:: media/2640_B.png
+.. figure:: media/gprsm262.png
 
 
    
-  GPRS DTU模块ATK-GPRS-M26实物图背面
+  GPRS DTU模块ATK-GPRS-M26实物图左侧面
+
+
+
+.. _pic_major_gprsm2601:
+
+.. figure:: media/gprsm2601.png
+
+
+   
+  GPRS DTU模块ATK-GPRS-M26实物图左侧面
 
 
 

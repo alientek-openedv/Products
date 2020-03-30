@@ -25,9 +25,9 @@
 
 - 全彩RGB-LED模块ATK-P9813主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_P8913:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/P8913.png
 
 
    
@@ -35,13 +35,6 @@
 
 
 
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  全彩RGB-LED模块ATK-P9813实物图背面
 
 
 购买方式

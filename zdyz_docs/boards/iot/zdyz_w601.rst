@@ -8,18 +8,9 @@ W601 IoT开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1nuAAnhfXWxROYNlzf4QHpg 提取码：ihkw  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1Ckju2MHL-CDfmNIWFB_OiQ 提取码：lror  
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1zH4Jcs6A-NG6-nR8dcnj3A 提取码：i5xu   
-
-视频网盘链接
-^^^^^^^^^^^
-
--  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：http://pan.baidu.com/s/1i5GwEqT 提取码：无
-
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w 提取码：y035  
-
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g 提取码：gt0n 
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1Fh5tSfIasfUhzvMn03vu2g 提取码：zvo1   
 
       
 
@@ -35,7 +26,7 @@ W601 IoT开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- W601 IoT开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- W601 IoT开发板产品讨论贴: www.openedv.com/thread-284556-1-1.html
 
 
 产品图片
@@ -43,13 +34,13 @@ W601 IoT开发板
 
 - W601 IoT开发板主图如下所示
 
-.. _pic_major_5640_Z:
+.. _pic_major_w601:
 
-.. figure:: media/stm32f103_jingying/jingying.png
+.. figure:: media/w601.png
 
 
    
- W601 IoT开发板主图
+ W601 IoT开发板正面图
 
 
 

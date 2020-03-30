@@ -25,9 +25,9 @@ MP3音乐模块VS1053
 
 - MP3音乐模块VS1053主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_MP3:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/MP3.png
 
 
    
@@ -35,13 +35,6 @@ MP3音乐模块VS1053
 
 
 
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  MP3音乐模块VS1053实物图背面
 
 
 购买方式

@@ -26,23 +26,15 @@ LORA模块ATK-LORA-01
 
 - LORA模块ATK-LORA-01主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_lora01:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/lora01.png
 
 
    
   LORA模块ATK-LORA-01实物图正面
 
 
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  LORA模块ATK-LORA-01实物图背面
 
 
 

@@ -15,20 +15,20 @@ i.MX6ULL Linux阿尔法开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/19tg5Ozs1vt-mTS1eBXIl1g   提取码 ：v0dv  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/19tg5Ozs1vt-mTS1eBXIl1g   提取码：v0dv  
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1-Obu5mQdqySWQOIDQ761Bg   提取码 sq3l   
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1-Obu5mQdqySWQOIDQ761Bg   提取码：sq3l   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1MoYsw9D6095wnPPz_bFjMg  提取码：d9lv
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/16_Zus32uork_n5SchTTqhQ  提取码：gzux
 
--  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1eikd6dndfFjpUjgQeU_wkQ  提取码：ytp2  
+-  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1qOS8FKT8ReN0SaIlVTw7jg  提取码：kywe  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1O4L7gh2uoZZmlCaRz9mM1Q  提取码：cvfa 
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1t55eKBj_ax2sdbPklYqBCg  提取码：ren3 
 
--  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1VRb9Ta9hrhusZ2DkgfdIOw 提取码：dxun
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-BGLU4PQj2U-IIRrZH_gDg 提取码：uxqm
       
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
@@ -43,7 +43,7 @@ i.MX6ULL Linux阿尔法开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- i.MX6ULL Linux阿尔法产品讨论贴:http://www.openedv.com/thread-300792-1-1.html
+- i.MX6ULL Linux阿尔法产品讨论贴: http://www.openedv.com/thread-300792-1-1.html
 
 
 产品图片
@@ -51,20 +51,28 @@ i.MX6ULL Linux阿尔法开发板
 
 - i.MX6ULL Linux阿尔法开发板主图如下所示
 
-.. _pic_major_5640_Z:
+.. _pic_major_imx6ull_board:
 
-.. figure:: media/stm32f103_jingying/jingying.png
+.. figure:: media/imx6ull/imx6ull_board.png
 
 
    
- i.MX6ULL Linux阿尔法开发板主图
+ i.MX6ULL Linux阿尔法开发板正面图
+
+.. _pic_major_imx_6ull_core:
+
+.. figure:: media/imx6ull/imx_6ull_core.png
+
+
+   
+ i.MX6ULL Linux阿尔法开发板背面图
 
 
 
 购买方式
 -------- 
 
-正点原子官方淘宝店：https://openedv.taobao.com 
+- 正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 

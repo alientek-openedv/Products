@@ -25,23 +25,15 @@
 
 - 手势识别模块ATK-PAJ7620主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_paj7620:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/paj7620.png
 
 
    
   手势识别模块ATK-PAJ7620实物图正面
 
 
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  手势识别模块ATK-PAJ7620实物图背面
 
 
 购买方式

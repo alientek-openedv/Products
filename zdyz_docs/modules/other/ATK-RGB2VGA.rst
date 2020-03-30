@@ -25,9 +25,9 @@ RGB转VGA模块ATK-RGB2VGA
 
 - RGB转VGA模块ATK-RGB2VGA主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_RGBVGA:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/RGBVGA.png
 
 
    
@@ -35,9 +35,9 @@ RGB转VGA模块ATK-RGB2VGA
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_RGBVGAB:
 
-.. figure:: media/2640_B.png
+.. figure:: media/RGBVGAB.png
 
 
    

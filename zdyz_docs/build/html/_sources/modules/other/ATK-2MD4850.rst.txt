@@ -23,9 +23,9 @@
 
 - 步进电机驱动器模块ATK-2MD4850主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_2md4850:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/2md4850.png
 
 
    
@@ -33,13 +33,6 @@
 
 
 
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  步进电机驱动器模块ATK-2MD4850实物图背面
 
 
 购买方式

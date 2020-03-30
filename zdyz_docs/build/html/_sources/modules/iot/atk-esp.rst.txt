@@ -26,9 +26,9 @@ WIFI模块ATK-ESP8266
 
 - WIFI模块ATK-ESP8266主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_826601:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/826601.png
 
 
    
@@ -36,9 +36,9 @@ WIFI模块ATK-ESP8266
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_8266:
 
-.. figure:: media/2640_B.png
+.. figure:: media/8266.png
 
 
    

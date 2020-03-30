@@ -25,9 +25,9 @@
 
 - 六轴传感器模块ATK-MPU6050主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_mpu65001:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/mpu65001.png
 
 
    
@@ -35,9 +35,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_mpu6500:
 
-.. figure:: media/2640_B.png
+.. figure:: media/mpu6500.png
 
 
    
