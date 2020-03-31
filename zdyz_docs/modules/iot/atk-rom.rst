@@ -26,9 +26,9 @@ WIFI模块ATK-RM04
 
 - WIFI模块ATK-RM04主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_rom04:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/rom04.png
 
 
    
@@ -36,9 +36,9 @@ WIFI模块ATK-RM04
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_rom04b:
 
-.. figure:: media/2640_B.png
+.. figure:: media/rom04b.png
 
 
    

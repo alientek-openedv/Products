@@ -23,27 +23,34 @@
 产品图片
 --------
 
+- 无线调试器【普速版】ATK-WLDBG主图如下所示
 
-- 无线调试器【普速版】ATK-WLDBG正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_ATKHSDAP:
 
-.. _pic_major_atk_lora:
+.. figure:: media/ATK-WLDBG.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   无线调试器【普速版】ATK-WLDBG实物图正面
+  【普速版】ATK-WLDBG实物图正面
 
 
-无线调试器【普速版】ATK-WLDBG背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_ATKHSDAPb1:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/ATK-WLDBGb.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   无线调试器【普速版】ATK-WLDBG实物图背面
+  【普速版】ATK-WLDBG实物图侧面
+
+
+.. _pic_major_ATKHSDAPb1:
+
+.. figure:: media/ATK-WLDBGbb.png
+
+
+   
+  【普速版】ATK-WLDBG实物图侧面
+
 
 
 购买方式

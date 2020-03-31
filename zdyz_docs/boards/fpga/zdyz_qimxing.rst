@@ -7,16 +7,16 @@ ZYNQ启明星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：    提取码：q0uc  
+- ``资料盘`` 独立文件夹链接： https://pan.baidu.com/s/1mCBNEaISxoosm4zOr4yP0w   提取码：cb3v  
  
-- ``资料盘`` 独立压缩包链接：    提取码：rn40   
+- ``资料盘`` 独立压缩包链接： https://pan.baidu.com/s/1VSbBsCRxGzrmuTm3ZQA-CA   提取码：0mkl   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：   提取码：无
+-  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：https://pan.baidu.com/s/1_jucrVAjwqKak2EHH_QV9g  提取码：qhy8
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接：   提取码：y035  
+-  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接： https://pan.baidu.com/s/1UbfmyIl31Ixgne7nIzr-_g  提取码：0ppc  
       
 
 视频在线学习平台

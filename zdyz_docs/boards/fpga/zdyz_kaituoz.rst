@@ -7,9 +7,9 @@ FPGA开拓者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：    提取码：q0uc  
+- ``资料盘`` 资料链接：https://pan.baidu.com/s/1yYbAq3SBBnGtkne1-AC3bw  提取码：44d9  
  
-- ``资料盘`` 独立压缩包链接：    提取码：rn40   
+- ``工具盘`` 资料链接：https://pan.baidu.com/s/19No_nJzKk4MPuRVACF6k8w  提取码：70mw   
 
 视频网盘链接
 ^^^^^^^^^^^

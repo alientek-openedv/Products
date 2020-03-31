@@ -24,26 +24,25 @@ T100智能焊台
 --------
 
 
-- T100智能焊台正面图如 :numref:`pic_major_atk_lora` 所示。
+- T100智能焊台主图如下所示。
 
-.. _pic_major_atk_lora:
+.. _pic_major_T100:
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
+.. figure:: media/T100.png
+
 
    
-   T100智能焊台实物图正面
+  T100智能焊台实物图正面
 
 
-T100智能焊台背图如 :numref:`pic_major_atk_lora1` 所示。
 
-.. _pic_major_atk_lora1:
+.. _pic_major_T100b:
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
+.. figure:: media/T100b.png
+
 
    
-   DAP仿真器【高速版】ATK-HSDAP实物图背面
+  T100智能焊台实物图背面
 
 
 购买方式

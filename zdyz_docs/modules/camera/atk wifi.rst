@@ -24,11 +24,13 @@
 
 - 摄像头ATK-WIFI航拍WIFI模块主图如下所示
 
+.. _pic_major_atkwifi:
 
-.. figure:: media/OV640_TWO.png
+.. figure:: media/atkwifi.png
 
 
-- 摄像头ATK-WIFI航拍WIFI模块
+   
+  摄像头ATK-WIFI航拍WIFI模块实物图正面
 
 
 

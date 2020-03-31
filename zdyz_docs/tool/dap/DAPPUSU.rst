@@ -19,31 +19,27 @@ DAP仿真器【普速版】ATK-HSDAP
 
 - DAP仿真器【普速版】产品讨论贴: http://www.openedv.com/thread-293523-1-1.html
 
-
 产品图片
 --------
 
+- DAP仿真器【普速版】ATK-HSDAP主图如下所示
 
-- DAP仿真器【普速版】正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_ATKHSDAP:
 
-.. _pic_major_atk_lora:
+.. figure:: media/DAPbb.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   LORA模块ATK-LORA实物图正面
+  DAP仿真器【普速版】ATK-HSDAP实物图正面
 
 
-LORA模块ATK-LORA背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_ATKHSDAPb1:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/DAP.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   LORA模块ATK-LORA实物图背面
+  DAP仿真器【普速版】ATK-HSDAP实物图正面
 
 
 购买方式

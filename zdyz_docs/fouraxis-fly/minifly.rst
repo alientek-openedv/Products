@@ -31,26 +31,24 @@ MiniFly四轴飞行器
 --------
 
 
-MiniFly四轴飞行器正面图如 :numref:`pic_major_atk_lora` 所示。
+- MiniFly四轴飞行器主图如下所示
 
-.. _pic_major_atk_lora:
+.. _pic_major_minifly:
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
+.. figure:: media/minifly.png
+
 
    
-   MiniFly四轴飞行器
+  MiniFly四轴飞行器实物图
 
 
-MiniFly四轴飞行器背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_sizouyk:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/sizouyk.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   MiniFly四轴飞行器实物图背面
+  ATK-Remoter四轴遥控器实物图
 
 
 购买方式

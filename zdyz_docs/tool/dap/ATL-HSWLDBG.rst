@@ -23,27 +23,36 @@
 产品图片
 --------
 
+- 无线调试器【高速版】ATL-HSWLDBG主图如下所示
 
-- 无线调试器【高速版】ATL-HSWLDBG正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_ATKHSDAP:
 
-.. _pic_major_atk_lora:
+.. figure:: media/ATL-HSWLDBG.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   无线调试器【高速版】ATL-HSWLDBG实物图正面
+  【高速版】ATL-HSWLDBG实物图正面
 
 
-无线调试器【高速版】ATL-HSWLDBG背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_ATKHSDAPb1:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/ATL-HSWLDBGb.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   无线调试器【高速版】ATL-HSWLDBG实物图背面
+  【高速版】ATL-HSWLDBG实物图侧面
+
+
+
+  .. _pic_major_ATKHSDAPb1:
+
+.. figure:: media/ATL-HSWLDBGbb.png
+
+
+   
+  【高速版】ATL-HSWLDBG实物图侧面
+
+
 
 
 购买方式

@@ -32,7 +32,7 @@ LORA模块ATK-LORA-02
 
 
    
-  LORA模块ATK-LORA-02实物图正面
+  ATK-LORA-02实物图正面
 
 
 

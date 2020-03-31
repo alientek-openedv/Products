@@ -24,26 +24,32 @@ P100脱机烧录器
 --------
 
 
-- P100脱机烧录器正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_P1000:
 
-.. _pic_major_atk_lora:
+.. figure:: media/P1000.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   P100脱机烧录器实物图正面
+  P100脱机烧录器实物图正面
 
 
-P100脱机烧录器背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_P100b0:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/P100b0.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   P100脱机烧录器实物图背面
+  P100脱机烧录器实物图侧面
+
+
+
+  .. _pic_major_P100vv0:
+
+.. figure:: media/P100vv0.png
+
+
+   
+  P100脱机烧录器实物图侧面
 
 
 购买方式

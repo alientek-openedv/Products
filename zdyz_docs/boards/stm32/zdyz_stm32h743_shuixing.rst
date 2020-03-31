@@ -7,9 +7,9 @@ stm32h743水星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接： 提取码：e6oj  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1ldxJinLS9nSsOZXULWOWaw 提取码：ho1f  
  
-- ``资料盘`` 独立压缩包链接： 提取码：rn40   
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1M5YQNGRAKT0CKzjA-pRS1Q 提取码：e7n6   
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -56,7 +56,7 @@ stm32h743水星开发板
 
 
    
- stm32h743水星开发板主图
+ stm32h743水星开发板实物图正面
 
 
 

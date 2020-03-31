@@ -24,26 +24,24 @@ Mini-Pro脱机烧录器
 --------
 
 
-- Mini-Pro脱机烧录器正面图如 :numref:`pic_major_atk_lora` 所示。
+- Mini-Pro脱机烧录器主图如下所示
 
-.. _pic_major_atk_lora:
+.. _pic_major_ATKHSDAP:
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
+.. figure:: media/Mini-pro.png
+
 
    
-   Mini-Pro脱机烧录器实物图正面
+  Mini-Pro脱机烧录器实物图正面
 
 
-Mini-Pro脱机烧录器背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_ATKHSDAPb:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/Mini-probbnn.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   Mini-Pro脱机烧录器实物图背面
+  Mini-Pro脱机烧录器实物图正面
 
 
 购买方式

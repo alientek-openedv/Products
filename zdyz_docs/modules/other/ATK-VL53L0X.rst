@@ -30,7 +30,8 @@
 .. figure:: media/vd53lox.png
 
 
-
+   
+  激光测距模块ATK-VL53L0X实物图正面
 
 购买方式
 -------- 

@@ -26,23 +26,13 @@
 
 - 蓝牙模块ATK-HC05主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_lanya:
 
-.. figure:: media/2640_Z.png
-
-
-   
-  蓝牙模块ATK-HC05实物图正面
-
-
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
+.. figure:: media/lanya.png
 
 
    
-  蓝牙模块ATK-HC05实物图背面
+  蓝牙模块ATK-HC05实物图
 
 
 

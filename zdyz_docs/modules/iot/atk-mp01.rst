@@ -26,23 +26,23 @@
 
 - 4G通信模块ME3630-C3B/C-MP01主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_DSC_0396:
 
-.. figure:: media/2640_Z.png
-
-
-   
-  4G通信模块ME3630-C3B/C-MP01实物图正面
-
-
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
+.. figure:: media/DSC_0396.png
 
 
    
-  4G通信模块ME3630-C3B/C-MP01实物图背面
+  ME3630-C3B/C-MP01实物图正面
+
+
+
+.. _pic_major_DSC_0397:
+
+.. figure:: media/DSC_0397.png
+
+
+   
+  ME3630-C3B/C-MP01实物图背面
 
 
 

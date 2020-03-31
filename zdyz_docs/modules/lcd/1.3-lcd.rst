@@ -25,9 +25,9 @@
 
 - 1.3寸TFTLCD液晶屏模块240*240主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_1_3TFTLCD:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/1_3TFTLCD.png
 
 
    
@@ -35,9 +35,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_1_3TFTLCDb:
 
-.. figure:: media/2640_B.png
+.. figure:: media/1_3TFTLCDb.png
 
 
    

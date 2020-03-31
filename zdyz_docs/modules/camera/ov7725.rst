@@ -30,7 +30,17 @@
 
 
    
-  摄像头OV7725不带FIFO模块实物图正面
+  OV7725不带FIFO模块实物图正面
+
+
+.. _pic_major_7725_fo22:
+
+.. figure:: media/7725_fo22.png
+
+
+   
+  OV7725不带FIFO模块实物背面
+
 
 
 

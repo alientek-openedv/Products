@@ -6,9 +6,9 @@ stm32f429水星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接： 提取码：e6oj  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1Suh8s34IZhFJPGJSbuxEPg 提取码：3371
  
-- ``资料盘`` 独立压缩包链接： 提取码：rn40   
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1etD8QE3Q9RFjKphr30-WMA 提取码：jf2m   
 
 视频网盘链接
 ^^^^^^^^^^^

@@ -7,9 +7,9 @@ stm32f407 nano开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1n6ORnf8uVQQR7EHAAaskPw—提取码：e6oj  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1uv4uVxANsePrm6PHgqGGGg  提取码：gnfs  
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1uqVc1kWU1goRb79RATh3zg—提取码：rn40   
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1uZf3-AwvJhAOrKHamx4Nag  提取码：o4ew   
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -56,7 +56,7 @@ stm32f407 nano开发板
 
 
    
- stm32f407 nano开发板主图
+ stm32f407 nano开发板实物图正面
 
 
 .. _pic_major_stm32f407_nanob:

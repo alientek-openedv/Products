@@ -23,27 +23,17 @@ ST-LINKV2仿真器
 产品图片
 --------
 
+- ST-LINKV2仿真器主图如下所示
 
-- ST-LINKV2仿真器正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_ATKHSDAP:
 
-.. _pic_major_atk_lora:
+.. figure:: media/ST-LINKV2.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   ST-LINKV2仿真器实物图正面
+ ST-LINKV2仿真器实物图正面
 
 
-ST-LINKV2仿真器背图如 :numref:`pic_major_atk_lora1` 所示。
-
-.. _pic_major_atk_lora1:
-
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
-
-   
-   ST-LINKV2仿真器实物图背面
 
 
 购买方式

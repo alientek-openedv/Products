@@ -31,14 +31,24 @@
 产品图片
 --------
 
-悟空四轴飞行器主图如 :numref:`pic_major_wukong` 所示。
+- 悟空四轴飞行器主图如下所示
 
 .. _pic_major_wukong:
 
 .. figure:: media/wukong.png
-   :align: center
 
-   悟空四轴飞行器
+
+   
+  悟空四轴飞行器实物图
+
+
+.. _pic_major_wukong1:
+
+.. figure:: media/wukong1.png
+
+
+   
+  富斯I6X遥控器实物图
 
 
 

@@ -23,27 +23,24 @@ ZYNQ下载器ATK-PLATFORM
 产品图片
 --------
 
+- ZYNQ下载器ATK-PLATFORM主图如下所示
 
-- ZYNQ下载器ATK-PLATFORM正面图如 :numref:`pic_major_atk_lora` 所示。
+.. _pic_major_ATKPLATFORM:
 
-.. _pic_major_atk_lora:
+.. figure:: media/ATKPLATFORM.png
 
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   LZYNQ下载器ATK-PLATFORM实物图正面
+  ZYNQ下载器ATK-PLATFORM实物图正面
 
 
-ZYNQ下载器ATK-PLATFORM背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_ATKHSDAPb1:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/ATK-PLATFORMb.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   ZYNQ下载器ATK-PLATFORM实物图背面
+  ZYNQ下载器ATK-PLATFORM实物图正面
 
 
 购买方式

@@ -23,27 +23,34 @@ USB BLASTER仿真器【FPGA专用】
 产品图片
 --------
 
+.. _pic_major_BLASTER0:
 
-- USB BLASTER仿真器【FPGA专用】正面图如 :numref:`pic_major_atk_lora` 所示。
+.. figure:: media/BLASTER0.png
 
-.. _pic_major_atk_lora:
-
-.. figure:: media/atk-lora-02-major.png
-   :align: center
 
    
-   USB BLASTER仿真器【FPGA专用】实物图正面
+  USB BLASTER仿真器实物图正面
 
 
-USB BLASTER仿真器【FPGA专用】背图如 :numref:`pic_major_atk_lora1` 所示。
+.. _pic_major_BLASTERb:
 
-.. _pic_major_atk_lora1:
+.. figure:: media/BLASTERb.png
 
-.. figure:: media/atk-lora-02-major1.png
-   :align: center
 
    
-   USB BLASTER仿真器【FPGA专用】实物图背面
+  USB BLASTER仿真器实物图侧面
+
+
+
+  .. _pic_major_BLASTERbb:
+
+.. figure:: media/BLASTERbb.png
+
+
+   
+  USB BLASTER仿真器实物图侧面
+
+
 
 
 购买方式
