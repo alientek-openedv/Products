@@ -1,5 +1,5 @@
 
-3.5寸TFT LCD电阻触摸屏模块320*480
+3.5寸TFTLCD电阻触摸屏320*480
 =====================================
 
 
@@ -25,23 +25,14 @@
 
 - 3.5寸TFT LCD电阻触摸屏模块320*480主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_35tfl:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/35tfl.png
 
 
    
   3.5寸TFT LCD电阻触摸屏模块320*480实物图正面
 
-
-
-.. _pic_major_2640_B:
-
-.. figure:: media/2640_B.png
-
-
-   
-  3.5寸TFT LCD电阻触摸屏模块320*480实物图背面
 
 
 

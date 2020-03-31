@@ -1,5 +1,5 @@
 
-7寸RGB LCD电容触摸屏模块 800*480
+7寸RGBLCD电容触摸屏 800*480
 =====================================
 
 
@@ -25,9 +25,9 @@
 
 - 7寸RGB LCD电容触摸屏模块 800*480主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_7rgb11111:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/7rgb11111.png
 
 
    
@@ -35,9 +35,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_7rgbb111111:
 
-.. figure:: media/2640_B.png
+.. figure:: media/7rgbb111111.png
 
 
    
