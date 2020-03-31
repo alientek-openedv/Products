@@ -15,27 +15,27 @@ i.MX6ULL Linux阿尔法开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 文件夹包链接：https://pan.baidu.com/s/19tg5Ozs1vt-mTS1eBXIl1g   提取码 ：v0dv  
+- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/19tg5Ozs1vt-mTS1eBXIl1g   提取码：v0dv  
  
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1-Obu5mQdqySWQOIDQ761Bg   提取码 sq3l   
-- 
+- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1-Obu5mQdqySWQOIDQ761Bg   提取码：sq3l   
+
 视频网盘链接
 ^^^^^^^^^^^
 
-   -  配套 ``Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1MoYsw9D6095wnPPz_bFjMg  提取码：d9lv
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/16_Zus32uork_n5SchTTqhQ  提取码：gzux
 
-   -  配套 ``i.MX6ULL Linux裸机篇`` 链接：https://pan.baidu.com/s/1eikd6dndfFjpUjgQeU_wkQ  提取码：ytp2  
+-  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1qOS8FKT8ReN0SaIlVTw7jg  提取码：kywe  
 
-   -  配套 ``系统移植和跟文件系统构建篇`` 链接： https://pan.baidu.com/s/1O4L7gh2uoZZmlCaRz9mM1Q  提取码：cvfa 
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1t55eKBj_ax2sdbPklYqBCg  提取码：ren3 
 
-   -  配套 ``i.MX6ULL Linux驱动开发篇`` 视频链接：https://pan.baidu.com/s/1VRb9Ta9hrhusZ2DkgfdIOw 提取码：dxun
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-BGLU4PQj2U-IIRrZH_gDg 提取码：uxqm
       
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
 
-视频网盘如果失效，请移步在线观看平台：
+- 视频网盘如果失效，请移步在线观看平台：
 
-1. ``原子哥在线教学平台`` 免费观看: https://www.yuanzige.com
+1. 原子哥在线教学平台免费观看: https://www.yuanzige.com
 #. B站哔哩哔哩：https://space.bilibili.com/394620890
 #. 腾讯课堂：https://ke.qq.com/course/278479
    
@@ -43,37 +43,36 @@ i.MX6ULL Linux阿尔法开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-i.MX6ULL Linux阿尔法产品讨论贴: http://www.openedv.com 
+- i.MX6ULL Linux阿尔法产品讨论贴: http://www.openedv.com/thread-300792-1-1.html
 
 
 产品图片
 --------
 
-i.MX6ULL阿尔法开发板主图如 :numref:`pic_major_imx6ull` 所示。
+- i.MX6ULL Linux阿尔法开发板主图如下所示
 
-.. _pic_major_imx6ull:
+.. _pic_major_imx6ull_board:
 
-.. figure:: media/imx6ull/imx_6ull_board.png
-   :align: center
-
-   i.MX6ULL Linux阿尔法开发板
+.. figure:: media/imx6ull/imx6ull_board.png
 
 
-i.MX 6ULL阿尔法核心板如 :numref:`pic_imx6ullcore` 所示。
+   
+ i.MX6ULL Linux阿尔法开发板正面图
 
-.. _pic_imx6ullcore:
+.. _pic_major_imx_6ull_core:
 
 .. figure:: media/imx6ull/imx_6ull_core.png
-   :align: center
 
-   i.MX6ULL Linux阿尔法核心板
+
+   
+ i.MX6ULL Linux阿尔法开发板背面图
 
 
 
 购买方式
 -------- 
 
-正点原子官方淘宝店：https://openedv.taobao.com 
+- 正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 

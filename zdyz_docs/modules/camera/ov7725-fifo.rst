@@ -1,6 +1,7 @@
 
 摄像头OV7725带FIFO模块
-====================================
+=============================
+
 
 资料链接
 ------------
@@ -8,33 +9,36 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 链接：提取码：
+- 资料链接：https://pan.baidu.com/s/1lo6yXviSfJKKR8xg_1__mg
+- 提取码：slwd
   
 产品讨论帖
 ^^^^^^^^^^  
 
-摄像头OV7725带FIFO模块产品讨论贴: http://www.openedv.com 
+- 摄像头OV7725带FIFO模块产品讨论贴: http://www.openedv.com/thread-232431-1-1.html
+
 
 
 产品图片
 --------
 
+- 摄像头OV7725带FIFO模块主图如下所示
 
-摄像头OV7725带FIFO模块主图如 :numref:`pic_major_OV7725` 所示。
-
-.. _pic_major_OV7725:
+.. _pic_major_OV7725_FIFO:
 
 .. figure:: media/OV7725_FIFO.png
-   :align: center
 
-   摄像头OV7725带FIFO模块
+
+   
+  摄像头OV7725带FIFO模块实物图正面
+
 
 
 
 购买方式
 -------- 
 
-正点原子官方淘宝店：https://openedv.taobao.com 
+- 正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 

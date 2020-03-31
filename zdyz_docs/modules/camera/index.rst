@@ -9,11 +9,16 @@
 
    ov2640
 
-   ov5640
-
    ov7725-fifo
 
+   ov7725
 
+   atk wifi
+
+   ov5640
+
+   ov5640-two
+   
 
 
 

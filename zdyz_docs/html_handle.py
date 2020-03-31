@@ -32,6 +32,8 @@ examples = []
 
 git_hub_url = ["https://github.com/alientek-openedv/Products/tree/master/zdyz_docs/"]
 
+git_hub_nam = [r' Edit on Zdyz/Products']
+
 
 #排除在外的文件夹
 examples_except = ["build"]
@@ -151,7 +153,9 @@ def getallfilesofwalk_git_url(dir):
 
                       del li['rel']
 
-                      li.string =  r' Edit on Products/Docs'
+                      li.string =  git_hub_nam[0]
+
+
 
                       print(li) 
 
