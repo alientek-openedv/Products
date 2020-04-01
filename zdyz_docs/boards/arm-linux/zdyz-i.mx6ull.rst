@@ -4,7 +4,6 @@ i.MX6ULL Linux阿尔法开发板
 
 开发板介绍
 ----------
-- ``开发板资料介绍视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/av68994676  
 
 - ``开发板资料介绍视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/av68994676  
 
@@ -25,7 +24,7 @@ i.MX6ULL Linux阿尔法开发板
 
 -  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1qOS8FKT8ReN0SaIlVTw7jg  提取码：kywe  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1w1AuyEVaBLguK22a5h43Sw  提取码：qbdf
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1F9K9pwmUA9V2hf77dapAQw  提取码：uh5z
 
 -  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-BGLU4PQj2U-IIRrZH_gDg 提取码：uxqm
       

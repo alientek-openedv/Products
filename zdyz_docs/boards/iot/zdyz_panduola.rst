@@ -22,7 +22,8 @@
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- 潘多拉IoT开发板产品讨论贴: http://www.openedv.com/thread-284556-1-1.html
+- 潘多拉IoT开发板产品讨论贴: http://www.openedv.com/thread-284556-1-1.html
+
 
 
 产品图片

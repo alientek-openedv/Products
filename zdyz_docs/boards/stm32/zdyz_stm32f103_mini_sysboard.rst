@@ -40,7 +40,7 @@ stm32f103最小系统板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103最小系统板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308968&page=1&extra=#pid1068410
+- stm32f103最小系统板产品讨论贴: http://www.openedv.com/thread-308968-1-1.html
 
 
 产品图片

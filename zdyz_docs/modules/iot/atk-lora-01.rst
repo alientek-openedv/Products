@@ -17,7 +17,7 @@ LORA模块ATK-LORA-01
 产品讨论帖
 ^^^^^^^^^^
 
-- LORA模块ATK-LORA-01产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=309019&extra=
+- LORA模块ATK-LORA-01产品讨论贴: http://www.openedv.com/thread-309019-1-1.html
 
 
 

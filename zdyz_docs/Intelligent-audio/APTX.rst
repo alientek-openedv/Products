@@ -15,7 +15,7 @@
 产品讨论帖
 ^^^^^^^^^^  
 
--贝斯蓝牙音频接收器APTX相关的讨论贴: http://www.openedv.com/posts/list/0/63879.htm
+-贝斯蓝牙音频接收器APTX相关的讨论贴: http://www.openedv.com/thread-309125-1-1.html
 
 
 产品图片
