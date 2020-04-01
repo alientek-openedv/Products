@@ -5,7 +5,7 @@ IOT模块
 ============================================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 0
 
 
    atk-lora-01
@@ -30,7 +30,7 @@ IOT模块
 
    atk-gsm
 
-   atk-sdid-wifi
+   atk-sdio-wifi
 
    bluetooth
 
