@@ -7,7 +7,7 @@ stm32f407探索者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1VIbzotPBBNsoStMRPt3fOg 提取码：qdgp 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/10_eBfG4C9lPH_avhPPOoDQ  提取码：6bm6
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -40,7 +40,7 @@ stm32f407探索者开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f407探索者开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- stm32f407探索者开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308949&page=1&extra=#pid1068364
 
 
 产品图片

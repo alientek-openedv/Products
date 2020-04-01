@@ -69,7 +69,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'正点原子产品资料汇总'
+project = u'正点原子资料下载中心'
 copyright = u'2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/'
 author = u'正点原子-alientek'
 

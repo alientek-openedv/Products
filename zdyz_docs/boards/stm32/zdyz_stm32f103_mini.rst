@@ -7,9 +7,9 @@ stm32f103-mini开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1AZ_uz6PFFg1xJMzVvCBLhQ 提取码：2uq8
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/15LkJXBUx4UZLiWt1WYZsrw  提取码：qgzg
 
-视视频网盘链接
+视频网盘链接
 ^^^^^^^^^^^
 
 -  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：https://pan.baidu.com/s/1RmvKl6HGtalBAt95ZRLrKg 提取码：3gdu
@@ -40,7 +40,7 @@ stm32f103-mini开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103-mini开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- stm32f103-mini开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308948&page=1&extra=#pid1068355
 
 
 产品图片

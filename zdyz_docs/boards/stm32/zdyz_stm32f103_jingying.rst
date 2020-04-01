@@ -42,7 +42,7 @@ stm32f103精英开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103精英开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- stm32f103精英开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308946&page=1&extra=#pid1068350
 
 
 产品图片

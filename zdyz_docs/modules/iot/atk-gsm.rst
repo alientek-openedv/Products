@@ -17,7 +17,7 @@ GSM/GPRS模块ATK-SIM800C
 产品讨论帖
 ^^^^^^^^^^
 
-- GSM/GPRS模块ATK-SIM800C产品讨论贴: http://openedv.com/thread-74739-1-1.html
+- GSM/GPRS模块ATK-SIM800C产品讨论贴: http://www.openedv.com/thread-74739-1-1.html
 
 
 

@@ -40,7 +40,7 @@ stm32f103最小系统板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103最小系统板产品讨论贴: http://www.openedv.com/thread-301573-1-1.html
+- stm32f103最小系统板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308968&page=1&extra=#pid1068410
 
 
 产品图片
@@ -48,18 +48,18 @@ stm32f103最小系统板
 
 - stm32f103最小系统板主图如下所示
 
-.. _pic_major_F103_407:
+.. _pic_major_103z:
 
-.. figure:: media/stm32f103_mini_sysboard/F103_407.png
+.. figure:: media/stm32f103_mini/103z.png
 
 
    
  stm32f103最小系统板实物图正面
 
 
-.. _pic_major_F103b_407:
+.. _pic_major_103zc:
 
-.. figure:: media/stm32f103_mini_sysboard/F103b_407.png
+.. figure:: media/stm32f103_mini/103zc.png
 
 
    

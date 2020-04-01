@@ -17,7 +17,7 @@ ST-LINKV2仿真器
 产品讨论帖
 ^^^^^^^^^^
 
-- ST-LINKV2仿真器产品讨论贴: http://openedv.com/posts/list/62552.htm
+- ST-LINKV2仿真器产品讨论贴: http://www.openedv.com/posts/list/62552.htm
 
 
 产品图片

@@ -17,7 +17,7 @@
 产品讨论帖
 ^^^^^^^^^^
 
-- 4GDTU通信模块ATK-M750产品讨论贴: http://www.openedv.com/thread-301504-1-1.html
+- 4GDTU通信模块ATK-M750产品讨论贴: http://www.openedv.com/thread-308544-1-1.html
 
 
 

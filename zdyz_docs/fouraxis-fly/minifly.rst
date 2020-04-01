@@ -24,7 +24,7 @@ MiniFly四轴飞行器
 产品讨论帖
 ^^^^^^^^^^  
 
-- MiniFly四轴飞行器产品讨论贴: http://www.openedv.com/thread-307939-1-1.html
+- MiniFly四轴飞行器产品讨论贴: http://www.openedv.com/thread-105197-1-1.html
 
 
 产品图片

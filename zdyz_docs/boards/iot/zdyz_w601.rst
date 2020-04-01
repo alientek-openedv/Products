@@ -23,7 +23,7 @@ W601 IoT开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- W601 IoT开发板产品讨论贴: http://www.openedv.com/thread-284556-1-1.html
+- W601 IoT开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308978&page=1&extra=#pid1068434
 
 
 产品图片

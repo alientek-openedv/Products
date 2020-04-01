@@ -40,7 +40,7 @@ stm32h743阿波罗开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32h743阿波罗开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- stm32h743阿波罗开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308956&page=1&extra=#pid1068380
 
 
 产品图片

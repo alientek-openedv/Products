@@ -9,5 +9,7 @@
    
    zdyz-i.mx6ull
 
+   zdyz-i.mx6ullmini
+
 
 
