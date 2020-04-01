@@ -8,7 +8,7 @@
 《精通STM32F4》系列教程及代码适用于正点原子STM32开发板，可根据需要选择下载。
 
 
-- 链接：https://pan.baidu.com/s/1YcTK-eR7khpS3l06kuSIyw 提取码：dbz1
+- 链接：https://pan.baidu.com/s/1JVD05aAK77pFm9gHrWAb0w 提取码：1dt2
   
 
 视频网盘链接
@@ -18,7 +18,7 @@
 
 -  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1aGWcFWs55Z332KarzwMClA 提取码：6fv4
 
--  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1WZ8x4lp7Jst88K45dd8P-A 提取码：v82d 
+-  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1RHOoD5bh0cT8ZISeetNGfA 提取码：5cpc
   
 
 在线教学视频链接
