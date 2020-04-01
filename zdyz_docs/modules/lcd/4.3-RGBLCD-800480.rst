@@ -1,5 +1,5 @@
 
-4.3寸RGBLCD电容触摸屏模块800*480
+4.3寸RGBLCD电容触摸屏800*480
 =====================================
 
 
@@ -25,9 +25,9 @@
 
 - 4.3寸RGBLCD电容触摸屏模块800*480主图如下所示
 
-.. _pic_major_2640_Z:
+.. _pic_major_43rgb111:
 
-.. figure:: media/2640_Z.png
+.. figure:: media/43rgb111.png
 
 
    
@@ -35,9 +35,9 @@
 
 
 
-.. _pic_major_2640_B:
+.. _pic_major_43rgbb1111:
 
-.. figure:: media/2640_B.png
+.. figure:: media/43rgbb1111.png
 
 
    

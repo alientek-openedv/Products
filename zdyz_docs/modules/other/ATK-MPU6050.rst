@@ -34,16 +34,6 @@
   六轴传感器模块ATK-MPU6050实物图正面
 
 
-
-.. _pic_major_mpu6500:
-
-.. figure:: media/mpu6500.png
-
-
-   
-  六轴传感器模块ATK-MPU6050实物图背面
-
-
 购买方式
 -------- 
 

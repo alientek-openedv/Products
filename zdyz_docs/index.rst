@@ -46,10 +46,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 正点原子旧产品
+   :caption: 正点原子旧产品已取消index
    :titlesonly: 
 
-   old-products/index  
+   old-products/
 
 
 
@@ -62,10 +62,10 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: 常见问题
+   :caption: 常见问题已取消index
    :titlesonly: 
 
-   faq/index   
+   faq/   
 
 
 .. toctree::
