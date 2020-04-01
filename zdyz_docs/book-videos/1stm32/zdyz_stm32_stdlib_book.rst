@@ -16,7 +16,7 @@
 
 -  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：https://pan.baidu.com/s/1RmvKl6HGtalBAt95ZRLrKg 提取码：3gdu
 
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1N0-crh8uGdClenKWyBVBJQ提取码：yi78  
+-  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1FpQ6NLWtA4-pSq6BZjPblQ 提取码：27hv  
 
 -  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1C0pqc8XOeOmQ8_57ymTmzA 提取码：fy6u 
   
@@ -30,19 +30,6 @@
 #. B站哔哩哔哩免费观看：https://space.bilibili.com/394620890
 #. 腾讯课堂免费观看：https://ke.qq.com/course/278479
 
-
-产品图片
---------
-
-《原子教你玩stm32》教学书籍封面主图如下所示。
-
-.. _pic_major_atkwifi:
-
-.. figure:: media/study_stm32.png
-
-
-   
-  《原子教你玩stm32》
 
 
 购买方式
