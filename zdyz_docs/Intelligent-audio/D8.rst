@@ -10,8 +10,8 @@ D8-HiFi数字功放具备XMOS/USB/DAC解码器,具有光纤/同轴 可配蓝牙�
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接： http://pan.baidu.com/s/1jHeezBo 
-- 提取码：无
+- 百度网盘-链接： https://pan.baidu.com/s/1DqX0jPimpY24pNvXmcP7iw
+- 提取码：ldkb
   
 产品讨论帖
 ^^^^^^^^^^  
@@ -30,7 +30,7 @@ D8-HiFi数字功放主图如下所示
 
 
    
-  D8-HiFi数字功放实物图正面
+  D8-HiFi数字功放实物图正面（白色款）
 
 
 .. _pic_major_D8:
@@ -39,7 +39,7 @@ D8-HiFi数字功放主图如下所示
 
 
    
-  D8-HiFi数字功放接口图
+  D8-HiFi数字功放实物图正面（黑色款）
 
 
 

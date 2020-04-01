@@ -15,7 +15,7 @@ stm32f407探索者开发板
 
 -  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1aGWcFWs55Z332KarzwMClA 提取码：6fv4
 
--  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1z6-1r1FqGFtZ3S_uLVHYCg 提取码：hluj
+-  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1-y4gFdyQFCAWl1qr9_19iQ 提取码：rq3b
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
    

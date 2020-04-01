@@ -1,5 +1,5 @@
 
-I.MX6ULL Linux Mini开发板
+Mini Linux开发板
 =======================
 
 开发板介绍
@@ -24,7 +24,7 @@ I.MX6ULL Linux Mini开发板
 
 -  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1qOS8FKT8ReN0SaIlVTw7jg  提取码：kywe  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1Uelrknli_FbrDgziD8H5-g  提取码：tkyq
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1dauc3E4LfHM3NSEtqvQUOw  提取码：hdrp
 
 -  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-BGLU4PQj2U-IIRrZH_gDg 提取码：uxqm
       
@@ -41,13 +41,13 @@ I.MX6ULL Linux Mini开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- I.MX6ULL Linux  Mini开发板产品讨论贴: http://www.openedv.com/thread-309033-1-1.html
+- Mini Linux开发板开发板产品讨论贴: http://www.openedv.com/thread-309033-1-1.html
 
 
 产品图片
 --------
 
-- I.MX6ULL Linux  Mini开发板开发板主图如下所示
+- Mini Linux开发板开发板主图如下所示
 
 .. _pic_major_imx6ull_boardmi:
 

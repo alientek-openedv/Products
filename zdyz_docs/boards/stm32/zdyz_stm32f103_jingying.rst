@@ -18,7 +18,7 @@ stm32f103精英开发板
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1nxk2rpcx9ieBcaouubqSFg 提取码：e70u  
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1XPqez6UdiCPsi4EOV0Opkg 提取码：mqpp 
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/130jaYrMUpPMrva5PYv41eA 提取码：civ4 
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
    
