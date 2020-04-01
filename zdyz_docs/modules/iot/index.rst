@@ -30,7 +30,7 @@ IOT模块
 
    atk-gsm
 
-   atk-sdid-wifi
+   atk-sdio-wifi
 
    bluetooth
 
