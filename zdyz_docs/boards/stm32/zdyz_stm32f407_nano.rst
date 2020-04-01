@@ -16,7 +16,7 @@ stm32f407 nano开发板
 
 -  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1aGWcFWs55Z332KarzwMClA 提取码：6fv4
 
--  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1WZ8x4lp7Jst88K45dd8P-A 提取码：v82d 
+-  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1KI2EZi4HYXjXSa2Nbz4RJw 提取码：0wny 
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
    
