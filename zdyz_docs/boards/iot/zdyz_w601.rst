@@ -8,9 +8,7 @@ W601 IoT开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1Ckju2MHL-CDfmNIWFB_OiQ 提取码：lror  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1Fh5tSfIasfUhzvMn03vu2g 提取码：zvo1   
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1SIY4rRshTrLkPfRsEH0OEA 提取码：668f  
 
       
 
@@ -25,7 +23,7 @@ W601 IoT开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- W601 IoT开发板产品讨论贴: www.openedv.com/thread-284556-1-1.html
+- W601 IoT开发板产品讨论贴: http://www.openedv.com/thread-284556-1-1.html
 
 
 产品图片

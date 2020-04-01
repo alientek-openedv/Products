@@ -7,9 +7,7 @@ stm32f103战舰开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/184pwrJ5FgE_sZgkCiVR7QA 提取码：apai  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1h-_qTyOCppy85mYbPKx-Aw 提取码：8fdg  
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1zE1bqayQ3IQc1Pc9DBaq2A 提取码：8wyu 
 
 视频网盘链接
 ^^^^^^^^^^^

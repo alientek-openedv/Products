@@ -9,13 +9,13 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/19zYz8DIXiomgE9oo0gdeCA
-- 提取码：cizx
+- 资料链接：https://pan.baidu.com/s/1Nr_NyjB_75qD2J3W8hs4dA
+- 提取码：m25l
   
 产品讨论帖
 ^^^^^^^^^^  
 
-- 摄像头ATK-WIFI航拍WIFI模块产品讨论贴: http://www.openedv.com/thread-301572-1-1.html
+- 摄像头ATK-WIFI航拍WIFI模块产品讨论贴: http://www.openedv.com/thread-232675-1-1.html
 
 
 

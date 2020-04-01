@@ -7,9 +7,7 @@ stm32f407探索者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1Nzq1SEtt70TRaGZE-_t5kw 提取码：10l6 
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1oKIWB_wQ3w3U8rwcBRDECA 提取码：rf71   
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1VIbzotPBBNsoStMRPt3fOg 提取码：qdgp 
 
 视频网盘链接
 ^^^^^^^^^^^

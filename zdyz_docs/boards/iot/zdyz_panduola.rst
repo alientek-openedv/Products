@@ -8,10 +8,7 @@
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：  提取码：ihkw  
- 
-- ``资料盘`` 独立压缩包链接：  提取码：i5xu   
-
+- ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/12KHb48KDyZzJq6B4FReqcA 提取码：g92c  
       
 
 视频在线学习平台
@@ -25,7 +22,7 @@
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- 潘多拉IoT开发板产品讨论贴: www.openedv.com/thread-284556-1-1.html
+- 潘多拉IoT开发板产品讨论贴: http://www.openedv.com/thread-284556-1-1.html
 
 
 产品图片

@@ -17,7 +17,7 @@ LED灯环ATK-LED-RING
 产品讨论帖
 ^^^^^^^^^^  
 
-- LED灯环ATK-LED-RING产品讨论贴: 留帖
+- LED灯环ATK-LED-RING产品讨论贴: http://www.openedv.com/thread-308399-1-1.html
 
 产品图片
 --------

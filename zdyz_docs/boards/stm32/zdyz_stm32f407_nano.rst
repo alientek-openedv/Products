@@ -7,11 +7,9 @@ stm32f407 nano开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1uv4uVxANsePrm6PHgqGGGg  提取码：gnfs  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1uZf3-AwvJhAOrKHamx4Nag  提取码：o4ew   
-
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1c3d6Hr7LDuDoI2QDGXW20w 提取码：zp41 
 视频网盘链接
+
 ^^^^^^^^^^^
 
 -  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1qXrbM9uLoEr4OjwXx55ZSA 提取码：igh0

@@ -8,9 +8,7 @@ stm32f103-nano开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1IOtGG23jdGyLif1BUQw94Q 提取码：efel 
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1mgeiLiCGmMm_otk1wQykfA 提取码：joro   
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1pq2A4cYlpTDNo4R7ubNQLQ 提取码：a431   
 
 视频网盘链接
 ^^^^^^^^^^^

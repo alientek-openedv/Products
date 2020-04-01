@@ -7,9 +7,7 @@ stm32f103最小系统板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1sNFZpvFym9ErlZ4Rb35YaA 提取码：3ecj  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1JtUnbCvBRv20T3uLkNRtVw 提取码：2whm 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1ER0QOnfBGh8Tg57o5aDl8A 提取码：5shq 
 
 视频网盘链接
 ^^^^^^^^^^^

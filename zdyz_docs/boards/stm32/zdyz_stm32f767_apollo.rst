@@ -7,9 +7,7 @@ stm32f767阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1e3VepVt1UN0hbssnq_mbRA 提取码：ksjk  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1gdv1ShRN8AwUc0UGrqhskQ 提取码：as5k  
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1gWl8fbekI64AJPleRCDo3A 提取码：plm9 
 
 视频网盘链接
 ^^^^^^^^^^^
