@@ -8,7 +8,7 @@
 《例说stm32》系列教程及代码适用于正点原子STM32开发板，可根据需要选择下载。
 
 
-- 链接：https://pan.baidu.com/s/1_umY7cSG6z-ZqheaFcVc2Q 提取码：3haa
+- 链接：https://pan.baidu.com/s/1S9NW_sHun0ssNzRbyK14kQ 提取码：ux45
   
 
 视频网盘链接
@@ -16,9 +16,9 @@
 
 -  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：https://pan.baidu.com/s/1RmvKl6HGtalBAt95ZRLrKg 提取码：3gdu
 
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w 提取码：y035  
+-  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1d14bcarjkheoi2hZx53f8w 提取码：9dpt  
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g 提取码：gt0n 
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1IGywI48WkUWhS2OWlVY_nQ 提取码：n6lw 
   
 
 在线教学视频链接
