@@ -42,7 +42,15 @@
    :caption: 正点原子教学书籍与视频
    :titlesonly: 
 
-   book-videos/index  
+   book-videos/index 
+
+.. toctree::
+   :maxdepth: 3
+   :caption: 正点原子智能音频
+   :titlesonly: 
+
+   Intelligent-audio/D8
+   Intelligent-audio/APTX       
 
 .. toctree::
    :maxdepth: 3
@@ -52,13 +60,16 @@
    old-products/
 
 
-
 .. toctree::
    :maxdepth: 2
    :caption: 正点原子产品选型手册
    :titlesonly: 
 
-   select-manual/index  
+   select-manual/index    
+
+
+
+
 
 .. toctree::
    :maxdepth: 2

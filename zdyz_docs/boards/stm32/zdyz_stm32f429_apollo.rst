@@ -7,9 +7,7 @@ stm32f429阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1GhqY4HxPBbEJ8T-jBLrG_w 提取码：gfga 
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1fvBMwS-0SjQnjf5l_bzLLA 提取码：l8md  
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1nlRUU2LZVVn5Y9QW84iQpA 提取码：iret 
 
 视频网盘链接
 ^^^^^^^^^^^

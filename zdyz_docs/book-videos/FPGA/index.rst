@@ -1,10 +1,19 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek.
 
-RTOS实时操作系统教学书籍
-==============================
+《手把手教你学FPGA》
+==================
 
 .. toctree::
    :maxdepth: 1
+
+   fpgaktz
+
+   fpga-xqd
+
+   fpga-qmx
+
+   fpga-lhz
+
+
+
    
-   zdyz-freertos-book
-   zdyz-ucos-book

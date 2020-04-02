@@ -7,7 +7,7 @@ MiniFly四轴飞行器
 试飞效果视频链接
 ------------  
 
-- 链接： http://www.openedv.com/forum.php?mod=viewthread&tid=98585
+- 视频链接： http://www.openedv.com/forum.php?mod=viewthread&tid=98585
 
 
 
@@ -17,8 +17,8 @@ MiniFly四轴飞行器
 
 产品使用资料
 ^^^^^^^^^^
-- 百度网盘-链接： https://pan.baidu.com/s/1A4DZeCXI-2lNvuW8SobCSQ
-- 提取码：kih8
+- 百度网盘-链接： https://pan.baidu.com/s/1w7LrvK6Ce_YB92Sl94p1iQ
+- 提取码：ai0u
 
 
 产品讨论帖

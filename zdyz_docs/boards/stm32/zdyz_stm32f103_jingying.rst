@@ -8,9 +8,8 @@ stm32f103精英开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1nuAAnhfXWxROYNlzf4QHpg 提取码：ihkw  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1zH4Jcs6A-NG6-nR8dcnj3A 提取码：i5xu   
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1Jamncl3cFVX-ZUJxp3P0Ew 提取码：9iau  
+  
 
 视频网盘链接
 ^^^^^^^^^^^

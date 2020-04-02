@@ -15,7 +15,7 @@
 产品讨论帖
 ^^^^^^^^^^  
 
-- 摄像头OV2640模块产品讨论贴: http://www.openedv.com/thread-281339-1-1.html
+- 开源飞控F405产品讨论贴: http://www.openedv.com/thread-281339-1-1.html
 
 
 

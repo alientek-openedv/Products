@@ -7,9 +7,9 @@ ZYNQ领航者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接： https://pan.baidu.com/s/1Hr3MjsXlzMqK3WzaJEWAlQ   提取码：diy7  
+- ``资料盘`` 资料链接： https://pan.baidu.com/s/1Hr3MjsXlzMqK3WzaJEWAlQ   提取码：diy7  
  
-- ``资料盘`` 独立压缩包链接： https://pan.baidu.com/s/19vyPxNFZkDe9qU1RZFQwyA   提取码：ojhq  
+- ``工具盘`` 资料链接： https://pan.baidu.com/s/19vyPxNFZkDe9qU1RZFQwyA   提取码：ojhq  
 
 视频网盘链接
 ^^^^^^^^^^^

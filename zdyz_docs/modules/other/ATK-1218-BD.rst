@@ -17,7 +17,7 @@
 产品讨论帖
 ^^^^^^^^^^  
 
-- 北斗GPS模块ATK-1218-BD 产品讨论贴: www.openedv.com/thread-80982-1-1.html
+- 北斗GPS模块ATK-1218-BD 产品讨论贴: http://www.openedv.com/thread-80982-1-1.html
 
 
 产品图片

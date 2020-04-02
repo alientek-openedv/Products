@@ -7,9 +7,7 @@ stm32f767水星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1mJjDUc422rcAz0MWapXuBg 提取码：303b  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1hVJulbJ3eQYLHSXZq2DRoA 提取码：h3yf  
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1fuZ0PGw5xZ728Gh5WMH8nA 提取码：1mcu 
 
 视频网盘链接
 ^^^^^^^^^^^

@@ -7,9 +7,9 @@ ZYNQ启明星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接： https://pan.baidu.com/s/1mCBNEaISxoosm4zOr4yP0w   提取码：cb3v  
+- ``资料盘`` 资料链接： https://pan.baidu.com/s/1mCBNEaISxoosm4zOr4yP0w   提取码：cb3v  
  
-- ``资料盘`` 独立压缩包链接： https://pan.baidu.com/s/1VSbBsCRxGzrmuTm3ZQA-CA   提取码：0mkl   
+- ``工具盘`` 资料链接： https://pan.baidu.com/s/1VSbBsCRxGzrmuTm3ZQA-CA   提取码：0mkl   
 
 视频网盘链接
 ^^^^^^^^^^^

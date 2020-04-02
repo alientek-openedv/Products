@@ -11,8 +11,8 @@ WIFI模块ATK-RM04
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1FNQ1FenTB8BirMFM429rBg 
-- 提取码：9qbq
+- 资料链接：https://pan.baidu.com/s/1yvHrp2DS4cE2CFms4r10-g
+- 提取码：aup6
   
 产品讨论帖
 ^^^^^^^^^^
