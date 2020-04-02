@@ -17,7 +17,7 @@ SDIO-WIFI模块
 产品讨论帖
 ^^^^^^^^^^
 
-- SDIO-WIFI模块产品讨论贴: https://pan.baidu.com/s/1rmv7qkqqlpg8jfZs_oIqdQ
+- SDIO-WIFI模块产品讨论贴: http://www.openedv.com/thread-308393-1-1.html
 
 
 

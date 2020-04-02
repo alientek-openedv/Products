@@ -17,7 +17,7 @@ WIFI模块ATK-ESP8266
 产品讨论帖
 ^^^^^^^^^^
 
-- WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/posts/list/3191.htm
+- WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/thread-308397-1-1.html
 
 
 

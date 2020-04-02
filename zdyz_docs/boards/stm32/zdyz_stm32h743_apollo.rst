@@ -7,9 +7,7 @@ stm32h743阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/1-8A-nT4M_fk0_0gAE_KO0A 提取码：sa4v
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1ufjKrR7v8Xg6E51OM6ZvUQ 提取码：f5ci  
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1aUMAqLMxtRNS-VLsGTb70g 提取码：fw2r 
 
 视频网盘链接
 ^^^^^^^^^^^

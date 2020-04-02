@@ -17,7 +17,7 @@ GPRS DTU模块ATK-GPRS-M26
 产品讨论帖
 ^^^^^^^^^^
 
-- GPRS DTU模块ATK-GPRS-M26产品讨论贴: http://www.openedv.com/thread-268559-1-1.htm
+- GPRS DTU模块ATK-GPRS-M26产品讨论贴: http://www.openedv.com/thread-268559-1-1.html
 
 
 

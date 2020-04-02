@@ -15,9 +15,7 @@ i.MX6ULL Linux阿尔法开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 独立文件夹链接：https://pan.baidu.com/s/19tg5Ozs1vt-mTS1eBXIl1g   提取码：v0dv  
- 
-- ``资料盘`` 独立压缩包链接：https://pan.baidu.com/s/1-Obu5mQdqySWQOIDQ761Bg   提取码：sq3l   
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1o1MD-Kh5TU5rytl-1yzwJg  提取码：n0eu
 
 视频网盘链接
 ^^^^^^^^^^^

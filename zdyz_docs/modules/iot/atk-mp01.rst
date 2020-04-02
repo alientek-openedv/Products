@@ -17,7 +17,7 @@
 产品讨论帖
 ^^^^^^^^^^  
 
-- 4G通信模块ME3630-C3B/C-MP01产品讨论贴: 
+- 4G通信模块ME3630-C3B/C-MP01产品讨论贴: http://www.openedv.com/thread-308394-1-1.html
 
 
 

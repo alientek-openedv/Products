@@ -3,21 +3,19 @@
 USB BLASTER仿真器【FPGA专用】
 ============================================
 
-
-
 资料链接
 ------------
 
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接： https://pan.baidu.com/s/1S31hWbn4bglHltz9SRawHg
-- 提取码：qr1k
+- 百度网盘-链接：https://pan.baidu.com/s/10IM96S5hyHJcGeKHkmtIjQ
+- 提取码：xa22
   
 产品讨论帖
 ^^^^^^^^^^
 
-- USB BLASTER仿真器【FPGA专用】产品讨论贴: hhttp://www.openedv.com/thread-300513-1-1.html
+- USB BLASTER仿真器【FPGA专用】产品讨论贴: http://www.openedv.com/thread-300513-1-1.html
 
 
 产品图片
