@@ -39,7 +39,7 @@ stm32f429水星开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f429水星开发板产品讨论贴: http://www.openedv.com/thread-285145-1-1.html
+- stm32f429水星开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308960&page=1&extra=#pid1068384
 
 
 产品图片

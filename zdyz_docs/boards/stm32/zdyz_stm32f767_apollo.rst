@@ -40,7 +40,7 @@ stm32f767阿波罗开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f767阿波罗开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- stm32f767阿波罗开发板产品讨论贴: http://www.openedv.com/thread-308954-1-1.html
 
 
 产品图片

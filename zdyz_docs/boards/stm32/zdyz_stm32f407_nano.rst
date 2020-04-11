@@ -40,7 +40,7 @@ stm32f407 nano开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f407 nano开发板产品讨论贴: http://pan.baidu.com/s/14B8AUsXRVVpmauGTzOtYsQ
+- stm32f407 nano开发板产品讨论贴: http://www.openedv.com/thread-308975-1-1.html
 
 
 产品图片

@@ -40,7 +40,7 @@ stm32h750北极星开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32h750北极星开发板产品讨论贴: http://www.openedv.com/thread-13912-1-1.html
+- stm32h750北极星开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308963&page=1&extra=#pid1068395
 
 
 产品图片
