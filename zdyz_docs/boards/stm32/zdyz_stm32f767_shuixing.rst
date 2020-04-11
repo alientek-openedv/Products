@@ -7,12 +7,12 @@ stm32f767水星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1fuZ0PGw5xZ728Gh5WMH8nA 提取码：1mcu 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/10jZuLbaq6vdx0dSYF1I05Q  提取码：dawq
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1rOKffzVTM8nZjp4N_81xaw 提取码：fkdt
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1QXpMySmbjK_lG74bvjGVfw 提取码：scpu
 
 -  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1PTznn6gAaVwI59spI-zecw 提取码：49m8  
 
