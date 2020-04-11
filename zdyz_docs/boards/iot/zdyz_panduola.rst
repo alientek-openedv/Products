@@ -8,7 +8,7 @@
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/12KHb48KDyZzJq6B4FReqcA 提取码：g92c  
+- ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/1R0A-FGksz1A-Q9Ndknn0QQ 提取码：dapm 
       
 
 视频在线学习平台
