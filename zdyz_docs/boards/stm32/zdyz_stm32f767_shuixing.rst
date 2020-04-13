@@ -12,7 +12,7 @@ stm32f767水星开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1rOKffzVTM8nZjp4N_81xaw 提取码：fkdt
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1q9WXIoEuEFLLFqf_iJfoaA 提取码：w43e
 
 -  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1PTznn6gAaVwI59spI-zecw 提取码：49m8  
 
