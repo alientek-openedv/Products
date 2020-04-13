@@ -32,7 +32,7 @@ ZYNQ启明星开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- ZYNQ启明星开发板产品讨论贴: http://www.openedv.com/thread-301506-1-1.html
+- ZYNQ启明星开发板产品讨论贴:  http://www.openedv.com/thread-301506-1-1.html
 
 
 产品图片
