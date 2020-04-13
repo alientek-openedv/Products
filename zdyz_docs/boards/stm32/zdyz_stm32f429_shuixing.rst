@@ -6,12 +6,12 @@ stm32f429水星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/13sPiXxrvRtZcAAIAXWsYxg  提取码：yk2w
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1GfDWB-8atvgCPdkwIORwZw 提取码：gq88 
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1rOKffzVTM8nZjp4N_81xaw 提取码：fkdt
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1q_B5Zx5hW44dZc0YHJt07Q 提取码：dykt
 
 -  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1PTznn6gAaVwI59spI-zecw 提取码：49m8  
 
@@ -39,7 +39,7 @@ stm32f429水星开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f429水星开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308960&page=1&extra=#pid1068384
+- stm32f429水星开发板产品讨论贴: http://www.openedv.com/thread-308960-1-1.html
 
 
 产品图片

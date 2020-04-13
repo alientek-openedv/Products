@@ -40,7 +40,7 @@ stm32f103战舰开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103战舰开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308933&extra=
+- stm32f103战舰开发板产品讨论贴: http://www.openedv.com/thread-308933-1-1.html
 
 
 产品图片
