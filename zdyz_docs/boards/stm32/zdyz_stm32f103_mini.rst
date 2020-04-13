@@ -40,7 +40,7 @@ stm32f103-mini开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f103-mini开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308948&page=1&extra=#pid1068355
+- stm32f103-mini开发板产品讨论贴: http://www.openedv.com/thread-308948-1-1.html
 
 
 产品图片

@@ -17,7 +17,7 @@ ZYNQ下载器ATK-PLATFORM
 产品讨论帖
 ^^^^^^^^^^
 
-- ZYNQ下载器ATK-PLATFORM产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=308556&page=1&extra=#pid1065957
+- ZYNQ下载器ATK-PLATFORM产品讨论贴: http://www.openedv.com/thread-308556-1-1.html
 
 
 产品图片

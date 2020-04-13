@@ -40,7 +40,7 @@ stm32f429阿波罗开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f429阿波罗开发板产品讨论贴: http://www.openedv.com/thread-308952-1-1.html 
+- stm32f429阿波罗开发板产品讨论贴:  http://www.openedv.com/thread-308952-1-1.html 
 
 
 产品图片
