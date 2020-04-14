@@ -15,9 +15,9 @@ stm32f103-nano开发板
 
 -  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：https://pan.baidu.com/s/1RmvKl6HGtalBAt95ZRLrKg 提取码：3gdu
 
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1KTOvWMqw52h5ZgOc__qw-w 提取码：y035  
+-  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1F1S_hyQuKIruPB7weICcrw 提取码：98d0  
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1k7RIxTwTy5L5B9K1gQTq8g 提取码：gt0n 
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1vyfgznJjBkm8dryl5nFlbg 提取码：6w2g 
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
    
