@@ -1,18 +1,18 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek.
 
-《手把手教你学FPGA》
+STM32书籍和视频
 ==================
 
 .. toctree::
    :maxdepth: 1
 
-   fpgaktz
+   lishuo
 
-   fpga-xqd
+   zdyz_stm32_stdlib_book
 
-   fpga-qmx
+   stm32f4
 
-   fpga-lhz
+   stm32f7
 
 
 

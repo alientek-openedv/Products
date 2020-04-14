@@ -3,19 +3,14 @@
    :maxdepth: 1
    :titlesonly:   
  
-   lishuoSTM32/index
+   1stm32/index
  
-   STM32F4/index
+   2linux/index
 
-   STM32/index
+   3fpga/index
  
-   STM32F7/index
+   4free/index
  
-   FPGA/index
- 
-   FreeRTOS/index
- 
-   linux/index
  
    
     
