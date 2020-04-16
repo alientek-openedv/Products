@@ -24,7 +24,7 @@ i.MX6ULL Linux阿尔法开发板
 
 -  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1qOS8FKT8ReN0SaIlVTw7jg  提取码：kywe  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1yQZM2lHwL77EDKCzGNZfQQ  提取码：7061
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1B-f4WO3FbKpQSHT-0FA1BQ  提取码：zqhs
 
 -  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-BGLU4PQj2U-IIRrZH_gDg 提取码：uxqm
       

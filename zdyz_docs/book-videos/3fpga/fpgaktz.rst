@@ -15,14 +15,12 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学FPGA-开拓者之基础篇`` 视频链接：https://pan.baidu.com/s/12CY2WpUisFh1DE59tMe8qg  提取码：zzz2
 
--  配套 ``手把手教你学FPGA-开拓者之中级篇`` 视频链接：https://pan.baidu.com/s/1-D1jRFbLVQ969I6S70EUng  提取码：4fua  
+-  配套 ``手把手教你学FPGA-开拓者`` 视频链接：https://pan.baidu.com/s/1foQbP6IVymDIUcle3YEswQ  提取码：4ej9
 
--  配套 ``手把手教你学FPGA-开拓者之高级篇`` 视频链接：https://pan.baidu.com/s/1vo9OFavDegjHlrpJZa_tsQ  提取码：xivd 
-   
--  配套 ``手把手教你学FPGA-开拓者之NiosII篇`` 视频链接：https://pan.baidu.com/s/1fDOMyuq-xD3Ny7Jl1kRxWw  提取码：rkgz    
-      
+-  配套 ``手把手教你学FPGA-领航者`` 视频链接：https://pan.baidu.com/s/1Xc0nLOV8zH2YgmrjCGNBlw  提取码：l0px  
+
+
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^

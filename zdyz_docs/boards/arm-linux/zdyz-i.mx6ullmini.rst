@@ -1,5 +1,5 @@
 
-I.MX6ULL Linux Mini开发板
+Mini Linux开发板
 =======================
 
 开发板介绍
@@ -41,13 +41,13 @@ I.MX6ULL Linux Mini开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- I.MX6ULL Linux  Mini开发板产品讨论贴: http://www.openedv.com/thread-309033-1-1.html
+- Mini Linux开发板开发板产品讨论贴: http://www.openedv.com/thread-309033-1-1.html
 
 
 产品图片
 --------
 
-- I.MX6ULL Linux  Mini开发板开发板主图如下所示
+- Mini Linux开发板开发板主图如下所示
 
 .. _pic_major_imx6ull_boardmi:
 
