@@ -6,7 +6,7 @@ stm32f429水星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1f28Nbqp8XDluIs4EyPiflg 提取码：7sxt 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1a9wpSgARDM4JoQ_6rhFFdA 提取码：axvo 
 
 视频网盘链接
 ^^^^^^^^^^^
