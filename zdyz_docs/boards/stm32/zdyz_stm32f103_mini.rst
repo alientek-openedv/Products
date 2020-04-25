@@ -7,7 +7,7 @@ stm32f103-mini开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1Q8YdXmPJoGB02-rL7wpknA  提取码：fnoh
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1Q1Qv5eaH5OLidYDE6_iGAw  提取码：bgj1
 
 视频网盘链接
 ^^^^^^^^^^^
