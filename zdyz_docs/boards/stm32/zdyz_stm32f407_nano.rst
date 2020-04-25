@@ -1,5 +1,7 @@
-stm32f407 nano开发板
+
+stm32f411-nano开发板
 ==========================
+
 
 资料下载链接
 ------------
@@ -40,13 +42,13 @@ stm32f407 nano开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- stm32f407 nano开发板产品讨论贴: http://www.openedv.com/thread-308934-1-1.html
+- stm32f407 nano开发板产品讨论贴: http://www.openedv.com/thread-308975-1-1.html
 
 
 产品图片
 --------
 
-- stm32f407 nano开发板主图如下所示
+- stm32f411 nano开发板主图如下所示
 
 .. _pic_major_stm32f407_nano:
 
@@ -54,7 +56,7 @@ stm32f407 nano开发板
 
 
    
- stm32f407 nano开发板实物图正面
+ stm32f411 nano开发板实物图正面
 
 
 .. _pic_major_stm32f407_nanob:
@@ -63,7 +65,7 @@ stm32f407 nano开发板
 
 
    
-  stm32f407 nano开发板实物图背面
+  stm32f411 nano开发板实物图背面
 
 
 
