@@ -3,16 +3,14 @@
 ZYNQ下载器ATK-PLATFORM
 ============================================
 
-
-
 资料链接
 ------------
 
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接： https://pan.baidu.com/s/1Oo19vq56q9yEGYxavWjXwQ
-- 提取码：huv1
+- 百度网盘-链接：https://pan.baidu.com/s/1eSwp9ESLVYpFiC4b2ARS2g 
+- 提取码：awf1
   
 产品讨论帖
 ^^^^^^^^^^

@@ -11,8 +11,8 @@ GSM/GPRS模块ATK-SIM800C
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1P8lu18QXpqeP492G1mDbPg 
-- 提取码：73om 
+- 资料链接：https://pan.baidu.com/s/1d-kinyzmPEMFkkP8Jb-YuQ 
+- 提取码：0kg2
   
 产品讨论帖
 ^^^^^^^^^^

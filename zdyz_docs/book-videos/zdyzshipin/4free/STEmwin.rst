@@ -11,7 +11,8 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1971Uekb6iAPKGYUgt_USzA 提取码：mz1t
+
+-  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1FTbeAfRrW33Jvky7ZXI2vg 提取码：ttg6
 
 
 视频在线学习平台

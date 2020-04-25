@@ -12,11 +12,11 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1qXrbM9uLoEr4OjwXx55ZSA 提取码：igh0
+-  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1CClMcY7d7SAEe-CZaHRoUg 提取码：u4w5
 
--  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1aGWcFWs55Z332KarzwMClA 提取码：6fv4
+-  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1AXfDMy7z7vHAgeE1vOx8Dg 提取码：2cf8
 
--  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1RHOoD5bh0cT8ZISeetNGfA 提取码：5cpc
+-  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1YsSaxmfF8QXZYF4fNqEjyg 提取码：w4k6
   
 
 在线教学视频链接

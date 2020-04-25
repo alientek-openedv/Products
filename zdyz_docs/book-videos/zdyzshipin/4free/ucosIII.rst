@@ -10,8 +10,8 @@
 
 视频网盘链接
 ^^^^^^^^^^^
-
--  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1_gF3jO6kWyChuRRGIynCOg 提取码：6mge 
+   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
    
 
 视频在线学习平台
