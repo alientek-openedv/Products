@@ -11,7 +11,7 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/16_Zus32uork_n5SchTTqhQ  提取码：gzux
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1XLFvmpgBiV5sJanPayZsyg  提取码：g6i1
 
 
 

@@ -11,8 +11,8 @@ GPRS DTU模块ATK-GPRS-M26
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1Vqeo-L_vXhoodq-wtS6P-w 
-- 提取码：xuz7 
+- 资料链接：https://pan.baidu.com/s/1QM-QJ0SQvR9xcrKQIqVKWg 
+- 提取码：s46i
   
 产品讨论帖
 ^^^^^^^^^^

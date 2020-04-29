@@ -7,16 +7,14 @@
 
 - 链接：https://pan.baidu.com/s/1vi1EQoVExa0hFnEfwklKhw 提取码：zk4i
   
-
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：https://pan.baidu.com/s/1RmvKl6HGtalBAt95ZRLrKg 提取码：3gdu
+-  配套 ``手把手教你学STM32-M3入门篇`` 视频链接：https://pan.baidu.com/s/1HfhvPRKAY8qIf7BX0tAjMg 提取码：4yh2
 
--  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1d14bcarjkheoi2hZx53f8w 提取码：9dpt  
+-  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1eNc1lt2RIRBdtbCvB274HA 提取码：kc7g  
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1IGywI48WkUWhS2OWlVY_nQ 提取码：n6lw 
-  
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1zqWfQAv0-tcD3P7GCTtPzQ 提取码：j5kp 
 
 在线教学视频链接
 ^^^^^^^^^^^^^^^^^^

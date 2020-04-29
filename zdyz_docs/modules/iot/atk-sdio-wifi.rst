@@ -11,8 +11,8 @@ SDIO-WIFI模块
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1nhr-7dvlAoawaFtUkDdloA 
-- 提取码：cmgk 
+- 资料链接：https://pan.baidu.com/s/1R0XInjOsCcTFRIyAMMe5tQ 
+- 提取码：z28j 
   
 产品讨论帖
 ^^^^^^^^^^

@@ -11,8 +11,8 @@ RGB转VGA模块ATK-RGB2VGA
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接： https://pan.baidu.com/s/1v-l9-gSgE68QLZNJqpnnyQ 
-- 提取码：y852 
+- 百度网盘-链接：https://pan.baidu.com/s/1hVaHOomQ-mE_xH5O23jp7A
+- 提取码：4ml8 
   
 产品讨论帖
 ^^^^^^^^^^

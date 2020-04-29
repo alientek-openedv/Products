@@ -11,7 +11,9 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/197n_mXljgG7Pr6HM7_tGvQ  提取码：t85h 
+
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1RIUnSz01j13sGNtZF8zHWA  提取码：7m9j
+
 
 
 视频在线学习平台

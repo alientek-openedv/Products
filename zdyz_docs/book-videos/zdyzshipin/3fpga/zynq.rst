@@ -8,18 +8,19 @@
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接： https://pan.baidu.com/s/1mCBNEaISxoosm4zOr4yP0w   提取码：cb3v  
+
+- ``资料盘`` 资料链接： https://pan.baidu.com/s/1p4VPYRjy3CT7lp2omLDGZg   提取码：dpdt  
  
-- ``工具盘`` 资料链接： https://pan.baidu.com/s/1VSbBsCRxGzrmuTm3ZQA-CA   提取码：0mkl   
+- ``工具盘`` 资料链接： https://pan.baidu.com/s/11RqIZm6zbCB-Mtynk3T6bg   提取码：99ym   
+
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：https://pan.baidu.com/s/1_jucrVAjwqKak2EHH_QV9g  提取码：qhy8
+-  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：https://pan.baidu.com/s/1ITSwlY4vxU_mcZWJRWdr1Q   提取码：tk7k
 
 -  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接： https://pan.baidu.com/s/1UbfmyIl31Ixgne7nIzr-_g  提取码：0ppc  
       
-
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
 

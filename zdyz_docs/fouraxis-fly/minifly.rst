@@ -17,8 +17,8 @@ MiniFly四轴飞行器
 
 产品使用资料
 ^^^^^^^^^^
-- 百度网盘-链接： https://pan.baidu.com/s/1w7LrvK6Ce_YB92Sl94p1iQ
-- 提取码：ai0u
+- 百度网盘-链接： https://pan.baidu.com/s/1EhmEIakA6XHEBRpeEL9CVg 
+- 提取码：1qrz
 
 
 产品讨论帖

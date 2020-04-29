@@ -11,8 +11,8 @@
 视频网盘链接
 ^^^^^^^^^^^
 
+-  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1CEwNt1jZ6SPHBK0S4qsT1A  提取码：71i7  
 
--  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1qOS8FKT8ReN0SaIlVTw7jg  提取码：kywe  
 
 
 视频在线学习平台
