@@ -10,11 +10,11 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/17xb_Zt1i7dwQXZqVauJOvQ 提取码：kou4
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1T7OVrORkmF4rw42EMqcKIg 提取码：xfde
 
--  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1PTznn6gAaVwI59spI-zecw 提取码：49m8  
+-  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
 
--  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1jJaY0Njpu9KmcOE2bx19Sg 提取码：cp8w 
+-  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1I-TR9HqFc3qHLmL1-I8Z_g 提取码：umtq 
   
 
 在线教学视频链接

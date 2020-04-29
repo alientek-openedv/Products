@@ -11,7 +11,7 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-BGLU4PQj2U-IIRrZH_gDg 提取码：uxqm  
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-sflHcKORRfhhFGg5ewPbg 提取码：ju39
 
 
 视频在线学习平台

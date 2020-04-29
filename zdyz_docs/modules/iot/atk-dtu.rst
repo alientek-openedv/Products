@@ -11,8 +11,8 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1fppniO6pHf2AzaAsG7ML6w 
-- 提取码：aiye 
+- 资料链接：https://pan.baidu.com/s/1mOMgjMLtJ-s0iSobFQycHg 
+- 提取码：3uro 
   
 产品讨论帖
 ^^^^^^^^^^

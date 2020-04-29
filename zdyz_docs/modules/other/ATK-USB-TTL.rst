@@ -11,8 +11,8 @@ USB-TTL串口模块ATK-USB-TTL
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接： https://pan.baidu.com/s/14MY_FTyqgv7KhyK_V2LGXw
-- 提取码：i1a9 
+- 百度网盘-链接：https://pan.baidu.com/s/1gusniA7xNvw_b5smCI2VNg
+- 提取码：ori0 
   
 产品讨论帖
 ^^^^^^^^^^  

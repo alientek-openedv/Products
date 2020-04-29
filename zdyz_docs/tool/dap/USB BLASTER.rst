@@ -9,8 +9,8 @@ USB BLASTER仿真器【FPGA专用】
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接：https://pan.baidu.com/s/10IM96S5hyHJcGeKHkmtIjQ
-- 提取码：xa22
+- 百度网盘-链接：https://pan.baidu.com/s/1wncuw0S65IocbW85pbIqTA 
+- 提取码：mg3f
   
 产品讨论帖
 ^^^^^^^^^^

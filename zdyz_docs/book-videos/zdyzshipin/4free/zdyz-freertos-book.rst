@@ -12,7 +12,7 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1sv4JJnoPmnZ2jkVo6YhOYg 提取码：xpij
 
 
 视频在线学习平台
