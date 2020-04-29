@@ -7,25 +7,24 @@ stm32f750北极星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1e18fgzH9DbohRKurCicHww 提取码：5yiw 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1t-DVobnquBfFzCtP-LwcuQ 提取码：qin9 
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1rzE30JVbIRLQLhY9IeEPZw 提取码：ohpv
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1T7OVrORkmF4rw42EMqcKIg 提取码：xfde
 
--  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1PTznn6gAaVwI59spI-zecw 提取码：49m8  
+-  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
 
--  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1vvuxOke0NpyzGz_EXTvObg 提取码：b7by 
+-  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1I-TR9HqFc3qHLmL1-I8Z_g 提取码：umtq 
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1sv4JJnoPmnZ2jkVo6YhOYg 提取码：xpij
    
--  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1_gF3jO6kWyChuRRGIynCOg 提取码：6mge   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
 
--  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1971Uekb6iAPKGYUgt_USzA 提取码：mz1t
+-  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1FTbeAfRrW33Jvky7ZXI2vg 提取码：ttg6
 
--  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1kxCrU6myt17UrjoXNot6ng 提取码：xgo8
-
+-  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1LwLyr95R-020gAF_xmLQZg 提取码：san0
       
 
 视频在线学习平台

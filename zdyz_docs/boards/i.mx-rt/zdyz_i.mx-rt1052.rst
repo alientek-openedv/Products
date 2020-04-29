@@ -7,7 +7,7 @@ I.MX RT1052号令者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/18deRY_MHc5JoD6u0HgLWvQ  提取码：6vy8  
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1q9V2ZtbtnmEOf1AeUUNjoQ 提取码：umgp 
 
 
      

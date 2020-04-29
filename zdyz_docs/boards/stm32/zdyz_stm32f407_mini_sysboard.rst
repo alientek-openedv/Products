@@ -7,24 +7,24 @@ stm32f407最小系统板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1J_tw6JZXpKtT0on-sAhW-w 提取码：4x75 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1C-ROrrB7RKP9cP-X4EK6GA 提取码：fob0 
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1qXrbM9uLoEr4OjwXx55ZSA 提取码：igh0
+-  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1CClMcY7d7SAEe-CZaHRoUg 提取码：u4w5
 
--  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1aGWcFWs55Z332KarzwMClA 提取码：6fv4
+-  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1AXfDMy7z7vHAgeE1vOx8Dg 提取码：2cf8
 
--  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1xo5eT5LoUUpyoH0Jk1FptQ 提取码：cl18 
+-  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1YsSaxmfF8QXZYF4fNqEjyg 提取码：w4k6
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1TgemZkCjfcer5-Vz0tVcAA 提取码：57xe
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1sv4JJnoPmnZ2jkVo6YhOYg 提取码：xpij
    
--  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1_gF3jO6kWyChuRRGIynCOg 提取码：6mge   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
 
--  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1971Uekb6iAPKGYUgt_USzA 提取码：mz1t
+-  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1FTbeAfRrW33Jvky7ZXI2vg 提取码：ttg6
 
--  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1kxCrU6myt17UrjoXNot6ng 提取码：xgo8
+-  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1LwLyr95R-020gAF_xmLQZg 提取码：san0
 
       
 

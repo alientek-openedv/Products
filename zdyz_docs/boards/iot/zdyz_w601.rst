@@ -8,7 +8,7 @@ W601 IoT开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1SIY4rRshTrLkPfRsEH0OEA 提取码：668f  
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1vqt1LI8kjtJtSKjquq6Ncg 提取码：6xzx 
 
       
 
