@@ -7,7 +7,7 @@ stm32f103战舰开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/17unOB9xgvZ0Ll9Z9EujAHQ 提取码：ohyq 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1bAbE_HocXbOlXGUX-u97Zw 提取码：ojin
 
 视频网盘链接
 ^^^^^^^^^^^

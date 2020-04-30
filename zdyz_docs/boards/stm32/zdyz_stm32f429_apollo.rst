@@ -7,12 +7,12 @@ stm32f429阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1Jn9K2GGImwzkkuaOxCyq7Q 提取码：uq3g
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1vPou2aMGb2enndv3QLaVHg 提取码：xjem
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1T7OVrORkmF4rw42EMqcKIg 提取码：xfde
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/19Ofu8rLRSiJNoPmtvD_1kQ 提取码：wnfr
 
 -  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
 
