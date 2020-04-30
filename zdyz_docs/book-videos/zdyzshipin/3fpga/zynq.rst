@@ -19,7 +19,7 @@
 
 -  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：https://pan.baidu.com/s/1ITSwlY4vxU_mcZWJRWdr1Q   提取码：tk7k
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接： https://pan.baidu.com/s/1UbfmyIl31Ixgne7nIzr-_g  提取码：0ppc  
+-  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接： https://pan.baidu.com/s/1w_DS6_p5RF1qPYq576VdGQ  提取码：ilzh  
       
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
