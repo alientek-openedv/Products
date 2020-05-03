@@ -7,7 +7,7 @@ stm32h743水星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1HIk2Yetbk2BekPSywkUL4Q 提取码：rutz 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1d7r6nmkh9bz-IQvrxxB2Ng 提取码：csso
 
 视频网盘链接
 ^^^^^^^^^^^

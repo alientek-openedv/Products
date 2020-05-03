@@ -12,7 +12,7 @@ stm32h750北极星开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1T7OVrORkmF4rw42EMqcKIg 提取码：xfde
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1I4OnJSjT4xXDXfsN7_mP2w 提取码：0nbb
 
 -  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
 

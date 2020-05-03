@@ -15,7 +15,7 @@ i.MX6ULL Linux阿尔法开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1i8ilSK5RKhSiPZThJFo6Ew  提取码：fo0e
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1dadTvBzmXCT_eupIjaClBA  提取码：vzf5
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -24,7 +24,7 @@ i.MX6ULL Linux阿尔法开发板
 
 -  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1CEwNt1jZ6SPHBK0S4qsT1A  提取码：71i7  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1RIUnSz01j13sGNtZF8zHWA  提取码：7m9j
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1bIvmTYPG7_9M-DkDusf2hg  提取码：5uah
 
 -  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-sflHcKORRfhhFGg5ewPbg 提取码：ju39
       
