@@ -7,12 +7,12 @@ stm32f750北极星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1t-DVobnquBfFzCtP-LwcuQ 提取码：qin9 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1QD8uBYXvJNIyILtVxPjpmQ 提取码：wlkg
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1T7OVrORkmF4rw42EMqcKIg 提取码：xfde
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1OYpf3xWvdrF0ewhXZFiyRg 提取码：isoq
 
 -  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
 

@@ -8,7 +8,7 @@
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/1uZUzSdbxIzBFibuRWvXjtw 提取码：suwp 
+- ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/17T9ZlkHhXO7ZF1ixRkGCEQ 提取码：mznq
       
 
 视频在线学习平台
