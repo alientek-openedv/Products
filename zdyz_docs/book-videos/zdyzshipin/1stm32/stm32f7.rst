@@ -4,13 +4,13 @@
 资料下载链接
 ------------
 
-- 链接：https://pan.baidu.com/s/1TXlUaLbcdA2dwL62mp7LrA 提取码：a6lo
+- 链接：https://pan.baidu.com/s/1OC8mKfGrAJmFiH99J8KFmg 提取码：sf86
   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1T7OVrORkmF4rw42EMqcKIg 提取码：xfde
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1sTfbJw9YaMN2KrYo0Shtpw 提取码：tcyx
 
 -  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
 

@@ -5,14 +5,14 @@
 资料下载链接
 ------------
 
-- 链接：https://pan.baidu.com/s/1Ucd81sRhNtkSzKDBYiJtYg  提取码：6r6i
+- 链接：https://pan.baidu.com/s/1wdjaGr58XWic1IEEzO1L6g  提取码：kesd
   
 
 视频网盘链接
 ^^^^^^^^^^^
 
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1RIUnSz01j13sGNtZF8zHWA  提取码：7m9j
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/13PHgff1cxa4dA10mOe7v5w  提取码：11r5
 
 
 
