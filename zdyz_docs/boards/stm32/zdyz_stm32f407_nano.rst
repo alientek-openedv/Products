@@ -7,7 +7,7 @@ stm32f411-nano开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1K68e4K1g-MlUclXDBa1VQw 提取码：cfzr 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1IO5yLvZH5IzhYKqWPqG19A 提取码：wrfp 
 
 视频网盘链接
 ^^^^^^^^^^^
