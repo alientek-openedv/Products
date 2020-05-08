@@ -7,7 +7,7 @@ stm32f429阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：链接：https://pan.baidu.com/s/1wEkMrxBXO_RhzfmnL3Y-MA 提取码：eg9q
+- ``资料盘`` 开发板资料链接：链接：https://pan.baidu.com/s/1d3xdV0LpX1AXPCiPEWTR0Q 提取码：67yh
 视频网盘链接
 ^^^^^^^^^^^
 
@@ -17,7 +17,7 @@ stm32f429阿波罗开发板
 
 -  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1I-TR9HqFc3qHLmL1-I8Z_g 提取码：umtq 
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1P4LnQkhYyC-a5okNKUPLzg 提取码：nzm5
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
    
 -  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
 

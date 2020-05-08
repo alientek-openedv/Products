@@ -5,13 +5,14 @@
 资料下载链接
 ------------
 
-- 链接：https://pan.baidu.com/s/13Y12i9OhXQS12VKBm6Wn7g  提取码：t0r8
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1g_4rRfB6ORL570pDhKtwOQ  提取码：fnq1
+
   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1XLFvmpgBiV5sJanPayZsyg  提取码：g6i1
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1Zhs-BwRNeE2W7Igjxl-uJw  提取码：w3nw
 
 
 
