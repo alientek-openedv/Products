@@ -7,7 +7,7 @@ stm32f407最小系统板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1C-ROrrB7RKP9cP-X4EK6GA 提取码：fob0 
+- ``资料盘`` 开发板资料链接：hhttps://pan.baidu.com/s/1dVnh7UHM6ANWmRPWmZ6Ydw 提取码：dm8x 
 
 视频网盘链接
 ^^^^^^^^^^^

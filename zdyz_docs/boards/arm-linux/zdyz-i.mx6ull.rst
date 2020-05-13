@@ -15,7 +15,7 @@ i.MX6ULL Linux阿尔法开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1dadTvBzmXCT_eupIjaClBA  提取码：vzf5
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1g_4rRfB6ORL570pDhKtwOQ  提取码：fnq1
 
 视频网盘链接
 ^^^^^^^^^^^
