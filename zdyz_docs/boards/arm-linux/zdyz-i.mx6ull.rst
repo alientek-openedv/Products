@@ -20,13 +20,13 @@ i.MX6ULL Linux阿尔法开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1XLFvmpgBiV5sJanPayZsyg  提取码：g6i1
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1xBttSG1UC9L3di4MgzBKvA  提取码：ig8u
 
--  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1CEwNt1jZ6SPHBK0S4qsT1A  提取码：71i7  
+-  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/18IgNFP2r2pQNA8myBFct-w  提取码：mzzm  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1dg9iV3b3RQfzwS1_70oJaA  提取码：i1mq
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1JEGJfXDp_9zIvKlmGUdwdQ  提取码：zye6
 
--  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-sflHcKORRfhhFGg5ewPbg 提取码：ju39
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1nwKSXCMhm--S190yagxDzQ 提取码：sdfy
       
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^

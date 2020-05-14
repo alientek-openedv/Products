@@ -8,7 +8,7 @@ stm32f103精英开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1EU-_qmo6tcrZ18yh-VhpYw 提取码：jfc0 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1EU-_qmo6tcrZ18yh-VhpYw 提取码：jfc0   
   
 
 视频网盘链接
@@ -20,7 +20,7 @@ stm32f103精英开发板
 
 -  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1nT0BCSHOU1O_lOcCkWU1TQ 提取码：fwa4
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1qtPhbzUqitnXp6xtZhTejg 提取码：altk
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1P4LnQkhYyC-a5okNKUPLzg 提取码：nzm5
    
 -  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/15Rt5mj1Z1ZXwxf4aUyLAGg 提取码：iuma   
 

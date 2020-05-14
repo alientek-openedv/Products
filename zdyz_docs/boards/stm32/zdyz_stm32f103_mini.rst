@@ -18,7 +18,7 @@ stm32f103-mini开发板
 
 -  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1B9QA99YkU3OlmUgB1Jp_lQ 提取码：c6rh
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1sv4JJnoPmnZ2jkVo6YhOYg 提取码：xpij
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1P4LnQkhYyC-a5okNKUPLzg 提取码：nzm5
    
 -  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
 
