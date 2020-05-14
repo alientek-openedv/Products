@@ -7,7 +7,7 @@ stm32h750北极星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/18sn3v1nJ2CXpRYfZBWtTFw 提取码：o343
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/19S26k_vu91hhgtFCTX75LQ 提取码：77v1
 
 视频网盘链接
 ^^^^^^^^^^^
