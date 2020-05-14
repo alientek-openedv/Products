@@ -8,7 +8,7 @@
 《精通STM32F4》系列教程及代码适用于正点原子STM32开发板，可根据需要选择下载。
 
 
-- 链接：https://pan.baidu.com/s/1qgwmRVCs6maiOlf6cubDLg  提取码：iw29
+- 链接：https://pan.baidu.com/s/1QFmM63KKwFKzzuwtwfNAmg  提取码：4xid
   
 
 在线教学视频链接

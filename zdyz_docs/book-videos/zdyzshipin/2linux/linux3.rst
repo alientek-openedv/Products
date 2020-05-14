@@ -5,7 +5,7 @@
 资料下载链接
 ------------
 
-- 链接：https://pan.baidu.com/s/1wdjaGr58XWic1IEEzO1L6g  提取码：kesd
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1g_4rRfB6ORL570pDhKtwOQ  提取码：fnq1
   
 
 视频网盘链接

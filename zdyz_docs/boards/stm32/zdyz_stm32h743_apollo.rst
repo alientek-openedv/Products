@@ -7,7 +7,7 @@ stm32h743阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1fxUb9GypFVUqbx4OuCO4bQ 提取码：2s2r
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1YeC0NlVzhrl2IFfSxAY1ww 提取码：yx6q
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -18,7 +18,7 @@ stm32h743阿波罗开发板
 
 -  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1I-TR9HqFc3qHLmL1-I8Z_g 提取码：umtq 
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1P4LnQkhYyC-a5okNKUPLzg 提取码：nzm5
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
    
 -  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
 

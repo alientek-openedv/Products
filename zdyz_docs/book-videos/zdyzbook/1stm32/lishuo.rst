@@ -8,7 +8,7 @@
 《例说stm32》系列教程及代码适用于正点原子STM32开发板，可根据需要选择下载。
 
 
-- 链接：https://pan.baidu.com/s/1Q1Qv5eaH5OLidYDE6_iGAw  提取码：bgj1
+- 链接：https://pan.baidu.com/s/1_IooLBFuotEBQvOuK7bxWQ  提取码：mqyn
   
 
 在线教学视频链接

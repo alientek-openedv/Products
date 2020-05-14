@@ -5,13 +5,14 @@
 资料下载链接
 ------------
 
-- 链接：https://pan.baidu.com/s/18gWMnLytrfzNJS7z3jNATg  提取码：u7q1
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1g_4rRfB6ORL570pDhKtwOQ  提取码：fnq1
+
   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1CEwNt1jZ6SPHBK0S4qsT1A  提取码：71i7  
+-  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/17xMCQnzw5DNLgbQN0FZVIA  提取码：7fcz 
 
 
 

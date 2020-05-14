@@ -9,7 +9,7 @@ ZYNQ领航者开发板
 
 - ``资料盘`` 资料链接：https://pan.baidu.com/s/17qOT0tQfjH_zPzaQPmeUMw   提取码：ilcy
  
-- ``工具盘`` 资料链接： https://pan.baidu.com/s/10k0Jsputumlqodrq35mf5A   提取码：8lnc 
+- ``工具盘`` 资料链接：https://pan.baidu.com/s/1Z-5wW5zcoBkuUuoVvW7WAA   提取码：paoz 
 
 视频网盘链接
 ^^^^^^^^^^^

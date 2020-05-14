@@ -9,8 +9,8 @@ DAP仿真器【高速版】ATK-HSDAP
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接： https://pan.baidu.com/s/1dkl5cr7_ribkMMF5RC8uHA 
-- 提取码：c69s
+- 百度网盘-链接：https://pan.baidu.com/s/11biZi728iUMZFqYBDCr7ew 
+- 提取码：8aid
   
 产品讨论帖
 ^^^^^^^^^^
