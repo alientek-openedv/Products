@@ -15,18 +15,18 @@ i.MX6ULL Linux阿尔法开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1dadTvBzmXCT_eupIjaClBA  提取码：vzf5
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1xV3Ih-zoYSWLoKkEjXX6Lg  提取码：7wq1
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1XLFvmpgBiV5sJanPayZsyg  提取码：g6i1
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1zBWelz5Jo8Hbek_mOmRGjA  提取码：gdrh
 
--  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1CEwNt1jZ6SPHBK0S4qsT1A  提取码：71i7  
+-  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1pJd5m5okvkVbiKTP5wZ9yA  提取码：85g6  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/13HWHixyvoEw7sb3Ef_UxYA  提取码：tuz4
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/11G_uYrmK_d0JvpPZwQmmbg  提取码：roz4
 
--  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-sflHcKORRfhhFGg5ewPbg 提取码：ju39
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1mFS30Bnp-xTGoWO97NuW0w 提取码：pmsr
       
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^

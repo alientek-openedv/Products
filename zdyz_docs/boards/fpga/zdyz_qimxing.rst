@@ -9,7 +9,7 @@ ZYNQ启明星开发板
 
 - ``资料盘`` 资料链接：https://pan.baidu.com/s/1-lMiVV4CLrs-Fbzeio604A   提取码：m0ps  
  
-- ``工具盘`` 资料链接： https://pan.baidu.com/s/11RqIZm6zbCB-Mtynk3T6bg   提取码：99ym   
+- ``工具盘`` 资料链接：https://pan.baidu.com/s/1oO-iQNb0Yy-bFp7iGHVoIw   提取码：ua3s
 
 视频网盘链接
 ^^^^^^^^^^^

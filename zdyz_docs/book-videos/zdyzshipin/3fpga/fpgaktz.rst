@@ -10,7 +10,7 @@
 
 - ``资料盘`` 资料链接：https://pan.baidu.com/s/1cEahD25A35sOc82Q3sTAlQ  提取码：pjo2 
  
-- ``工具盘`` 资料链接：https://pan.baidu.com/s/133GlPuiEaE4QL1LuM7uukg  提取码：srpm  
+- ``工具盘`` 资料链接：https://pan.baidu.com/s/16VmbQrDO7LBnLbpTv-gZPQ  提取码：rout 
  
 
 视频网盘链接
@@ -22,7 +22,7 @@
 
 -  配套 ``手把手教你学FPGA-开拓者之高级篇`` 视频链接：https://pan.baidu.com/s/1ZydPzKz5r6MLCJqtclFodA  提取码：lm53 
    
--  配套 ``手把手教你学FPGA-开拓者之NiosII篇`` 视频链接：https://pan.baidu.com/s/1RcFXmEtbRhVKTSrhFcAlTg  提取码：m6t5    
+-  配套 ``手把手教你学FPGA-开拓者之NiosII篇`` 视频链接：https://pan.baidu.com/s/1pUuGyjWUwemo48ZFpKTGxg  提取码：jhjj      
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^

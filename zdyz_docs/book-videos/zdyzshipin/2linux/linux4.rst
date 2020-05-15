@@ -5,13 +5,13 @@
 资料下载链接
 ------------
 
-- 链接：https://pan.baidu.com/s/1Ucd81sRhNtkSzKDBYiJtYg  提取码：6r6i
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1g_4rRfB6ORL570pDhKtwOQ  提取码：fnq1
   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1-sflHcKORRfhhFGg5ewPbg 提取码：ju39
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1wpIg7unuQXSQuc7zIPg13A 提取码：d1ed
 
 
 视频在线学习平台

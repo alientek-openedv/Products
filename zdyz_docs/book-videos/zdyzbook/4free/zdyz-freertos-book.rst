@@ -8,7 +8,7 @@
 《FreeRTOS源码详解与应用开发》系列教程及代码适用于正点原子STM32开发板，可根据需要选择下载。
 
 
-- 链接：https://pan.baidu.com/s/1i7auRq1rzfg-H5DcQ09YZw  提取码：5s8i
+- 链接：https://pan.baidu.com/s/1hFtCCo_PV85kFnFGudM7bg  提取码：4rub
   
 
 

@@ -7,9 +7,9 @@ FPGA新起点开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接：https://pan.baidu.com/s/1-mqYCVtjxfHHRjrUY5utIQ 提取码：hix8 
+- ``资料盘`` 资料链接：https://pan.baidu.com/s/1Xt70pZzWAHLOZWfbgXvnow 提取码：rukj
  
-- ``工具盘`` 资料链接：https://pan.baidu.com/s/17Rw9nhU-7eKTecw7X_WXRg 提取码：5k79   
+- ``工具盘`` 资料链接：https://pan.baidu.com/s/13RUnCpQJjafSdfzHaSw-9w   提取码：sv0m   
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -20,7 +20,7 @@ FPGA新起点开发板
 
 -  配套 ``手把手教你学FPGA-新起点之高级篇`` 视频链接：https://pan.baidu.com/s/1Kl-w7jfyP3Dz3PvtAASPew  提取码：hpg2 
    
--  配套 ``手把手教你学FPGA-新起点之NiosII篇`` 视频链接：https://pan.baidu.com/s/1DtTShM7g8GmoYq2QAFCY8w  提取码：9exd    
+-  配套 ``手把手教你学FPGA-新起点之NiosII篇`` 视频链接：https://pan.baidu.com/s/1jEnOsIdziv-_ykwgsTtaoQ  提取码：50hn  
       
 
 视频在线学习平台

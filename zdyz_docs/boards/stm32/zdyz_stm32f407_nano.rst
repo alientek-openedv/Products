@@ -7,7 +7,7 @@ stm32f411-nano开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1K68e4K1g-MlUclXDBa1VQw 提取码：cfzr 
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1Su2UetOEe8mDj7tbtM9saQ 提取码：qmws 
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -17,7 +17,7 @@ stm32f411-nano开发板
 
 -  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1YsSaxmfF8QXZYF4fNqEjyg 提取码：w4k6
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1sv4JJnoPmnZ2jkVo6YhOYg 提取码：xpij
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
    
 -  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
 
