@@ -7,7 +7,7 @@
 《STM32F7原理与应用》系列教程及代码适用于正点原子STM32开发板，可根据需要选择下载。
 
 
-- 链接：https://pan.baidu.com/s/14HK5SGXd4JshOUJMcqpavg 提取码：699d
+- 链接：https://pan.baidu.com/s/1-hX5Pad-KGxxlDQQfrgKvQ 提取码：ocwq
   
   
 
