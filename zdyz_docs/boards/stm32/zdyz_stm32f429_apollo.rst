@@ -7,7 +7,7 @@ stm32f429阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：链接：https://pan.baidu.com/s/1GPYXdA5eJqFJUnblGqwE_Q 提取码：02jz
+- ``资料盘`` 开发板资料链接：链接：https://pan.baidu.com/s/11styaNHt-LnAspIaARDodQ 提取码：6ulu
 视频网盘链接
 ^^^^^^^^^^^
 
