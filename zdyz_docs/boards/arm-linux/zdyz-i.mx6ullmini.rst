@@ -24,7 +24,7 @@ Mini Linux开发板
 
 -  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ  提取码：r27n  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1EazHRqVcBsxY7JYFL6Lp0Q  提取码：njmu
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1ZlhaCTsdBlYdSAWVtQH_sw  提取码：x2z8
 
 -  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1wnKFymCkAtEQY-CKSrFrpw 提取码：u27g
 
