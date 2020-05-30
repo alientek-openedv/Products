@@ -7,7 +7,7 @@ stm32h743阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1Ijgk-XDE3xUHB6DlzvBGRA 提取码：x0eu
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1N3RM7_O6Y0ZcXDGtycGPbw 提取码：son0
 
 视频网盘链接
 ^^^^^^^^^^^

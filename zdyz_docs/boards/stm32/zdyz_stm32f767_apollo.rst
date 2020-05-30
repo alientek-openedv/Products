@@ -7,7 +7,7 @@ stm32f767阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1KA-DKU83Rgr_66X47LMUpw 提取码：3i64
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1db59faYjh_OtmjcNcDJ63w 提取码：bnyl
 
 视频网盘链接
 ^^^^^^^^^^^

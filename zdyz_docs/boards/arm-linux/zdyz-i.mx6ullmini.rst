@@ -20,13 +20,14 @@ Mini Linux开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接： https://pan.baidu.com/s/1zBWelz5Jo8Hbek_mOmRGjA  提取码：gdrh
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接：https://pan.baidu.com/s/1GNdsA6lhPy15vahOYMMngw  提取码：80vf
 
--  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1pJd5m5okvkVbiKTP5wZ9yA  提取码：85g6  
+-  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ  提取码：r27n  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/11G_uYrmK_d0JvpPZwQmmbg  提取码：roz4
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1ZlhaCTsdBlYdSAWVtQH_sw  提取码：x2z8
 
--  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1mFS30Bnp-xTGoWO97NuW0w 提取码：pmsr
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1wnKFymCkAtEQY-CKSrFrpw 提取码：u27g
+
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
 

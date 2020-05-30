@@ -8,9 +8,9 @@
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接：https://pan.baidu.com/s/1bi2qaUGMxBooOcw-mGyFdg  提取码：qpw9  
+- ``资料盘`` 资料链接：https://pan.baidu.com/s/1DZa_ce0hn50yvd-UNfCmsg  提取码：th81  
  
-- ``工具盘`` 资料链接：https://pan.baidu.com/s/1pZnMyUEPXRX6aRJ9PiMcrQ  提取码：zzqp   
+- ``工具盘`` 资料链接：https://pan.baidu.com/s/142Y-V_L5Q8gWVKpEzMXEWg  提取码：kczh   
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
