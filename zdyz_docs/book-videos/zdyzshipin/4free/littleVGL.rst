@@ -1,18 +1,16 @@
 
-手把手教你学littleVGL
+手把手教你学LittleVGL
 ================================================
 
 资料下载链接
 ------------
 
-
-- 链接：https://pan.baidu.com/s/1ZSL0r5_kpqArsynvW51c7Q  提取码：e8ii
+- 链接：https://pan.baidu.com/s/1czecffINdDQ2xbQ9FM3PBA  提取码：e9x0
   
-
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学littleVGL`` 视频链接：https://pan.baidu.com/s/1NeM9S9-Ou-niKZNLMgfdbQ 提取码：xs0f
+-  配套 ``LittleVGL开源图形界面`` 视频链接：https://pan.baidu.com/s/16xspIfFJSKCL7y_JU_HSgw 提取码：4xri
 
 
 视频在线学习平台
@@ -29,9 +27,9 @@
 
 手把手教你学littleVGL视频封面主图如下所示。
 
-.. _pic_major_f1:
+.. _pic_major_littleVGL:
 
-.. figure:: media/f1.png
+.. figure:: media/littleVGL.png
 
 
    

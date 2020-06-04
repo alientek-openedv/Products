@@ -11,8 +11,8 @@ LORA模块ATK-LORA-01
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1yTSOHpLSnnVL7q5BBJ1WPw 
-- 提取码：egus
+- 资料链接：https://pan.baidu.com/s/1r4huvOCFyZorpcj9K5GUew 
+- 提取码：a8qh
   
 产品讨论帖
 ^^^^^^^^^^

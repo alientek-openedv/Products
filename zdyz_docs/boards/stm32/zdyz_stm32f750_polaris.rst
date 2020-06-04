@@ -7,7 +7,7 @@ stm32f750北极星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1Y8LfOy20-0X0OhFg8qDXRg 提取码：rt81
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1LF17Y93aFvD_qoKtmApIGA 提取码：su0u
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -26,6 +26,7 @@ stm32f750北极星开发板
 
 -  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1LwLyr95R-020gAF_xmLQZg 提取码：san0
       
+-  配套 ``LittlevGL开源图形界面`` 视频链接：https://pan.baidu.com/s/16xspIfFJSKCL7y_JU_HSgw 提取码：4xri
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
