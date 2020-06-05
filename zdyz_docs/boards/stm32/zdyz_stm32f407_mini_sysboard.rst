@@ -14,7 +14,7 @@ stm32f407最小系统板
 
 -  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1CClMcY7d7SAEe-CZaHRoUg 提取码：u4w5
 
--  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1AXfDMy7z7vHAgeE1vOx8Dg 提取码：2cf8
+-  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/147LySRrrZSLWlv6HHaC5Mw 提取码：q8t4
 
 -  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1YsSaxmfF8QXZYF4fNqEjyg 提取码：w4k6
 
