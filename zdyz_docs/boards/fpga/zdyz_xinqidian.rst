@@ -7,20 +7,20 @@ FPGA新起点开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接：https://pan.baidu.com/s/1b-t9tSTXQ38BtvquDH9sAw 提取码：ut41
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1b-t9tSTXQ38BtvquDH9sAw 提取码：ut41
  
-- ``工具盘`` 资料链接：https://pan.baidu.com/s/1lWPzHaDmAmqQwG5UZEaJ0w   提取码：f0r0   
+- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1lWPzHaDmAmqQwG5UZEaJ0w   提取码：f0r0   
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学FPGA-新起点之基础篇`` 视频链接：https://pan.baidu.com/s/18pVvGVeZxMo1zeDWTXir4A  提取码：2svp
+-  配套 ``手把手教你学FPGA-新起点之基础篇`` 视频C盘：https://pan.baidu.com/s/18pVvGVeZxMo1zeDWTXir4A  提取码：2svp
 
--  配套 ``手把手教你学FPGA-新起点之中级篇`` 视频链接：https://pan.baidu.com/s/19s9vWVTQBPvAy6B9ZIZcNg  提取码：pc68  
+-  配套 ``手把手教你学FPGA-新起点之中级篇`` 视频D盘：https://pan.baidu.com/s/19s9vWVTQBPvAy6B9ZIZcNg  提取码：pc68  
 
--  配套 ``手把手教你学FPGA-新起点之高级篇`` 视频链接：https://pan.baidu.com/s/1Kl-w7jfyP3Dz3PvtAASPew  提取码：hpg2 
+-  配套 ``手把手教你学FPGA-新起点之高级篇`` 视频E盘：https://pan.baidu.com/s/1Kl-w7jfyP3Dz3PvtAASPew  提取码：hpg2 
    
--  配套 ``手把手教你学FPGA-新起点之NiosII篇`` 视频链接：https://pan.baidu.com/s/1jEnOsIdziv-_ykwgsTtaoQ  提取码：50hn  
+-  配套 ``手把手教你学FPGA-新起点之NiosII篇`` 视频F盘：https://pan.baidu.com/s/1jEnOsIdziv-_ykwgsTtaoQ  提取码：50hn  
       
 
 视频在线学习平台

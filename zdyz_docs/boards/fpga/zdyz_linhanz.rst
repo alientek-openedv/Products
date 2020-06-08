@@ -7,16 +7,16 @@ ZYNQ领航者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接：https://pan.baidu.com/s/17qOT0tQfjH_zPzaQPmeUMw   提取码：ilcy
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/17qOT0tQfjH_zPzaQPmeUMw   提取码：ilcy
  
-- ``工具盘`` 资料链接：https://pan.baidu.com/s/1Z-5wW5zcoBkuUuoVvW7WAA   提取码：paoz 
+- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1Z-5wW5zcoBkuUuoVvW7WAA   提取码：paoz 
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：https://pan.baidu.com/s/1ATMmVzBQ7FbVpc6rZLz6Hw   提取码：m5nr
+-  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频C盘：https://pan.baidu.com/s/1ATMmVzBQ7FbVpc6rZLz6Hw   提取码：m5nr
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接：https://pan.baidu.com/s/1iUWGFVQastZel4sBgVMFDQ   提取码：35jt  
+-  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1iUWGFVQastZel4sBgVMFDQ   提取码：35jt  
   
       
 
