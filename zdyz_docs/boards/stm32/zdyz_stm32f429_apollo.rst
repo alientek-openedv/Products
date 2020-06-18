@@ -7,15 +7,15 @@ stm32f429阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接：链接：https://pan.baidu.com/s/11styaNHt-LnAspIaARDodQ 提取码：6ulu
+- ``资料盘`` 开发板资料A盘：链接：https://pan.baidu.com/s/11styaNHt-LnAspIaARDodQ 提取码：6ulu
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/19Ofu8rLRSiJNoPmtvD_1kQ 提取码：wnfr
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频B盘：https://pan.baidu.com/s/19Ofu8rLRSiJNoPmtvD_1kQ 提取码：wnfr
 
--  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频链接：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
+-  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频C盘：https://pan.baidu.com/s/1jLHczA6DBPKZvNrd9J4wKg 提取码：jhlh  
 
--  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1I-TR9HqFc3qHLmL1-I8Z_g 提取码：umtq 
+-  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频D盘：https://pan.baidu.com/s/1I-TR9HqFc3qHLmL1-I8Z_g 提取码：umtq 
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
    
@@ -25,6 +25,8 @@ stm32f429阿波罗开发板
 
 -  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1LwLyr95R-020gAF_xmLQZg 提取码：san0
       
+-  配套 ``LittleVGL开源图形界面`` 视频链接：https://pan.baidu.com/s/16xspIfFJSKCL7y_JU_HSgw 提取码：4xri
+ 
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
