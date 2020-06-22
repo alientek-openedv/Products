@@ -18,7 +18,7 @@
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频链接：https://pan.baidu.com/s/1FpQ6NLWtA4-pSq6BZjPblQ 提取码：27hv  
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频链接：https://pan.baidu.com/s/1C0pqc8XOeOmQ8_57ymTmzA 提取码：fy6u 
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频D盘：https://pan.baidu.com/s/12TY1IZapbyUZKcoUF1X2eg 提取码：3gyr
   
 
 在线教学视频链接

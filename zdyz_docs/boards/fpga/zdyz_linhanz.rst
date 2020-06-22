@@ -7,7 +7,7 @@ ZYNQ领航者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/15m5GudQ30Fjbz7vC_ryzUw   提取码：i4ag
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1tOvQgunHOYVTOEgkwWj-mA   提取码：208o
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1Z-5wW5zcoBkuUuoVvW7WAA   提取码：paoz 
 
