@@ -5,7 +5,7 @@
 资料下载链接
 ------------
 
-- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1g_4rRfB6ORL570pDhKtwOQ  提取码：fnq1
+- ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1U9v-ZQvsOc20PchnUVX66Q  提取码：yto4
   
 
 视频网盘链接
