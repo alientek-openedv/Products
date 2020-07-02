@@ -11,8 +11,8 @@ LORA模块ATK-LORA-02
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1dVQKl384NnoENN9fByaJ-A 
-- 提取码：hpo7
+- 资料链接：https://pan.baidu.com/s/1dzrzALbPOpJC_IdTI6AzhA
+- 提取码：8xpf
   
 产品讨论帖
 ^^^^^^^^^^
