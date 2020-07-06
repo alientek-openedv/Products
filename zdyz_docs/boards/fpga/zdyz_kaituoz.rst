@@ -7,7 +7,7 @@ FPGA开拓者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1J0SzJ4lYrzJQdJK_vw2UEQ  提取码：16bl
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1tzdbF5-E51OwWyGzL0SQ5g  提取码：etty
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1a9d-bq9RZmWrRV542X4IEA  提取码：ifte
 
