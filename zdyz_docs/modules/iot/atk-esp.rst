@@ -11,8 +11,8 @@ WIFI模块ATK-ESP8266
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1unzVqKUBGb9fTyruOrcCRA
-- 提取码：s2ic
+- 资料链接：https://pan.baidu.com/s/1hZYjJ7mOM5ss_BJN2veRnQ
+- 提取码：4ztf
   
 产品讨论帖
 ^^^^^^^^^^
