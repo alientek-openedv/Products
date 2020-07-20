@@ -18,6 +18,7 @@ Mini-Pro脱机烧录器
 ^^^^^^^^^^
 
 - Mini-Pro脱机烧录器产品讨论贴: http://www.openedv.com/thread-285319-1-1.html
+- Mini-Pro脱机烧录器售后QQ群: 951611160
 
 
 产品图片
