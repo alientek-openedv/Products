@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-WIFI模块ATK-ESP8266
+角度传感器模块ATK-IMU901
 ============================================
 
 
@@ -11,48 +11,56 @@ WIFI模块ATK-ESP8266
 模块使用资料
 ^^^^^^^^^^
 
-
-- 资料链接：https://pan.baidu.com/s/1oh25sQhbW56Oww9Q4diIOg
-- 提取码：eubf
+- 百度网盘-链接：https://pan.baidu.com/s/1sAxB9bINBOrXaNlohlOmOA 
+- 提取码：sdtm
 
   
 产品讨论帖
 ^^^^^^^^^^
 
-- WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/thread-308397-1-1.html
-
+- 角度传感器模块产品讨论贴: http://www.openedv.com/thread-314093-1-1.html
 
 
 产品图片
 --------
 
-- WIFI模块ATK-ESP8266主图如下所示
 
-.. _pic_major_826601:
+- 角度传感器模块ATK-IMU901主图如下所示
 
-.. figure:: media/826601.png
+.. _pic_major_zhiwen:
 
-
-   
-  ATK-ESP8266实物图正面
-
-
-
-.. _pic_major_8266:
-
-.. figure:: media/8266.png
+.. figure:: media/DSC_0002.png
 
 
    
-  ATK-ESP8266实物图背面
+  角度传感器模块实物图正面
 
+
+
+.. _pic_major_zhiwen01:
+
+.. figure:: media/DSC_0003.png
+
+
+   
+  角度传感器模块实物图背面
+
+
+
+.. _pic_major_m7512:
+
+.. figure:: media/DSC_0308.JPG
+
+
+   
+  角度传感器模块实物图侧面
 
 
 
 购买方式
---------
+-------- 
 
-- 正点原子官方淘宝店：https://openedv.taobao.com 
+正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 
@@ -72,6 +80,4 @@ WIFI模块ATK-ESP8266
 
  | :ref:`公司简介` 
  | :ref:`联系方式`
-
-
 
