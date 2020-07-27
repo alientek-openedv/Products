@@ -16,7 +16,7 @@ stm32f103战舰开发板
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频C盘：https://pan.baidu.com/s/1vv9gjV9SUYmFuTbrq-ixYg 提取码：vszw 
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频D盘：https://pan.baidu.com/s/1UOTZg51uauX_0R8n1Z9gLw 提取码：75x4
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频D盘：https://pan.baidu.com/s/1w73sP0d0kYZw933gPRagsA 提取码：yx13
 
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
