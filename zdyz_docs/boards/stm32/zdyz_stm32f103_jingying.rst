@@ -14,7 +14,7 @@ stm32f103精英开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1q_dTdNDaNt5fqU26G5UXiA 提取码：ivmr
+-  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1OZYAyxKBQ1mh8IJRtOYD0A 提取码：00wg
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频C盘：https://pan.baidu.com/s/1vv9gjV9SUYmFuTbrq-ixYg 提取码：vszw 
 
