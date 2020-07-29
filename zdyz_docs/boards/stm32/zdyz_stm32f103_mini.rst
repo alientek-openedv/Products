@@ -7,7 +7,7 @@ stm32f103-mini开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1x2kYF86FMk8A5cI4W0Vm4Q  提取码：86ft
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1A_AeqtVpJonr7-QWCayEdw  提取码：7ljr
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -16,7 +16,7 @@ stm32f103-mini开发板
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频C盘：https://pan.baidu.com/s/1vv9gjV9SUYmFuTbrq-ixYg 提取码：vszw 
 
--  配套 ``手把手教你学STM32-M3高级篇`` 视频D盘：https://pan.baidu.com/s/1gzhDLXVaodtQW-AYzOUIaQ 提取码：7ad7
+-  配套 ``手把手教你学STM32-M3高级篇`` 视频D盘：https://pan.baidu.com/s/11qdNQDrjyQvkYOYVlE3vsA 提取码：xpjx
 
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
