@@ -7,7 +7,7 @@ stm32f407探索者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1kQDBbC6fRcijsyoXeV0dcw  提取码：hnde
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1lTam-Cl_8XxMPjay7x7MDQ  提取码：hstk
 
 视频网盘链接
 ^^^^^^^^^^^
