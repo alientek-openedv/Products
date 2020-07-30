@@ -11,8 +11,8 @@ ST-LINKV2仿真器
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接：https://pan.baidu.com/s/13S9XGR5u_3Vrc0VdeXcdRw 
-- 提取码：6s65
+- 百度网盘-链接：https://pan.baidu.com/s/16CuGHbMh9V6823TK5aF2Ig 
+- 提取码：du39
   
 产品讨论帖
 ^^^^^^^^^^
