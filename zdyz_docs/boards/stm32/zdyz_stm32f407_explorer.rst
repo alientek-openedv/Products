@@ -7,7 +7,7 @@ stm32f407探索者开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1kQDBbC6fRcijsyoXeV0dcw  提取码：hnde
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1lTam-Cl_8XxMPjay7x7MDQ  提取码：hstk
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -16,7 +16,7 @@ stm32f407探索者开发板
 
 -  配套 ``手把手教你学STM32-M4中级篇`` 视频C盘：https://pan.baidu.com/s/147LySRrrZSLWlv6HHaC5Mw 提取码：q8t4
 
--  配套 ``手把手教你学STM32-M4高级篇`` 视频D盘：https://pan.baidu.com/s/1YsSaxmfF8QXZYF4fNqEjyg 提取码：w4k6
+-  配套 ``手把手教你学STM32-M4高级篇`` 视频D盘：https://pan.baidu.com/s/18jusFiKw8v6aPGIzydODvA 提取码：e23r
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
    

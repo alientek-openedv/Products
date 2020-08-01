@@ -16,7 +16,7 @@ ZYNQ启明星开发板
 
 -  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频C盘：https://pan.baidu.com/s/1XMzAlvBkCQnivZEk67QT8g   提取码：vxfq
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1rb8vASpeRyJFKk6RF5uM-w   提取码：a138  
+-  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1kxuC30FqXS0JLDOEyg5MHw   提取码：c996  
       
 
 视频在线学习平台
