@@ -34,6 +34,15 @@ IoT模块
 
    bluetooth
 
+   ATK-BLE01
+
+   ATK-UART2EHT
+
+   ATK-GM510
+
+
+
+
 
    
 
