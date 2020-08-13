@@ -7,7 +7,7 @@ stm32f103最小系统板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1p-ETAXbIQJQZ69xySI9VIQ 提取码：zds4 
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1_MOsheAg3gW3nplZ2RgOEw  提取码：9big
 
 视频网盘链接
 ^^^^^^^^^^^
