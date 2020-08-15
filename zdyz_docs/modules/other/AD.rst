@@ -18,7 +18,7 @@
 产品讨论帖
 ^^^^^^^^^^
 
-- 双路AD模块产品讨论贴: http://www.openedv.com/thread-315229-1-1.html
+- 双路AD模块产品讨论贴: http://www.openedv.com/thread-315532-1-1.html
 
 产品图片
 --------
