@@ -8,7 +8,7 @@ stm32f103精英开发板
 资料盘链接
 ^^^^^^^^^^^
 
--  ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1AsBmObxH3vy6eHfcmDKFPw 提取码：z7gr   
+-  ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1yDPc09DeTfKPHrn61mH7fg 提取码：f53g  
   
 
 视频网盘链接
