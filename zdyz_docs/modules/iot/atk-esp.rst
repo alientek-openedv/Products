@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-WIFI模块ATK-ESP8266
+WIFI模块ATK-ESP8266(ESP 01)
 ============================================
 
 
@@ -19,7 +19,7 @@ WIFI模块ATK-ESP8266
 产品讨论帖
 ^^^^^^^^^^
 
-- WIFI模块ATK-ESP8266产品讨论贴: http://www.openedv.com/thread-308397-1-1.html
+- WIFI模块ATK-ESP8266(ESP 01)产品讨论贴: http://www.openedv.com/thread-308397-1-1.html
 
 
 
