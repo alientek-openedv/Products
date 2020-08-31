@@ -26,6 +26,8 @@
 
    ATK-RGB2VGA
 
+   ATK-RGB2hdim
+
    ATK-USB-TTL
 
    ATK-VL53L0X
