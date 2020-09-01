@@ -14,7 +14,7 @@ FPGA达芬奇开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学FPGA-达芬奇之基础篇`` 视频C盘：https://pan.baidu.com/s/1SPomrda-X236fs4I21u7_g  提取码：qqtt
+-  配套 ``手把手教你学FPGA-达芬奇之基础篇`` 视频C盘：https://pan.baidu.com/s/1SPomrda-X236fs4I21u7_g   提取码：qqtt
  
 
 视频在线学习平台
