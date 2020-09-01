@@ -7,7 +7,7 @@ FPGA达芬奇开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1yVejB0puIUZb_d2S2uxKxQ  提取码：zblm
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1yVejB0puIUZb_d2S2uxKxQ   提取码：zblm
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1xSePUk9xwMS8Mdu5wuucCw  提取码：ycfe
 
