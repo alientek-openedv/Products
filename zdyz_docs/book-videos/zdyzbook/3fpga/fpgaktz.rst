@@ -8,7 +8,7 @@
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接：https://pan.baidu.com/s/1q92AjIsaeyFTtxfmYv0rXQ  提取码：r98l
+- ``资料盘`` 资料链接：https://pan.baidu.com/s/1OY2teBw76eo7YrKIbNz4dQ  提取码：isml
 - ``工具盘`` 资料链接：https://pan.baidu.com/s/142Y-V_L5Q8gWVKpEzMXEWg  提取码：kczh   
 
 视频在线学习平台
