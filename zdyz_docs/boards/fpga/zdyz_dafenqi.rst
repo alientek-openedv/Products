@@ -7,7 +7,7 @@ FPGA达芬奇开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1bb77oHaR8pTm96KVEFUihA   提取码：5ynv
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1OHAb-5r7fRqN7AITuCatGw    提取码：0k1n 
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1xSePUk9xwMS8Mdu5wuucCw  提取码：ycfe
 
@@ -15,7 +15,8 @@ FPGA达芬奇开发板
 ^^^^^^^^^^^
 
 
--  配套 ``手把手教你学FPGA-达芬奇之基础篇`` 视频C盘：https://pan.baidu.com/s/1A8BJkf1f88eQK_LUuJRvWA    提取码：f7il 
+-  配套 ``手把手教你学FPGA-达芬奇之基础篇`` 视频C盘：https://pan.baidu.com/s/1dwXSU2BccFcxKlzKy-n1Ug     提取码：7rxa 
+
 
 
 视频在线学习平台
