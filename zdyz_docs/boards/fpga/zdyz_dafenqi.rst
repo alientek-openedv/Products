@@ -15,7 +15,7 @@ FPGA达芬奇开发板
 ^^^^^^^^^^^
 
 
--  配套 ``手把手教你学FPGA-达芬奇之基础篇`` 视频C盘：https://pan.baidu.com/s/1mW-oXWIx6pxnky1CAhm7sQ      提取码：3mu4
+-  配套 ``手把手教你学FPGA-达芬奇之基础篇`` 视频C盘：https://pan.baidu.com/s/1FDh4JzYh06cAsjCby2L7fg       提取码：zdyz
 
 
 
