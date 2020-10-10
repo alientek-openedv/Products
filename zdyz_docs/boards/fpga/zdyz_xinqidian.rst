@@ -7,7 +7,7 @@ FPGA新起点开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1b-t9tSTXQ38BtvquDH9sAw 提取码：ut41
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1BhILw_cJCjhqRfrOeqH2yg  提取码：tiq8
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1lWPzHaDmAmqQwG5UZEaJ0w   提取码：f0r0   
 
