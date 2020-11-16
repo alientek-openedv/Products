@@ -11,6 +11,8 @@ FPGA新起点开发板
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1lWPzHaDmAmqQwG5UZEaJ0w   提取码：f0r0   
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1094eOuLSjofI5P6viHANFA  提取码：1zmt
+
 视频网盘链接
 ^^^^^^^^^^^
 

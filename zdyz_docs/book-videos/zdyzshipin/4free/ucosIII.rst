@@ -6,7 +6,8 @@
 ------------
 
 - 链接：https://pan.baidu.com/s/1s9MdUj4UYA9XWdUd6KIFfw  提取码：z6ex
-  
+
+- PPT合集链接：https://pan.baidu.com/s/1Yv5uFFOd1PioF_QjSEuMDA  提取码：z3aa  
 
 视频网盘链接
 ^^^^^^^^^^^

@@ -8,6 +8,7 @@
 
 - 链接：https://pan.baidu.com/s/1po3_yW4BhElFiVTrHWpQCw  提取码：2qbw
   
+- 视频PPT链接：https://pan.baidu.com/s/1RfWy-cd3nO7oeLiCH5yI6A  提取码：3f09
 
 视频网盘链接
 ^^^^^^^^^^^

@@ -18,6 +18,9 @@ Mini Linux开发板
 - ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1j5Jzbdx9i-g0cWIi3wf2XA  提取码：ag1u
 
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/17ihShsy48laAj2VLkG74Cg  提取码：g4eg
+
+- ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/12C3yhpVuugtaHkhWjxfsSg  提取码：ho0m
+
 视频网盘链接
 ^^^^^^^^^^^
 
