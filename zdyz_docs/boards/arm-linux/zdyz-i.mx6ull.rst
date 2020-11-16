@@ -19,6 +19,8 @@ i.MX6ULL Linux阿尔法开发板
 
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1FSJY3PdFgV2WV4lT6Ps8fA  提取码：qsxb
 
+- ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/12C3yhpVuugtaHkhWjxfsSg  提取码：ho0m
+
 视频网盘链接
 ^^^^^^^^^^^
 

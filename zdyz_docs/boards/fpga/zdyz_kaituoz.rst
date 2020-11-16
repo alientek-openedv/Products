@@ -11,6 +11,8 @@ FPGA开拓者开发板
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1a9d-bq9RZmWrRV542X4IEA  提取码：ifte
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1XXrF8NNMNLvdGCnYz8GMwQ  提取码：gped
+
 视频网盘链接
 ^^^^^^^^^^^
 

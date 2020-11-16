@@ -9,6 +9,8 @@ stm32f103-mini开发板
 
 - ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1A_AeqtVpJonr7-QWCayEdw  提取码：7ljr
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1pHyHJWhdZl9Lf2Wo7Q3DBQ  提取码：kkil  
+
 视频网盘链接
 ^^^^^^^^^^^
 

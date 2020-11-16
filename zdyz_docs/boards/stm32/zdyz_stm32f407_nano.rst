@@ -9,6 +9,8 @@ stm32f411-nano开发板
 
 - ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1Su2UetOEe8mDj7tbtM9saQ 提取码：qmws 
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1BqurRnU7GCvie-8dEPfndQ  提取码：txqu  
+
 视频网盘链接
 ^^^^^^^^^^^
 -  配套 ``手把手教你学STM32-M4入门篇`` 视频B盘：https://pan.baidu.com/s/1CClMcY7d7SAEe-CZaHRoUg 提取码：u4w5
