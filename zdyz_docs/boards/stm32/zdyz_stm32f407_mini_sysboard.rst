@@ -9,6 +9,8 @@ stm32f407最小系统板
 
 - ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1ZD1v2gl2yNgYocGLwG3fGQ 提取码：z1zt 
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1BqurRnU7GCvie-8dEPfndQ  提取码：txqu  
+
 视频网盘链接
 ^^^^^^^^^^^
 

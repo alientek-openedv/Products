@@ -11,6 +11,8 @@ ZYNQ启明星开发板
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1oO-iQNb0Yy-bFp7iGHVoIw   提取码：ua3s
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1jtNklZ04WYMJl4U8ufCxuQ  提取码：7k7j
+
 视频网盘链接
 ^^^^^^^^^^^
 

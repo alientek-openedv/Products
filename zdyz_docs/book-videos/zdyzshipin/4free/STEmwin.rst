@@ -7,6 +7,7 @@
 
 - 链接：https://pan.baidu.com/s/16Bfj_NVwI5kd6kOGKgaX6g  提取码：r33l
   
+- 视频PPT链接：https://pan.baidu.com/s/18IJaMOyGRbMIUTK578kp2w  提取码：wp2n
 
 视频网盘链接
 ^^^^^^^^^^^

@@ -9,7 +9,8 @@ stm32f103精英开发板
 ^^^^^^^^^^^
 
 -  ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/18y_69vS5ROFgxPe3mmC4-w  提取码：xva4
-  
+
+-  ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1pHyHJWhdZl9Lf2Wo7Q3DBQ  提取码：kkil  
 
 视频网盘链接
 ^^^^^^^^^^^
