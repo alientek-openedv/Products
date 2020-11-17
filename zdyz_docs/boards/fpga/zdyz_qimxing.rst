@@ -20,6 +20,7 @@ ZYNQ启明星开发板
 
 -  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1E1ygBHYdLYz6qmZUUtQtsw   提取码：awb8 
       
+-  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw   
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^

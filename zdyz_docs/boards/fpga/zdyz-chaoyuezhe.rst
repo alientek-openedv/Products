@@ -1,6 +1,5 @@
-
-手把手教你学ZYNQ
-=================================
+FPGA超越者开发板
+==========================
 
 资料下载链接
 ------------
@@ -8,20 +7,17 @@
 资料盘链接
 ^^^^^^^^^^^
 
-
-- ``资料盘`` 资料链接： https://pan.baidu.com/s/1p4VPYRjy3CT7lp2omLDGZg   提取码：dpdt  
+- ``资料盘`` 资料链接A盘： 预售中，待正式发售更新 提取码： 
  
-- ``工具盘`` 资料链接： https://pan.baidu.com/s/1ojifj-_F8i3ZdBQy4floVw   提取码：rcvv   
-
+- ``工具盘`` 资料链接B盘： 预售中，待正式发售更新 提取码：
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：https://pan.baidu.com/s/1ITSwlY4vxU_mcZWJRWdr1Q   提取码：tk7k
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接： https://pan.baidu.com/s/1w_DS6_p5RF1qPYq576VdGQ  提取码：ilzh  
+-  配套 ``手把手教你学FPGA`` 视频C盘：        提取码 
 
--  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw         
+
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
@@ -32,18 +28,32 @@
 #. B站哔哩哔哩：https://space.bilibili.com/394620890
 #. 腾讯课堂：https://ke.qq.com/course/278479
 
+
+产品讨论帖
+^^^^^^^^^^^^^^^^^
+
+- FPGA超越者开发板产品讨论贴: http://www.openedv.com/thread-319385-1-1.html
+
+
+
 产品图片
 --------
 
-手把手教你学ZYNQ视频封面主图如下所示。
+- FPGA超越者开发板主图如下所示
 
-.. _pic_major_ZYNQ:
+.. _pic_major_cyzz:
 
-.. figure:: media/ZYNQ.png
-
+.. figure:: media/cyzz.png
 
    
- 手把手教你学ZYNQ视频封面
+ FPGA超越者开发板正面图
+
+.. _pic_major_cyzb:
+
+.. figure:: media/cyzb.png
+
+   
+ FPGA超越者开发板背面图
 
 
 产品问题答疑
