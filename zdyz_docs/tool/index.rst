@@ -5,6 +5,7 @@
    solder/index
    dap/index
    programmer/index
+   shiboqi/index
    
 
 
