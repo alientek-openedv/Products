@@ -37,6 +37,7 @@ ZYNQ领航者开发板
 
 - ZYNQ领航者开发板产品讨论贴:  http://www.openedv.com/thread-301505-1-1.html
 
+- 正点原子领航者ZYNQ开发板交流群：905624739
 
 产品图片
 --------

@@ -21,7 +21,7 @@ WIFI模块ATK-ESP8266(ESP 01)
 
 - WIFI模块ATK-ESP8266(ESP 01)产品讨论贴: http://www.openedv.com/thread-308397-1-1.html
 
-
+- 正点原子ESP8266交流群：538794978
 
 产品图片
 --------

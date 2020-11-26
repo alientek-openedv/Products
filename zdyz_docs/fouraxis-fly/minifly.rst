@@ -25,6 +25,7 @@ MiniFly四轴飞行器
 
 - MiniFly四轴飞行器产品讨论贴: http://www.openedv.com/thread-105197-1-1.html
 
+- 正点原子四轴交流群：322406119
 
 产品图片
 --------

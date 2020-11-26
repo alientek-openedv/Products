@@ -22,6 +22,7 @@
 
 - 4G通信模块ATK-GM510产品讨论贴: http://www.openedv.com/thread-315012-1-1.html
 
+- 正点原子2G/4G DTU模块交流群：811175957
 
 产品图片
 --------

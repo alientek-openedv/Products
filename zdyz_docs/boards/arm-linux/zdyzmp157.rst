@@ -36,6 +36,8 @@ STM32MP157开发板
 
 - STM32MP157开发板产品讨论贴: http://www.openedv.com/thread-318813-1-1.html
 
+- 正点原子STM32MP157开发板交流群：691905614
+
 
 产品图片
 --------

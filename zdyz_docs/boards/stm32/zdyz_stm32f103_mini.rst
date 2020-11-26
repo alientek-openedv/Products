@@ -47,6 +47,7 @@ stm32f103-mini开发板
 
 - stm32f103-mini开发板产品讨论贴: http://www.openedv.com/thread-308948-1-1.html
 
+- 正点原子STM32技术交流群:1047238198
 
 产品图片
 --------

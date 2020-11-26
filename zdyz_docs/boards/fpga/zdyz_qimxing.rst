@@ -37,6 +37,7 @@ ZYNQ启明星开发板
 
 - ZYNQ启明星开发板产品讨论贴:  http://www.openedv.com/thread-301506-1-1.html
 
+- 正点原子启明星ZYNQ开发板交流群：905624739
 
 产品图片
 --------
