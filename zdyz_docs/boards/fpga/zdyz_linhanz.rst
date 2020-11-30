@@ -11,7 +11,7 @@ ZYNQ领航者开发板
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1Z-5wW5zcoBkuUuoVvW7WAA   提取码：paoz 
 
-- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1OX8eDs9NJ-y5i6oThqFArg  提取码：rtoh
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1uzbFXifUl2DT9iXdLTXYDg  提取码：tk3o
 
 视频网盘链接
 ^^^^^^^^^^^
