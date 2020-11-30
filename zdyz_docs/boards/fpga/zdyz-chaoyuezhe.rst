@@ -27,7 +27,7 @@ FPGA超越者开发板
 
 - FPGA超越者开发板产品讨论贴: http://www.openedv.com/thread-319385-1-1.html
 
-
+- 正点原子FPGA超越者开发板交流群：905624739
 
 产品图片
 --------

@@ -11,7 +11,7 @@ ZYNQ领航者开发板
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1Z-5wW5zcoBkuUuoVvW7WAA   提取码：paoz 
 
-- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1jtNklZ04WYMJl4U8ufCxuQ  提取码：7k7j
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1uzbFXifUl2DT9iXdLTXYDg  提取码：tk3o
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -37,6 +37,7 @@ ZYNQ领航者开发板
 
 - ZYNQ领航者开发板产品讨论贴:  http://www.openedv.com/thread-301505-1-1.html
 
+- 正点原子领航者ZYNQ开发板交流群：905624739
 
 产品图片
 --------

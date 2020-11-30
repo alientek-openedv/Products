@@ -46,6 +46,8 @@ Mini Linux开发板
 ^^^^^^^^^^^^^^^^^
 
 - Mini Linux开发板开发板产品讨论贴: http://www.openedv.com/thread-309033-1-1.html
+  
+- 正点原子阿尔法Linux开发板交流群：820906224
 
 
 产品图片
