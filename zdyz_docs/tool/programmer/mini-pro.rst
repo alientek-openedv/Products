@@ -9,8 +9,8 @@ Mini-Pro脱机烧录器
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接： https://pan.baidu.com/s/1jeBHduTOsqFv1uqXE7qZoQ 
-- 提取码：xu0y 
+- 百度网盘-链接：https://pan.baidu.com/s/19OeZE1KUW6fskjHCYVkf5g
+- 提取码：vwaq
   
 产品讨论帖
 ^^^^^^^^^^
