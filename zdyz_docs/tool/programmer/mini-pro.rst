@@ -3,14 +3,22 @@
 Mini-Pro脱机烧录器
 ============================================
 
+产品介绍
+----------
+
+- ``产品展示视频`` https://www.bilibili.com/video/BV1wa4y1W7om
+
 资料链接
 ------------
 
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接：https://pan.baidu.com/s/19OeZE1KUW6fskjHCYVkf5g
-- 提取码：vwaq
+
+- 百度网盘-链接：https://pan.baidu.com/s/14dP_mC8jMjWBJcDhfe_Jhw
+- 提取码：idbf
+
+
   
 产品讨论帖
 ^^^^^^^^^^
