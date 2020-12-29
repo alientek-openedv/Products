@@ -6,7 +6,7 @@
 产品介绍
 ----------
 
-- ``产品展示视频`` B站哔哩哔哩链接：https://space.bilibili.com/394620890/video
+- ``产品展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1fy4y1v7dM
 
 资料链接
 ------------
