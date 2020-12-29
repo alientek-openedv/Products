@@ -15,6 +15,12 @@ FPGA超越者开发板
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1z7_dz4YdBnfpLueSbW-65Q  提取码：7ugl
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1jSFI5HpIVP8UZzD2b72WWQ  提取码：183m
+
+视频网盘链接
+^^^^^^^^^^^
+
+-  配套 ``手把手教你学FPGA-超越者`` 视频C盘：https://pan.baidu.com/s/146-rZUU0CG3Y3Th6ZJqxxA  提取码：o0u1
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
