@@ -26,7 +26,7 @@ stm32f103精英开发板
    
 -  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/15Rt5mj1Z1ZXwxf4aUyLAGg 提取码：iuma   
 
--  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1QL9RSaOyX6zvKqF0hQcWhw 提取码：fa8z
+-  配套 ``STemWin-图形界面`` 视频链接：https://pan.baidu.com/s/1QL9RSaOyX6zvKqF0hQcWhw 提取码：fa8z
 
 -  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1FruKtxfOe_bTJ2EPEN20Rg 提取码：ywf5
 
