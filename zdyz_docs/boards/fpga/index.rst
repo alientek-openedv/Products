@@ -16,6 +16,8 @@
 
    zdyz_dafenqi
 
+   zdyz_dafenqipro
+
    zdyz-chaoyuezhe
 
 
