@@ -10,6 +10,12 @@
 
    zynq
 
+   dfq
+
+   dfqpro
+
+   cyz
+
 
 
    
