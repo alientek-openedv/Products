@@ -17,11 +17,11 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频链接：https://pan.baidu.com/s/1ITSwlY4vxU_mcZWJRWdr1Q   提取码：tk7k
+-  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频C盘：https://pan.baidu.com/s/1ATMmVzBQ7FbVpc6rZLz6Hw   提取码：m5nr
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频链接： https://pan.baidu.com/s/1w_DS6_p5RF1qPYq576VdGQ  提取码：ilzh  
-
--  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw         
+-  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1iUWGFVQastZel4sBgVMFDQ   提取码：35jt  
+  
+-  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw      
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
