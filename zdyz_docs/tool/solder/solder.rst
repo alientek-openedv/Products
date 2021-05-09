@@ -15,8 +15,8 @@ T100智能焊台
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接：https://pan.baidu.com/s/1s_FQ4MdksAk3cr4i0m4N4Q 
-- 提取码：vmab
+- 百度网盘-链接：https://pan.baidu.com/s/1VoiIE2OD8saNBj8XDcXT0g 
+- 提取码：sq7h
   
 产品讨论帖
 ^^^^^^^^^^
