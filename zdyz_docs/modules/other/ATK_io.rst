@@ -19,6 +19,15 @@ IO扩展板
 - IO扩展板产品讨论贴: http://www.openedv.com/thread-326062-1-1.html
 
 
+产品图片
+--------
+
+
+- IO扩展板正面图如下所示。
+
+.. _pic_major_io:
+
+.. figure:: media/io.png
 
 购买方式
 -------- 
