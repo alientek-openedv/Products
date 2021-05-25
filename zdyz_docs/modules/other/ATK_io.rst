@@ -1,13 +1,7 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-T100智能焊台
+IO扩展板
 ============================================
-
-产品介绍
-----------
-
-- ``产品展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Xt4y1e7be 
-
 
 资料链接
 ------------
@@ -15,40 +9,25 @@ T100智能焊台
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接：https://pan.baidu.com/s/1VoiIE2OD8saNBj8XDcXT0g 
-- 提取码：sq7h
+- 百度网盘-链接：https://pan.baidu.com/s/17MDUxSZQO1EeRMqLcCHLuQ 
+- 提取码：1ev1
+
   
 产品讨论帖
 ^^^^^^^^^^
 
-- T100智能焊台产品讨论贴: http://www.openedv.com/thread-296324-1-1.html
+- IO扩展板产品讨论贴: http://www.openedv.com/thread-326062-1-1.html
 
-- 正点原子T100焊台交流群：1076573067
 
 产品图片
 --------
 
 
-- T100智能焊台主图如下所示。
+- IO扩展板正面图如下所示。
 
-.. _pic_major_T100:
+.. _pic_major_io:
 
-.. figure:: media/T100.png
-
-
-   
-  T100智能焊台实物图正面
-
-
-
-.. _pic_major_T100b:
-
-.. figure:: media/T100b.png
-
-
-   
-  T100智能焊台实物图背面
-
+.. figure:: media/io.png
 
 购买方式
 -------- 

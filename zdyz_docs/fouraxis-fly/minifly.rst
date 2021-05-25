@@ -17,8 +17,8 @@ MiniFly四轴飞行器
 
 产品使用资料
 ^^^^^^^^^^
-- 百度网盘-链接：https://pan.baidu.com/s/1_vFSgfy2ngB5pu7lkk4FlQ
-- 提取码：ohss
+- 百度网盘-链接：https://pan.baidu.com/s/1aTqCt_WSNo5BtWXNYwp8FQ
+- 提取码：gekf
 
 产品讨论帖
 ^^^^^^^^^^  

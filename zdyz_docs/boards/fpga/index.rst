@@ -22,6 +22,8 @@
 
    zdyz_S6xtb
 
+   zdyz_E10
+
 
 
 
