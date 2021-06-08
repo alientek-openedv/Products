@@ -13,7 +13,7 @@ FPGA达芬奇开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1Kj_Rm0LCk59kuab8qFKnpw    提取码：4mr4 
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1QtM1gzDMh5Rjt2mQCUakQA    提取码：hsqm 
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1xSePUk9xwMS8Mdu5wuucCw  提取码：ycfe
 
