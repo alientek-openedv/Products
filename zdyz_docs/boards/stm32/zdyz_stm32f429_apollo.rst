@@ -11,7 +11,7 @@ stm32f429阿波罗开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：链接：https://pan.baidu.com/s/1A_0SqeQsemNUAY_GdE-umg 提取码：46q8
+- ``资料盘`` 开发板资料A盘：链接：https://pan.baidu.com/s/1mblLhDDlWOYIognLSRpNMw 提取码：piub
 
 - ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1n7dMsPo3NLl_lBClV_OoJQ  提取码：h0px  
 
