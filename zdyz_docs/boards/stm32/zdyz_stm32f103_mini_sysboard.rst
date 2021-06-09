@@ -18,7 +18,7 @@ stm32f103最小系统板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1OZYAyxKBQ1mh8IJRtOYD0A 提取码：00wg
+-  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1HZA6ZB0sv5tAV5H8oNq4XA 提取码：inrb
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频C盘：https://pan.baidu.com/s/1vv9gjV9SUYmFuTbrq-ixYg 提取码：vszw 
 
@@ -32,7 +32,8 @@ stm32f103最小系统板
 -  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1FTbeAfRrW33Jvky7ZXI2vg 提取码：ttg6
 
 -  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1LwLyr95R-020gAF_xmLQZg 提取码：san0
-      
+
+-  配套 ``LittleVGL开源图形界面`` 视频链接：https://pan.baidu.com/s/17AGGr-d2aavBmoRyA9Ik-g 提取码：gajx    
 
       
 视频在线学习平台
