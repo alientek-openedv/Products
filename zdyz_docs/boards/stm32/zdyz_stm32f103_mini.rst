@@ -18,7 +18,7 @@ stm32f103-mini开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1OZYAyxKBQ1mh8IJRtOYD0A 提取码：00wg
+-  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1HZA6ZB0sv5tAV5H8oNq4XA 提取码：inrb
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频C盘：https://pan.baidu.com/s/1vv9gjV9SUYmFuTbrq-ixYg 提取码：vszw 
 
