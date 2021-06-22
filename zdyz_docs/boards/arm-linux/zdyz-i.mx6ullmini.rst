@@ -21,6 +21,13 @@ Mini Linux开发板
 
 - ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/12C3yhpVuugtaHkhWjxfsSg  提取码：ho0m
 
+Gitee(码云)文档与代码资料下载链接
+^^^^^^^^^^^
+
+- ``Gitee(码云)`` 下载链接：https://gitee.com/GuangzhouXingyi/projects
+
+
+
 I.MX6U 虚拟机链接
 ^^^^^^^^^^^
 
