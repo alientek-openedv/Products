@@ -6,7 +6,11 @@
 产品介绍
 ----------
 
-- ``产品展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1fy4y1v7dM
+
+- ``产品使用视频（详细版）`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1MM4y1u7WJ
+- ``产品使用视频（快速版）`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1m54y1G7YG
+
+
 
 资料链接
 ------------

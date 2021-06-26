@@ -6,7 +6,7 @@ DAP仿真器【普速版】ATK-HSDAP
 产品介绍
 ----------
 
-- ``产品使用视频（详细）`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1MM4y1u7WJ
+- ``产品使用视频（详细版）`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1MM4y1u7WJ
 - ``产品使用视频（快速版）`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1m54y1G7YG
 
 

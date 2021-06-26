@@ -21,6 +21,13 @@ Mini Linux开发板
 
 - ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/12C3yhpVuugtaHkhWjxfsSg  提取码：ho0m
 
+Gitee(码云)文档与代码资料下载链接
+^^^^^^^^^^^
+
+- ``Gitee(码云)`` 下载链接：https://gitee.com/GuangzhouXingyi/projects
+
+
+
 I.MX6U 虚拟机链接
 ^^^^^^^^^^^
 
@@ -54,7 +61,7 @@ I.MX6U 虚拟机链接
 
 - Mini Linux开发板开发板产品讨论贴: http://www.openedv.com/thread-309033-1-1.html
   
-- 正点原子阿尔法Linux开发板交流群：820906224
+- 正点原子阿尔法Linux开发板交流群：1027879335
 
 
 产品图片

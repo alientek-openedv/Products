@@ -21,6 +21,14 @@ i.MX6ULL Linux阿尔法开发板
 
 - ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/12C3yhpVuugtaHkhWjxfsSg  提取码：ho0m
 
+
+Gitee(码云)文档与代码资料下载链接
+^^^^^^^^^^^
+
+- ``Gitee(码云)`` 下载链接：https://gitee.com/GuangzhouXingyi/projects
+
+
+
 I.MX6U 虚拟机链接
 ^^^^^^^^^^^
 - 学习正点原子I.MX6ULL驱动开发指南、嵌入式QT开发指南等文档教程时，可以使用已经搭建好的虚拟机环境像，节省环境搭建时间。
@@ -53,7 +61,7 @@ I.MX6U 虚拟机链接
 
 - i.MX6ULL Linux阿尔法产品讨论贴: http://www.openedv.com/thread-300792-1-1.html
 
-- 正点原子阿尔法Linux开发板交流群：820906224
+- 正点原子阿尔法Linux开发板交流群：1027879335
 
 产品图片
 --------
