@@ -61,7 +61,7 @@ I.MX6U 虚拟机链接
 
 - i.MX6ULL Linux阿尔法产品讨论贴: http://www.openedv.com/thread-300792-1-1.html
 
-- 正点原子阿尔法Linux开发板交流群：820906224
+- 正点原子阿尔法Linux开发板交流群：1027879335
 
 产品图片
 --------
