@@ -16,8 +16,8 @@ DS100手持数字示波器
 产品使用手册
 ^^^^^^^^^^
 
-- 链接：https://pan.baidu.com/s/1LVw6ESBU6EP7hf6hf7rgQA 
-- 提取码：6vk5
+- 链接：https://pan.baidu.com/s/1J25hIphC3_x7iw4YSd0SCA
+- 提取码：jy6a
   
 DS100功能演示介绍
 ^^^^^^^^^^
