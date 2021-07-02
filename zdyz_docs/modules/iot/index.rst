@@ -36,6 +36,8 @@ IoT模块
 
    ATK-BLE01
 
+   ATK-BLE02
+
    ATK-UART2EHT
 
    ATK-GM510
