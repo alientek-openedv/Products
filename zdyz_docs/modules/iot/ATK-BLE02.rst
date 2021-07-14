@@ -26,24 +26,23 @@
 
 - 蓝牙串口模块ATK-BLE02主图如下所示
 
-.. _pic_major_826601:
+.. _pic_major_lanyaben02 :
 
-.. figure:: media/826601.png
-
-
-   
-  蓝牙串口模块ATK-BLE02实物图正面
-
-
-
-.. _pic_major_8266:
-
-.. figure:: media/8266.png
+.. figure:: media/lanyaben02.png
 
 
    
-  蓝牙串口模块ATK-BLE02实物图背面
+  蓝牙串口模块ATK-BLE02模组实物图正面
 
+
+
+.. _pic_major_lanyaben02bei:
+
+.. figure:: media/lanyaben02bei.png
+
+
+   
+  蓝牙串口模块ATK-BLE02底板实物图正面
 
 
 
