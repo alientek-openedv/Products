@@ -45,7 +45,7 @@ FPGA新起点V2开发板
 产品图片
 --------
 
-- FPGA新起点开发板主图如下所示
+- FPGA新起点V2开发板主图如下所示
 
 .. _pic_major_xinqidianv2:
 
