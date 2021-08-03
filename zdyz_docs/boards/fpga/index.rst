@@ -14,6 +14,8 @@
 
    zdyz_xinqidian.rst
 
+   zdyz_xinqidian(V2)
+
    zdyz_dafenqi
 
    zdyz_dafenqipro
