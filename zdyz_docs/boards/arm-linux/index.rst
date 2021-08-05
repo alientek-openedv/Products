@@ -13,3 +13,4 @@
 
    zdyzmp157
 
+   zdyz-minimp157
