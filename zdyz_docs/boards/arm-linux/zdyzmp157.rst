@@ -19,7 +19,14 @@ STM32MP157开发板
 
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1i1KJeOj5-QPgouFbrbfbPA    提取码：zvp7 
 
-      
+    
+资料盘其他下载方式
+^^^^^^^^^^^
+
+- ``Coding(推荐)`` 下载链接：https://alientek-linux.coding.net/public/
+
+
+
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
 

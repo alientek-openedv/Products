@@ -18,6 +18,11 @@ STM32MP157-Mini开发板
 
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1i1KJeOj5-QPgouFbrbfbPA    提取码：zvp7 
 
+开发板资料盘其他下载方式
+^^^^^^^^^^^
+
+- ``Coding(推荐)`` 下载链接：https://gitee.com/GuangzhouXingyi/projects
+
       
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
