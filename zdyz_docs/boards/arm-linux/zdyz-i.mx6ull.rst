@@ -25,8 +25,6 @@ i.MX6ULL Linux阿尔法开发板
 资料盘其他下载方式
 ^^^^^^^^^^^
 
-- ``Gitee(文档与代码)`` 下载链接：https://gitee.com/GuangzhouXingyi/projects
-
 - ``Coding(推荐)`` 下载链接：https://alientek-linux.coding.net/public/
 
 I.MX6U 虚拟机链接

@@ -7,6 +7,7 @@ STM32MP157-Mini开发板
 
 - ``开发板扫盲介绍系列视频`` B站哔哩哔哩链接：https://space.bilibili.com/394620890/channel/detail?cid=156175  
 
+- ``开发板综合例程演示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV15U4y1E7Bh  
 
 资料下载链接
 ------------
