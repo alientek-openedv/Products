@@ -1,5 +1,5 @@
 
-STM32MP157开发板
+STM32MP157-Mini开发板
 =======================
 
 开发板介绍
@@ -7,7 +7,7 @@ STM32MP157开发板
 
 - ``开发板扫盲介绍系列视频`` B站哔哩哔哩链接：https://space.bilibili.com/394620890/channel/detail?cid=156175  
 
-- ``开发板综合例程演示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1kr4y1c7bv  
+- ``开发板综合例程演示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV15U4y1E7Bh  
 
 资料下载链接
 ------------
@@ -19,14 +19,12 @@ STM32MP157开发板
 
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1i1KJeOj5-QPgouFbrbfbPA    提取码：zvp7 
 
-    
-资料盘其他下载方式
+开发板资料盘其他下载方式
 ^^^^^^^^^^^
 
-- ``Coding(推荐)`` 下载链接：https://alientek-linux.coding.net/public/
+- ``Coding(推荐)`` 下载链接：https://gitee.com/GuangzhouXingyi/projects
 
-
-
+      
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
 
@@ -41,7 +39,7 @@ STM32MP157开发板
 ^^^^^^^^^^^^^^^^^
 
 
-- STM32MP157开发板产品讨论贴: http://www.openedv.com/thread-318813-1-1.html
+- STM32MP157-Mini开发板产品讨论贴: http://www.openedv.com/thread-318813-1-1.html
 
 - 正点原子STM32MP157开发板交流群：691905614
 
@@ -49,33 +47,26 @@ STM32MP157开发板
 产品图片
 --------
 
--  STM32MP157开发板主图如下所示
+-  STM32MP157-Mini开发板主图如下所示
 
 .. _pic_major_mp157_board:
 
-.. figure:: media/mp157/zm.png
+.. figure:: media/mp157/mini mp157zm.png
 
 
    
-  STM32MP157开发板实物图正面
+  STM32MP157-Mini开发板实物图正面
 
 
 .. _pic_major_mp157_core:
 
-.. figure:: media/mp157/dp.png
+.. figure:: media/mp157/mini mp157zm.png
 
 
    
- 开发板+7寸屏照（屏幕需购买）
+ STM32MP157-Mini开发板实物图背面
 
 
-.. _pic_major_mp157_board:
-
-.. figure:: media/mp157/hxb.png
-
-
-   
-   STM32MP157核心板
 
 
 购买方式

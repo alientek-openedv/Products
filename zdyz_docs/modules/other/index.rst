@@ -32,6 +32,8 @@
 
    ATK-VL53L0X
 
+   ATK-MS53L1M
+
    DHT11
 
    DS18B20
