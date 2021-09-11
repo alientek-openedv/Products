@@ -10,6 +10,8 @@
 
    zdyz_linhanz.rst
 
+   zdyz_linhanz(V2)
+
    zdyz_qimxing.rst
 
    zdyz_xinqidian.rst

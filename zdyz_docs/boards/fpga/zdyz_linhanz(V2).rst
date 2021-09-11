@@ -1,6 +1,9 @@
+ZYNQ领航者(V2)开发板
+==========================
 
-手把手教你学ZYNQ
-=================================
+开发板介绍
+----------
+- ``开发板综合例程演示视频``：B站哔哩哔哩链接：https://www.bilibili.com/video/BV1W5411576R
 
 资料下载链接
 ------------
@@ -8,11 +11,11 @@
 资料盘链接
 ^^^^^^^^^^^
 
-
-- ``资料盘`` 资料链接： https://pan.baidu.com/s/1_Jdq8uOpFxfD6y9W8qQpdQ   提取码：8idq  
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1HfLbsZuOyjHmJIBtprZc-Q    提取码：es5y
  
-- ``工具盘`` 资料链接： https://pan.baidu.com/s/1IkRckkFVKuLHs7w9fIyOog   提取码：h7bl   
+- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1Z-5wW5zcoBkuUuoVvW7WAA   提取码：paoz 
 
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1uzbFXifUl2DT9iXdLTXYDg  提取码：tk3o
 
 视频网盘链接
 ^^^^^^^^^^^
@@ -21,7 +24,7 @@
 
 -  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1iUWGFVQastZel4sBgVMFDQ   提取码：35jt  
   
--  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw      
+-  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw        
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
@@ -32,18 +35,36 @@
 #. B站哔哩哔哩：https://space.bilibili.com/394620890
 #. 腾讯课堂：https://ke.qq.com/course/278479
 
+
+产品讨论帖
+^^^^^^^^^^^^^^^^^
+
+- ZYNQ领航者(V2)开发板产品讨论贴:  http://www.openedv.com/thread-301505-1-1.html
+
+- 正点原子ZYNQ技术交流群：905624739
+
 产品图片
 --------
 
-手把手教你学ZYNQ视频封面主图如下所示。
+- ZYNQ领航者(V2)开发板主图如下所示
 
-.. _pic_major_ZYNQ:
+.. _pic_major_linhanzV2:
 
-.. figure:: media/ZYNQ.png
+.. figure:: media/linhanzV2.png
 
 
    
- 手把手教你学ZYNQ视频封面
+ ZYNQ领航者(V2)开发板正面图
+
+.. _pic_major_linhanzV2bei:
+
+.. figure:: media/linhanzV2bei.png
+
+
+   
+ ZYNQ领航者(V2)开发板背面图
+
+
 
 
 产品问题答疑
