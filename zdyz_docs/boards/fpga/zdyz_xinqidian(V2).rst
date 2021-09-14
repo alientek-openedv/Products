@@ -19,14 +19,8 @@ FPGA新起点V2开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  参考 ``手把手教你学FPGA-新起点之基础篇`` 视频C盘：https://pan.baidu.com/s/18pVvGVeZxMo1zeDWTXir4A  提取码：2svp
+-  配套 ``手把手教你学FPGA-新起点V2`` 视频C盘：https://pan.baidu.com/s/1LHSPOcHIYDeUNk4dLGnx8A  提取码：kynw
 
--  参考 ``手把手教你学FPGA-新起点之中级篇`` 视频D盘：https://pan.baidu.com/s/19s9vWVTQBPvAy6B9ZIZcNg  提取码：pc68  
-
--  参考 ``手把手教你学FPGA-新起点之高级篇`` 视频E盘：https://pan.baidu.com/s/1Kl-w7jfyP3Dz3PvtAASPew  提取码：hpg2 
-   
--  参考 ``手把手教你学FPGA-新起点之NiosII篇`` 视频F盘：https://pan.baidu.com/s/1jEnOsIdziv-_ykwgsTtaoQ  提取码：50hn  
-      
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
@@ -43,7 +37,7 @@ FPGA新起点V2开发板
 
 - FPGA新起点V2开发板产品讨论贴: http://www.openedv.com/thread-328002-1-1.html
 
-- 正点原子FPGA开发板交流群：712557122
+- 正点原子FPGA开发板交流群：994244016
 
 产品图片
 --------

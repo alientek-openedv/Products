@@ -27,7 +27,7 @@
 
 .. _pic_major_096OLEDZ:
 
-.. figure:: media/096OLEDZ.png
+.. figure:: media/096OLEDZ.jpg
 
 
    
@@ -37,7 +37,7 @@
 
 .. _pic_major_096OLED:
 
-.. figure:: media/096OLED.png
+.. figure:: media/096OLED.jpg
 
 
    
