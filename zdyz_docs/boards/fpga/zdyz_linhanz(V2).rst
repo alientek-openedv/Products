@@ -3,7 +3,7 @@ ZYNQ领航者(V2)开发板
 
 开发板介绍
 ----------
-- ``开发板综合例程演示视频``：B站哔哩哔哩链接：https://www.bilibili.com/video/BV1W5411576R
+- ``开发板综合例程演示视频``：https://www.bilibili.com/video/BV1xq4y1N791?spm_id_from=333.999.0.0
 
 资料下载链接
 ------------
