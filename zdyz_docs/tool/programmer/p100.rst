@@ -7,6 +7,7 @@ P100脱机烧录器
 ----------
 
 - ``产品展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV13t4y1q7ZP 
+- ``模块使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV12b4y1m78j
 
 
 资料链接

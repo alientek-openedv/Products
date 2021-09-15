@@ -7,6 +7,7 @@ Mini-Pro脱机烧录器
 ----------
 
 - ``产品展示视频`` https://www.bilibili.com/video/BV1wa4y1W7om
+- ``模块使用教程`` https://www.bilibili.com/video/BV12b4y1m78j
 
 资料链接
 ------------

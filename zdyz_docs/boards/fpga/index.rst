@@ -14,6 +14,8 @@
 
    zdyz_qimxing.rst
 
+   zdyz_qimxing(V2)
+
    zdyz_xinqidian.rst
 
    zdyz_xinqidian(V2)

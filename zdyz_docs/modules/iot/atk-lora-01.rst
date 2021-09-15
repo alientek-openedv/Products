@@ -7,6 +7,7 @@ LORA模块ATK-LORA-01
 ----------
 
 - ``模块展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1fK4y157R9
+- ``模块使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1D44y1t7bn?
 
 资料链接
 ------------
