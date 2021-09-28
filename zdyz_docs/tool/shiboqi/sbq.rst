@@ -22,6 +22,8 @@ DS100手持数字示波器
 DS100功能演示介绍
 ^^^^^^^^^^
 
+- ``开箱测试&基础使用视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV17M4y157cz? 
+
 - ``原子哥产品介绍视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1aZ4y137iz  
 
 - ``产品功能演示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Rp4y167pk  
@@ -33,9 +35,6 @@ DS100功能演示介绍
 
 - 正点原子DS100手持数字示波器交流群：871341515
 
-
-产品图片
---------
 
 
 产品图片
