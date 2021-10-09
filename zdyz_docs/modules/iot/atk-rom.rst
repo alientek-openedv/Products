@@ -36,16 +36,6 @@ WIFI模块ATK-RM04
 
 
 
-.. _pic_major_rom04b:
-
-.. figure:: media/rom04b.png
-
-
-   
-  WIFI模块ATK-RM04实物图背面
-
-
-
 
 购买方式
 -------- 
