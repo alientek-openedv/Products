@@ -1,9 +1,12 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4GDTU通信模块ATK-M750
+4G DTU通信模块ATK-M750
 ============================================
 
+模块介绍
+----------
 
+- ``模块使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1uP4y187bw?
 
 资料链接
 ------------
@@ -13,6 +16,8 @@
 
 - 资料链接：https://pan.baidu.com/s/1JS33euVXYP3_bjZ6MDwq6Q
 - 提取码：056y
+  
+
   
 产品讨论帖
 ^^^^^^^^^^

@@ -16,6 +16,8 @@
 
    zdyz_qimxing(V2)
 
+   zdyz_zynqxtb
+
    zdyz_xinqidian.rst
 
    zdyz_xinqidian(V2)
@@ -29,6 +31,8 @@
    zdyz_S6xtb
 
    zdyz_E10
+
+
 
 
 

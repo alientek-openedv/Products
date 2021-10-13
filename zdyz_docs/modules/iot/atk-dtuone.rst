@@ -6,6 +6,8 @@
 产品介绍
 ----------
 
+
+- ``模块使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1uP4y187bw?
 - ``产品展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1tA41147or
 
 资料链接
