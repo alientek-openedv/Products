@@ -8,7 +8,7 @@
 《原子教你玩stm32》系列教程及代码适用于正点原子STM32开发板，可根据需要选择下载。
 
 
-- 链接：https://pan.baidu.com/s/1hWU12byEUxwPLBeXyh-rWA 提取码：6v2i 
+- 链接：https://pan.baidu.com/s/1P_5hymyH7dp_3Oz-IXXNnA 提取码：7kz3 
   
 
 在线教学视频链接
