@@ -20,7 +20,7 @@ ZYNQ领航者(V2)开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频C盘：https://pan.baidu.com/s/1ATMmVzBQ7FbVpc6rZLz6Hw   提取码：m5nr
+-  配套 ``手把手教你学ZYNQ-FPGA设计篇`` 视频C盘：https://pan.baidu.com/s/1ATMmVzBQ7FbVpc6rZLz6Hw   提取码：m5nr
 
 -  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1iUWGFVQastZel4sBgVMFDQ   提取码：35jt  
   

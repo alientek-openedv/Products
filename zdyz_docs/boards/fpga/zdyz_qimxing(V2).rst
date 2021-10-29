@@ -39,7 +39,7 @@ ZYNQ启明星(V2)开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- ZYNQ启明星(V2)开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=330038&extra=
+- ZYNQ启明星(V2)开发板产品讨论贴: http://www.openedv.com/thread-330038-1-1.html
 
 - ZYNQ启明星(V2)ZYNQ开发板交流群：905624739
 
