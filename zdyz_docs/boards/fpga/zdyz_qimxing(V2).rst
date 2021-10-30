@@ -1,6 +1,10 @@
 ZYNQ启明星(V2)开发板
 ==========================
 
+开发板介绍
+----------
+- ``开发板综合例程演示视频``：B站哔哩哔哩链接：https://www.bilibili.com/video/BV1iP4y1b7gN?
+
 资料下载链接
 ------------
 
@@ -35,7 +39,7 @@ ZYNQ启明星(V2)开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- ZYNQ启明星(V2)开发板产品讨论贴: http://www.openedv.com/forum.php?mod=viewthread&tid=330038&extra=
+- ZYNQ启明星(V2)开发板产品讨论贴: http://www.openedv.com/thread-330038-1-1.html
 
 - ZYNQ启明星(V2)ZYNQ开发板交流群：905624739
 

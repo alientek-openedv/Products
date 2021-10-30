@@ -25,12 +25,16 @@ stm32f103-nano开发板
 
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
    
--  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1aq0r29epw8Diz3s0CSOT3w 提取码：m2tz   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/15Rt5mj1Z1ZXwxf4aUyLAGg 提取码：iuma   
 
--  配套 ``STemWin-图形界面`` 视频链接：https://pan.baidu.com/s/1FTbeAfRrW33Jvky7ZXI2vg 提取码：ttg6
+-  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1Er1lfmbJK5Ti-Pm8qIKH6A 提取码：mvwb
 
--  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1LwLyr95R-020gAF_xmLQZg 提取码：san0
+-  配套 ``LWIP网络通信编程`` 视频链接：https://pan.baidu.com/s/1FruKtxfOe_bTJ2EPEN20Rg 提取码：ywf5
+
+-  配套 ``LittleVGL开源图形界面`` 视频链接：https://pan.baidu.com/s/1sdOpTtDDXPBFTltFZaYf3w 提取码：rffj
       
+      
+
 
       
 视频在线学习平台
