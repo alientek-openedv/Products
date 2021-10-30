@@ -1,5 +1,5 @@
 
-手把手教你学STEmwin
+手把手教你学STemWin
 ================================================
 
 资料下载链接
@@ -13,7 +13,7 @@
 ^^^^^^^^^^^
 
 
--  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1bW6HT1KREHZXLqmNEG_wiw 提取码：q1a5
+-  配套 ``STemWin-图形界面`` 视频链接：https://pan.baidu.com/s/1bW6HT1KREHZXLqmNEG_wiw 提取码：q1a5
 
 
 视频在线学习平台
@@ -28,15 +28,15 @@
 产品图片
 --------
 
-手把手教你学STEmwin视频封面主图如下所示。
+手把手教你学STemWin视频封面主图如下所示。
 
-.. _pic_major_STemwin:
+.. _pic_major_STemWin:
 
 .. figure:: media/STemwin.png
 
 
    
- 手把手教你学STEmwin视频封面
+ 手把手教你学STemWin视频封面
 
 
 购买方式
