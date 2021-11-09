@@ -22,7 +22,7 @@ ZYNQ领航者(V2)开发板
 
 -  配套 ``手把手教你学ZYNQ-FPGA设计篇`` 视频C盘：https://pan.baidu.com/s/1AJ5czHadBsCWgKwmlCmipw   提取码：soaa
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1iUWGFVQastZel4sBgVMFDQ   提取码：35jt  
+-  配套 ``手把手教你学ZYNQ-嵌入式SDK开发篇`` 视频D盘：https://pan.baidu.com/s/15pklAyUK7Jqd8ntJvNu4Xg   提取码：d7e6  
   
 -  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw        
 
