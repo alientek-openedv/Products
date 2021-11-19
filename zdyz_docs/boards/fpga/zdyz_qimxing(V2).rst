@@ -13,7 +13,7 @@ ZYNQ启明星(V2)开发板
 
 - ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1s8uDWTZBQAgt0UMsoZUljA     提取码：qmzo 
  
-- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1oO-iQNb0Yy-bFp7iGHVoIw   提取码：ua3s
+- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1943HjnYLxuaB4kZzsD3Ncg   提取码：pn3w
 
 - ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1jtNklZ04WYMJl4U8ufCxuQ  提取码：7k7j
 
