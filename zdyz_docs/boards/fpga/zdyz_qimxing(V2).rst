@@ -3,7 +3,7 @@ ZYNQ启明星(V2)开发板
 
 开发板介绍
 ----------
-- ``开发板综合例程演示视频``：B站哔哩哔哩链接：https://www.bilibili.com/video/BV1iP4y1b7gN?
+- ``开发板综合例程演示视频``：B站哔哩哔哩链接：https://www.bilibili.com/video/BV1iP4y1b7gN
 
 资料下载链接
 ------------
@@ -13,16 +13,16 @@ ZYNQ启明星(V2)开发板
 
 - ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1s8uDWTZBQAgt0UMsoZUljA     提取码：qmzo 
  
-- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1oO-iQNb0Yy-bFp7iGHVoIw   提取码：ua3s
+- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1943HjnYLxuaB4kZzsD3Ncg   提取码：pn3w
 
 - ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1jtNklZ04WYMJl4U8ufCxuQ  提取码：7k7j
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频C盘：https://pan.baidu.com/s/1ZXia79lHo4QRcVNgBNW23A    提取码：ehpa 
+-  配套 ``手把手教你学ZYNQ-FPGA开发篇`` 视频C盘：https://pan.baidu.com/s/1ISwpiRMh9fO-yJ9KlywwXA    提取码：hync 
 
--  配套 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1E1ygBHYdLYz6qmZUUtQtsw   提取码：awb8 
+-  配套 ``手把手教你学ZYNQ-嵌入式SDK开发篇`` 视频D盘：https://pan.baidu.com/s/1M1YNg-tSR9PP7cgajBhpww   提取码：1t08 
       
 -  配套 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw   
 

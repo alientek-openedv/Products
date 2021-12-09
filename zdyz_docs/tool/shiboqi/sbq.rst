@@ -42,12 +42,7 @@ DS100功能演示介绍
 
 - DS100手持数字示波器主图如下所示
 
-.. _pic_major_ce:
 
-.. figure:: media/ce.png
-
-
-   
   DS100手持数字示波器实物图
 
 .. _pic_major_ceee:

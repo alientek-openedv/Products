@@ -8,6 +8,8 @@
    :maxdepth: 1
    
    solder
+
+   T65solder
  
 
 

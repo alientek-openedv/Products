@@ -18,6 +18,13 @@ stm32h743水星开发板
 视频网盘链接
 ^^^^^^^^^^^
 
+-  配套 ``手把手教你学STM32-F429/F767入门篇`` 视频链接：https://pan.baidu.com/s/1sTfbJw9YaMN2KrYo0Shtpw 提取码：tcyx
+
+-  配套 ``手把手教你学STM32-F429/F767中级篇`` 视频C盘：https://pan.baidu.com/s/1CZ7BckmGt6YjPcLeLPBCqA 提取码：xqpv   
+
+-  配套 ``手把手教你学STM32-F429/F767高级篇`` 视频链接：https://pan.baidu.com/s/1I-TR9HqFc3qHLmL1-I8Z_g 提取码：umtq 
+  
+
 -  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
    
 -  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/15Rt5mj1Z1ZXwxf4aUyLAGg 提取码：iuma   

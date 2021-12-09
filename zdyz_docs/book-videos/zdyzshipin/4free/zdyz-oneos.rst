@@ -1,16 +1,18 @@
 
-手把手教你学LittleVGL
+手把手教你学OneOS
 ================================================
 
 资料下载链接
 ------------
 
-- 链接：https://pan.baidu.com/s/1czecffINdDQ2xbQ9FM3PBA  提取码：e9x0
+
+- 链接：https://pan.baidu.com/s/1m5yLxnoXOI5Cm4_x9zZ-rA   提取码：hk4t
   
+
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``LittleVGL开源图形界面`` 视频链接：https://pan.baidu.com/s/1FKzuz7gZUzaEIlqYgMQ9yQ 提取码：qoxx
+-  即将发布...
 
 
 视频在线学习平台
@@ -25,15 +27,15 @@
 产品图片
 --------
 
-手把手教你学littleVGL视频封面主图如下所示。
+手把手教你学OneOS视频封面主图如下所示。
 
-.. _pic_major_littleVGL:
+.. _pic_major_oneos:
 
-.. figure:: media/littleVGL.png
+.. figure:: media/oneos.jpg
 
 
    
- 手把手教你学littleVGL视频封面
+ 手把手教你学OneOS视频封面
 
 
 

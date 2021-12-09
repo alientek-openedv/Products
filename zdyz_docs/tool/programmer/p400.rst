@@ -1,9 +1,7 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-USB-TTL串口模块ATK-USB-TTL
+P400脱机烧录器
 ============================================
-
-
 
 资料链接
 ------------
@@ -11,26 +9,36 @@ USB-TTL串口模块ATK-USB-TTL
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接：https://pan.baidu.com/s/1Pl-wVW6_Gigk3ciNrERvmQ
-- 提取码：dylp
+- 百度网盘-链接：https://pan.baidu.com/s/1Py8YzrwynpM7ZBZVldtLhw 
+- 提取码：06hs
   
 产品讨论帖
-^^^^^^^^^^  
+^^^^^^^^^^
 
-- USB-TTL串口模块ATK-USB-TTL产品讨论贴: http://www.openedv.com/posts/list/34161.htm
+- P400脱机烧录器产品讨论贴: http://www.openedv.com/thread-331816-1-1.html 
+
 
 产品图片
 --------
 
-- USB-TTL串口模块ATK-USB-TTL主图如下所示
 
-.. _pic_major_USBTTL:
+.. _pic_major_P4000:
 
-.. figure:: media/USBTTL.png
+.. figure:: media/P400-11.png
 
 
    
-  USB-TTL串口模块ATK-USB-TTL实物图正面
+  P400脱机烧录器实物图正面
+
+
+.. _pic_major_P400b0:
+
+.. figure:: media/P400-22.png
+
+
+   
+  P400脱机烧录器实物图侧面
+
 
 
 

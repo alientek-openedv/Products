@@ -5,6 +5,8 @@
 
 .. toctree::
    :maxdepth: 1
+
+   zdyz-oneos
    
    zdyz-freertos-book
 
