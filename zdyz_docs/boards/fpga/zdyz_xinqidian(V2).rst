@@ -11,7 +11,7 @@ FPGA新起点V2开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1-JFr4T04ROIb6aMkpMX_cQ  提取码：u0cg
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/18z8lflCYdIXXOQYWESA92g 提取码：zdyz
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/13d9W3cx3S7D9zjhcWt7Jjw   提取码：w97l   
 
@@ -19,7 +19,7 @@ FPGA新起点V2开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学FPGA-新起点V2`` 视频C盘：https://pan.baidu.com/s/1LHSPOcHIYDeUNk4dLGnx8A  提取码：kynw
+-  配套 ``手把手教你学FPGA-新起点V2`` 视频C盘：https://pan.baidu.com/s/11Q6Dme2LsfiuiDq4Q0jyHg 提取码：zdyz
 
 
 视频在线学习平台

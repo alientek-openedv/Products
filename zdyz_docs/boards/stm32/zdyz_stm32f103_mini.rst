@@ -11,22 +11,23 @@ stm32f103-mini开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1A_AeqtVpJonr7-QWCayEdw  提取码：7ljr
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1Kv2TLocplsg4pX3YYVeuiQ  提取码：g8f4
 
-- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1pHyHJWhdZl9Lf2Wo7Q3DBQ  提取码：kkil  
+-  ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1GybWC1lDEYcOeOKv1O7Ajw 提取码：w8pi  
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1HZA6ZB0sv5tAV5H8oNq4XA 提取码：inrb
+-  配套 ``手把手教你学STM32-M3入门篇`` 视频B盘：https://pan.baidu.com/s/1dB7nXwuXugHBq6xkbNrG8g 提取码：h3q7
 
 -  配套 ``手把手教你学STM32-M3中级篇`` 视频C盘：https://pan.baidu.com/s/1vv9gjV9SUYmFuTbrq-ixYg 提取码：vszw 
 
 -  配套 ``手把手教你学STM32-M3高级篇`` 视频D盘：https://pan.baidu.com/s/1c4iIR8OlkwSuabIGdJ6khg 提取码：or67
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
+
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1HpkImWCS16sxWFOjmcVNhA 提取码：dfjs
    
--  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/15Rt5mj1Z1ZXwxf4aUyLAGg 提取码：iuma   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1ASR_TPGcZsWtVXs0VfgpWQ  提取码：8h3n   
 
 -  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1Er1lfmbJK5Ti-Pm8qIKH6A 提取码：mvwb
 
