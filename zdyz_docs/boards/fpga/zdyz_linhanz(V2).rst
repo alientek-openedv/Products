@@ -13,7 +13,7 @@ ZYNQ领航者(V2)开发板
 
 - ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1vXxmhg_mZm_OVg4xQeiCVQ 提取码：zdyz 
  
-- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1NNYDCpEkM2jd6jR69Y1mfg   提取码：zdyz 
+- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1NNYDCpEkM2jd6jR69Y1mfg 提取码：zdyz 
 
 - ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1uzbFXifUl2DT9iXdLTXYDg  提取码：tk3o
 
