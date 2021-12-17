@@ -8,9 +8,9 @@ ZYNQ小型系统板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1iS9rQVqnHTyguS0nLTHoHg   提取码：jfdw 
+- ``资料盘`` 资料链接A盘：https://pan.baidu.com/s/1piF31JoKpiahkDHUWMoCfw  提取码：zdyz 
  
-- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1qdEbPYnLGtHLzlVoQvwB7Q  提取码：4lu5
+- ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/11sJm0rkHGDJNpyXG71OxLQ  提取码：zdyz
 
 
 视频网盘链接

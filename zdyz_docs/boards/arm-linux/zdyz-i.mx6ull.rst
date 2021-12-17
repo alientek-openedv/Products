@@ -17,9 +17,9 @@ i.MX6ULL Linux阿尔法开发板
 
 - ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1inZtndgN-L3aVfoch2-sKA  提取码：m65i
 
-- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1FSJY3PdFgV2WV4lT6Ps8fA  提取码：qsxb
+- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1_xpEUW77rQEEzCbuMGahrA 提取码：f8n1
 
-- ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/12C3yhpVuugtaHkhWjxfsSg  提取码：ho0m
+- ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/1OP8aOYrx0hzh1dou1f3WQg 提取码：vyda
 
 
 资料盘其他下载方式
@@ -36,11 +36,11 @@ I.MX6U 虚拟机链接
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接：https://pan.baidu.com/s/1GNdsA6lhPy15vahOYMMngw  提取码：80vf
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接：https://pan.baidu.com/s/1uTu9-Fy2gVWSUxhoUsqZCQ 提取码：jmoz
 
 -  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ  提取码：r27n  
 
--  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1ZlhaCTsdBlYdSAWVtQH_sw  提取码：x2z8
+-  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1vdUOu0uF8VXoLN51boJyHw 提取码：d2rz
 
 -  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1JU95JHG-v7MKvkvXsMNhdw 提取码：n3ju
       

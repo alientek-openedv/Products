@@ -11,23 +11,23 @@ stm32f411-nano开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1Su2UetOEe8mDj7tbtM9saQ 提取码：qmws 
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1_XUat5DufRkAuClyYcpYyQ  提取码：t4ur  
 
-- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1BqurRnU7GCvie-8dEPfndQ  提取码：txqu  
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1lsE71LRUQx21czKxDU7WEg  提取码：hrq4  
 
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1CClMcY7d7SAEe-CZaHRoUg 提取码：u4w5
+-  配套 ``手把手教你学STM32-M4入门篇`` 视频链接：https://pan.baidu.com/s/1y32Wdmg38O5lJrcw5OKApw 提取码：6649
 
--  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/1VWKY0xG_HarY1xDJ_s4v2Q 提取码：ez7b
+-  配套 ``手把手教你学STM32-M4中级篇`` 视频链接：https://pan.baidu.com/s/14_8WMcb2Bc0nvxz3KfIeMw 提取码：sbg2
 
--  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/1YsSaxmfF8QXZYF4fNqEjyg 提取码：w4k6
--  
+-  配套 ``手把手教你学STM32-M4高级篇`` 视频链接：https://pan.baidu.com/s/11cc_ggU46s6ypnFjwAZe5Q 提取码：a1gr
 
--  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1bEaivOli460zbI7Xn7OM1g 提取码：lytx
+
+-  配套 ``FreeRTOS实时系统`` 视频链接：https://pan.baidu.com/s/1HpkImWCS16sxWFOjmcVNhA 提取码：dfjs
    
--  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/15Rt5mj1Z1ZXwxf4aUyLAGg 提取码：iuma   
+-  配套 ``UcosIII-实时系统`` 视频链接：https://pan.baidu.com/s/1ASR_TPGcZsWtVXs0VfgpWQ  提取码：8h3n   
 
 -  配套 ``STenwin-图形界面`` 视频链接：https://pan.baidu.com/s/1Er1lfmbJK5Ti-Pm8qIKH6A 提取码：mvwb
 

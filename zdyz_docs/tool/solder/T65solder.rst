@@ -1,15 +1,11 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-P400脱机烧录器
+T65智能烙铁
 ============================================
 
 
-产品介绍
-----------
-
-- ``产品展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1ki4y1d7JP
-- ``模块使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1FY411W7CZ
-
+- ``T65展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1cQ4y1v7Cu
+- ``T65使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV13S4y1Q78L
 
 资料链接
 ------------
@@ -17,38 +13,38 @@ P400脱机烧录器
 模块使用资料
 ^^^^^^^^^^
 
-- 百度网盘-链接：https://pan.baidu.com/s/1AEABIWxT_7AKnbyNl2j5bQ  
-- 提取码：o9r6
+- 百度网盘-链接：https://pan.baidu.com/s/1GT00K1KwQ67JG8wur953zw 
+- 提取码：84ui
   
 产品讨论帖
 ^^^^^^^^^^
 
-- P400脱机烧录器产品讨论贴: http://www.openedv.com/thread-331816-1-1.html 
+- T65智能烙铁产品讨论贴: http://www.openedv.com/thread-332062-1-1.html
 
 
 产品图片
 --------
 
 
-.. _pic_major_P4000:
+- T65智能烙铁主图如下所示。
 
-.. figure:: media/P400-11.png
+.. _pic_major_T65zz:
 
-
-   
-  P400脱机烧录器实物图正面
-
-
-.. _pic_major_P400b0:
-
-.. figure:: media/P400-22.png
+.. figure:: media/T65zz.png
 
 
    
-  P400脱机烧录器实物图侧面
+  T65智能烙铁实物图正面
 
 
 
+.. _pic_major_T65z:
+
+.. figure:: media/T65z.png
+
+
+   
+  T65智能烙铁实物图侧面
 
 
 购买方式

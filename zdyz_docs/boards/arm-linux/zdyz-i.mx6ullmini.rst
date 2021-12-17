@@ -19,7 +19,7 @@ Mini Linux开发板
 
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/17ihShsy48laAj2VLkG74Cg  提取码：g4eg
 
-- ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/12C3yhpVuugtaHkhWjxfsSg  提取码：ho0m
+- ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/1pqo2JyH-EPf-6Ue5cP8e6g 提取码：rwhb
 
 
 资料盘其他下载方式
@@ -39,13 +39,13 @@ I.MX6U 虚拟机链接
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``Linux之Ubuntu入门篇`` 视频链接：https://pan.baidu.com/s/1GNdsA6lhPy15vahOYMMngw  提取码：80vf
+-  配套 ``Linux之Ubuntu入门篇`` 视频链接：https://pan.baidu.com/s/1aO5MbyWOlPpNBYGxBBrFQg 提取码：oqf1
 
 -  配套 ``Linux之ARM裸机篇`` 视频链接：https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ  提取码：r27n  
 
 -  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1ZlhaCTsdBlYdSAWVtQH_sw  提取码：x2z8
 
--  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1JU95JHG-v7MKvkvXsMNhdw 提取码：n3ju
+-  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1H5y79QlsBsKpl4-9RTae-w 提取码：8hvw
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
