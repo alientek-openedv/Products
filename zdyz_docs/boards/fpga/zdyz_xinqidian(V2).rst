@@ -19,7 +19,7 @@ FPGA新起点V2开发板
 视频网盘链接
 ^^^^^^^^^^^
 
--  配套 ``手把手教你学FPGA-新起点V2`` 视频C盘：https://pan.baidu.com/s/1K-eS53ZlrYkQBdKn4Nx5CQ 提取码：hopn
+-  配套 ``手把手教你学FPGA-新起点V2`` 视频C盘：https://pan.baidu.com/s/1K-eS53ZlrYkQBdKn4Nx5CQ 提取码：hopn 
 
 
 视频在线学习平台
