@@ -41,7 +41,7 @@ ZYNQ启明星(V2)开发板
 
 - ZYNQ启明星(V2)开发板产品讨论贴: http://www.openedv.com/thread-330038-1-1.html
 
-- ZYNQ启明星(V2)ZYNQ开发板交流群：905624739
+- ZYNQ启明星(V2)ZYNQ开发板交流群：371632356
 
 产品图片
 --------
