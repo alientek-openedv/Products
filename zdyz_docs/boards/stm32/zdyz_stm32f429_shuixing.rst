@@ -48,7 +48,7 @@ stm32f429水星开发板
 
 - stm32f429水星开发板产品讨论贴: http://www.openedv.com/thread-308960-1-1.html
 
-- 正点原子STM32技术交流群:797219458
+- 正点原子STM32技术交流群:756580169
 
 产品图片
 --------
@@ -77,9 +77,9 @@ stm32f429水星开发板
 ------------
 
 - 阿里旺旺：https://openedv.taobao.com 上淘宝直接一对一咨询技术。  
-- 开源电子网【论坛】：http://www.openedv.com 
-- QQ群：http://www.openedv.com   点击首页“官方QQ群”即可加入最新群。 
-- 微信群：http://www.openedv.com 点击首页“微信群”即可加入最新群。
+- 开源电子网【论坛】：http://www.openedv.com/forum.php 
+- QQ群：http://www.openedv.com/forum.php   点击首页“官方QQ群”即可加入最新群。 
+- 微信群：http://www.openedv.com/forum.php 点击首页“微信群”即可加入最新群。
   
 
 

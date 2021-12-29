@@ -7,7 +7,7 @@ stm32f750北极星开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/12DZHNaqGok_vRFGTLHWqbA  提取码：b8ou 
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1di_2FGmTPDI9NdK1GDQkNQ   提取码：2gfq
 
 
 - ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/166mycHGZdIZmPy2lgmbd_Q  提取码：c030  
@@ -46,7 +46,7 @@ stm32f750北极星开发板
 
 - stm32f750北极星开发板产品讨论贴: http://www.openedv.com/thread-308967-1-1.html
 
-- 正点原子STM32技术交流群:797219458
+- 正点原子STM32技术交流群:756580169
 
 产品图片
 --------
@@ -75,9 +75,9 @@ stm32f750北极星开发板
 ------------
 
 - 阿里旺旺：https://openedv.taobao.com 上淘宝直接一对一咨询技术。  
-- 开源电子网【论坛】：http://www.openedv.com 
-- QQ群：http://www.openedv.com   点击首页“官方QQ群”即可加入最新群。 
-- 微信群：http://www.openedv.com 点击首页“微信群”即可加入最新群。
+- 开源电子网【论坛】：http://www.openedv.com/forum.php 
+- QQ群：http://www.openedv.com/forum.php   点击首页“官方QQ群”即可加入最新群。 
+- 微信群：http://www.openedv.com/forum.php 点击首页“微信群”即可加入最新群。
   
 
 

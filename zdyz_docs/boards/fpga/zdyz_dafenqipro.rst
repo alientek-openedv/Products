@@ -40,7 +40,7 @@ FPGA达芬奇Pro开发板
 
 - FPGA达芬奇Pro开发板产品讨论贴: http://www.openedv.com/thread-324322-1-1.html
 
-- 正点原子达芬奇Pro开发板交流群：905624739 
+- 正点原子达芬奇Pro开发板交流群：371632356 
 
 产品图片
 --------
@@ -66,9 +66,9 @@ FPGA达芬奇Pro开发板
 ------------
 
 - 阿里旺旺：https://openedv.taobao.com 上淘宝直接一对一咨询技术。  
-- 开源电子网【论坛】：http://www.openedv.com 
-- QQ群：http://www.openedv.com   点击首页“官方QQ群”即可加入最新群。 
-- 微信群：http://www.openedv.com 点击首页“微信群”即可加入最新群。
+- 开源电子网【论坛】：http://www.openedv.com/forum.php 
+- QQ群：http://www.openedv.com/forum.php   点击首页“官方QQ群”即可加入最新群。 
+- 微信群：http://www.openedv.com/forum.php 点击首页“微信群”即可加入最新群。
   
 
 
