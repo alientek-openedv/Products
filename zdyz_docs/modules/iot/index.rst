@@ -16,9 +16,9 @@ IoT模块
 
    atk-rom
 
-   atk-dtu
-
    atk-dtuone
+
+   ATK-IDM751C.IDM750C
 
    atk-mp01
 
@@ -41,6 +41,8 @@ IoT模块
    ATK-UART2EHT
 
    ATK-GM510
+
+
 
 
 

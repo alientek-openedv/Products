@@ -6,7 +6,8 @@ T100智能焊台
 产品介绍
 ----------
 
-- ``产品展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Xt4y1e7be 
+- ``T100焊台展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Xt4y1e7be 
+- ``T100焊台实战视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1264y1B7xJ
 
 
 资料链接
