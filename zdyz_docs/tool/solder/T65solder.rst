@@ -6,6 +6,8 @@ T65智能烙铁
 
 - ``T65展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1cQ4y1v7Cu
 - ``T65使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV13S4y1Q78L
+- ``T65实战焊接`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1iS4y1T7sh
+
 
 资料链接
 ------------

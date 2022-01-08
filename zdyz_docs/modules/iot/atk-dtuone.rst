@@ -1,6 +1,6 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G DTU通信模块ATK-M751
+4G DTU通信模块ATK-M751-M750
 ============================================
 
 产品介绍
@@ -23,6 +23,7 @@
 ^^^^^^^^^^
 
 - 4G DTU通信ATK-M751产品讨论贴: http://www.openedv.com/thread-301504-1-1.html
+- 4G DTU通信ATK-M750产品讨论贴: http://www.openedv.com/thread-308544-1-1.html
 
 - 正点原子2G/4G DTU模块交流群：811175957
 
@@ -41,28 +42,19 @@
 
 
 
-.. _pic_major_m751:
 
-.. figure:: media/m751.png
+.. _pic_major_m750:
 
-
-   
-  4G DTU通信ATK-M751实物图左侧面
-
-
-
-.. _pic_major_m7512:
-
-.. figure:: media/m7512.png
+.. figure:: media/m750.png
 
 
    
-  4G DTU通信ATK-M751实物图右侧面
+  4G DTU通信ATK-M750实物图正面
 
 
 
 购买方式
--------- 
+--------
 
 - 正点原子官方淘宝店：https://openedv.taobao.com 
 
