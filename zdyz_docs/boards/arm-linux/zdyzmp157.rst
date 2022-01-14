@@ -17,7 +17,7 @@ STM32MP157开发板
 
 - ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/1cBc13o-XWOiTUc-Dl7gTmg 提取码：8xo9 
 
-- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1qXbuf_dPeLlp3YANTKnpKQ 提取码：a01m
+- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1vgdNfrfMWXFuE6L1XKjfIA 提取码：i64i 
 
     
 资料盘其他下载方式
