@@ -30,6 +30,8 @@
 
    ATK-USB-TTL
 
+   ATK-MO340P
+
    ATK-VL53L0X
 
    ATK-MS53L1M
@@ -59,6 +61,8 @@
    ATK_io
 
    ATK-XADC   
+
+
 
    
    
