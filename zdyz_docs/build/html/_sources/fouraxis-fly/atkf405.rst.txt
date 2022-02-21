@@ -1,12 +1,7 @@
-.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G通信模块ATK-GM510
-============================================
+开源飞控F405
+=============================
 
-模块介绍
-----------
-
-- ``模块展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Av41117yS 
 
 资料链接
 ------------
@@ -14,37 +9,40 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1NNKvxqhLag1IIW2JhOsShg
-- 提取码：0biy 
+- 资料链接：https://pan.baidu.com/s/1Q-Y7DWiKB_QlrLKTSFc6GA
+- 提取码：i99x
+
+
   
 产品讨论帖
-^^^^^^^^^^
+^^^^^^^^^^  
 
-- 4G通信模块ATK-GM510产品讨论贴: http://www.openedv.com/thread-315012-1-1.html
+- 开源飞控F405产品讨论贴: http://www.openedv.com/thread-308538-1-1.html
 
+- 正点原子四轴交流群：322406119
 
 产品图片
 --------
 
-- 4G通信模块ATK-GM510主图如下所示
+- 开源飞控F405主图如下所示
 
-.. _pic_major_gzeng:
+.. _pic_major_f405b:
 
-.. figure:: media/gzeng.png
-
-
-   
-  4G通信模块ATK-GM510实物图正面
-
-
-
-.. _pic_major_gbei:
-
-.. figure:: media/gbei.png
+.. figure:: media/f405b.png
 
 
    
-  4G通信模块ATK-GM510实物图背面
+  开源飞控F405实物图正面
+
+
+
+.. _pic_major_f405bb:
+
+.. figure:: media/f405bb.png
+
+
+   
+  开源飞控F405实物图背面
 
 
 

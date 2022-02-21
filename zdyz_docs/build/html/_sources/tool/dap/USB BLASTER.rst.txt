@@ -1,12 +1,7 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G通信模块ATK-GM510
+USB BLASTER仿真器【FPGA专用】
 ============================================
-
-模块介绍
-----------
-
-- ``模块展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Av41117yS 
 
 资料链接
 ------------
@@ -14,37 +9,44 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1NNKvxqhLag1IIW2JhOsShg
-- 提取码：0biy 
+- 百度网盘-链接：https://pan.baidu.com/s/1wncuw0S65IocbW85pbIqTA 
+- 提取码：mg3f
   
 产品讨论帖
 ^^^^^^^^^^
 
-- 4G通信模块ATK-GM510产品讨论贴: http://www.openedv.com/thread-315012-1-1.html
+- USB BLASTER仿真器【FPGA专用】产品讨论贴: http://www.openedv.com/thread-300513-1-1.html
 
 
 产品图片
 --------
 
-- 4G通信模块ATK-GM510主图如下所示
+.. _pic_major_BLASTER0:
 
-.. _pic_major_gzeng:
-
-.. figure:: media/gzeng.png
+.. figure:: media/BLASTER0.png
 
 
    
-  4G通信模块ATK-GM510实物图正面
+  USB BLASTER仿真器实物图正面
 
 
+.. _pic_major_BLASTERb:
 
-.. _pic_major_gbei:
-
-.. figure:: media/gbei.png
+.. figure:: media/BLASTERb.png
 
 
    
-  4G通信模块ATK-GM510实物图背面
+  USB BLASTER仿真器实物图侧面
+
+
+
+  .. _pic_major_BLASTERbb:
+
+.. figure:: media/BLASTERbb.png
+
+
+   
+  USB BLASTER仿真器实物图侧面
 
 
 
@@ -52,7 +54,7 @@
 购买方式
 -------- 
 
-- 正点原子官方淘宝店：https://openedv.taobao.com 
+正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 
@@ -72,6 +74,4 @@
 
  | :ref:`公司简介` 
  | :ref:`联系方式`
-
-
 

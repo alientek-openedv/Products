@@ -1,12 +1,9 @@
-.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G通信模块ATK-GM510
-============================================
 
-模块介绍
-----------
+7寸TFTLCD电容触摸屏V2 800*480
+=====================================
 
-- ``模块展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Av41117yS 
+
 
 资料链接
 ------------
@@ -14,37 +11,38 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1NNKvxqhLag1IIW2JhOsShg
-- 提取码：0biy 
+- 资料链接：https://pan.baidu.com/s/1vb8haM5s-Qh3Nu7mbPvZ_w 
+- 提取码：gb0a
   
 产品讨论帖
 ^^^^^^^^^^
 
-- 4G通信模块ATK-GM510产品讨论贴: http://www.openedv.com/thread-315012-1-1.html
+- 7寸TFT LCD电容触摸屏模块V2 800*480产品讨论贴: http://www.openedv.com/posts/list/51287.htm
+
 
 
 产品图片
 --------
 
-- 4G通信模块ATK-GM510主图如下所示
+- 7寸TFT LCD电容触摸屏模块V2 800*480主图如下所示
 
-.. _pic_major_gzeng:
+.. _pic_major_7v2:
 
-.. figure:: media/gzeng.png
-
-
-   
-  4G通信模块ATK-GM510实物图正面
-
-
-
-.. _pic_major_gbei:
-
-.. figure:: media/gbei.png
+.. figure:: media/7v2.png
 
 
    
-  4G通信模块ATK-GM510实物图背面
+  7寸TFT LCD电容触摸屏模块V2 800*480实物图正面
+
+
+
+.. _pic_major_7v2b:
+
+.. figure:: media/7v2b.png
+
+
+   
+  7寸TFT LCD电容触摸屏模块V2 800*480实物图背面
 
 
 

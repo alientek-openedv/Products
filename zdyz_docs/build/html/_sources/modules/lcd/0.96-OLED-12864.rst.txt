@@ -1,12 +1,8 @@
-.. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G通信模块ATK-GM510
-============================================
+0.96寸OLED模块128*64
+=====================================
 
-模块介绍
-----------
 
-- ``模块展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Av41117yS 
 
 资料链接
 ------------
@@ -14,37 +10,38 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1NNKvxqhLag1IIW2JhOsShg
-- 提取码：0biy 
+- 资料链接：https://pan.baidu.com/s/1Zk9TNOgKqgC3wH_bTdVR8g 
+- 提取码：6j1c
   
 产品讨论帖
 ^^^^^^^^^^
 
-- 4G通信模块ATK-GM510产品讨论贴: http://www.openedv.com/thread-315012-1-1.html
+- 0.96寸OLED模块128*64产品讨论贴: http://www.openedv.com/posts/list/0/3194.htm
+
 
 
 产品图片
 --------
 
-- 4G通信模块ATK-GM510主图如下所示
+- 0.96寸OLED模块128*64主图如下所示
 
-.. _pic_major_gzeng:
+.. _pic_major_096OLEDZ:
 
-.. figure:: media/gzeng.png
-
-
-   
-  4G通信模块ATK-GM510实物图正面
-
-
-
-.. _pic_major_gbei:
-
-.. figure:: media/gbei.png
+.. figure:: media/096OLEDZ.jpg
 
 
    
-  4G通信模块ATK-GM510实物图背面
+  0.96寸OLED模块128*64实物图正面
+
+
+
+.. _pic_major_096OLED:
+
+.. figure:: media/096OLED.jpg
+
+
+   
+  0.96寸OLED模块128*64实物图背面
 
 
 

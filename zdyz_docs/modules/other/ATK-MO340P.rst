@@ -1,12 +1,9 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G通信模块ATK-GM510
+MO340P多功能USB转串口模块
 ============================================
 
-模块介绍
-----------
 
-- ``模块展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Av41117yS 
 
 资料链接
 ------------
@@ -14,37 +11,26 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1NNKvxqhLag1IIW2JhOsShg
-- 提取码：0biy 
+- 百度网盘-链接：https://pan.baidu.com/s/1KTaId965KpzXZ_3WjGZlRQ
+- 提取码：2iqu
   
 产品讨论帖
-^^^^^^^^^^
+^^^^^^^^^^  
 
-- 4G通信模块ATK-GM510产品讨论贴: http://www.openedv.com/thread-315012-1-1.html
-
+-  MO340P多功能USB转串口模块讨论贴: http://www.openedv.com/thread-332984-1-1.html
 
 产品图片
 --------
 
-- 4G通信模块ATK-GM510主图如下所示
+-  MO340P多功能USB转串口模块主图如下所示
 
-.. _pic_major_gzeng:
+.. _pic_major_MO340P:
 
-.. figure:: media/gzeng.png
-
-
-   
-  4G通信模块ATK-GM510实物图正面
-
-
-
-.. _pic_major_gbei:
-
-.. figure:: media/gbei.png
+.. figure:: media/MO340P.jpg
 
 
    
-  4G通信模块ATK-GM510实物图背面
+   MO340P多功能USB转串口模块实物图
 
 
 
@@ -52,7 +38,7 @@
 购买方式
 -------- 
 
-- 正点原子官方淘宝店：https://openedv.taobao.com 
+正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 
@@ -72,6 +58,4 @@
 
  | :ref:`公司简介` 
  | :ref:`联系方式`
-
-
 

@@ -1,12 +1,12 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-4G通信模块ATK-GM510
+4G Cat1 DTU通信模块ATK-IDM751C.IDM750C
 ============================================
 
 模块介绍
 ----------
 
-- ``模块展示视频`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1Av41117yS 
+- ``模块使用教程`` B站哔哩哔哩链接：https://www.bilibili.com/video/BV1uP4y187bw?
 
 资料链接
 ------------
@@ -14,37 +14,41 @@
 模块使用资料
 ^^^^^^^^^^
 
-- 资料链接：https://pan.baidu.com/s/1NNKvxqhLag1IIW2JhOsShg
-- 提取码：0biy 
+- 资料链接：https://pan.baidu.com/s/1jeRaKwSTwnar6XfTRsupnA 
+- 提取码：cj2r
+  
+
   
 产品讨论帖
 ^^^^^^^^^^
 
-- 4G通信模块ATK-GM510产品讨论贴: http://www.openedv.com/thread-315012-1-1.html
+- 4G Cat1 DTU通信模块ATK-IDM751C模块讨论贴: http://www.openedv.com/thread-332837-1-1.html
+- 4G Cat1 DTU通信模块ATK-IDM750C模块讨论贴: http://www.openedv.com/thread-332838-1-1.html
 
+- 正点原子2G/4G DTU模块交流群：811175957
 
 产品图片
 --------
 
-- 4G通信模块ATK-GM510主图如下所示
+- 4G Cat1 DTU通信模块ATK-IDM751C.IDM750C主图如下所示
 
-.. _pic_major_gzeng:
+.. _pic_major_m751C:
 
-.. figure:: media/gzeng.png
-
-
-   
-  4G通信模块ATK-GM510实物图正面
-
-
-
-.. _pic_major_gbei:
-
-.. figure:: media/gbei.png
+.. figure:: media/m751C.jpg
 
 
    
-  4G通信模块ATK-GM510实物图背面
+  4G Cat1 DTU通信模块ATK-IDM751C实物图正面
+
+
+
+.. _pic_major_m750C:
+
+.. figure:: media/m750C.jpg
+
+
+   
+  4G Cat1 DTU通信模块ATK-IDM750C实物图正面
 
 
 
