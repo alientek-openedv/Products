@@ -8,6 +8,8 @@
 
    zdyz_kaituoz.rst
 
+   zdyz_kaituoz(V2)
+
    zdyz_linhanz.rst
 
    zdyz_linhanz(V2)
