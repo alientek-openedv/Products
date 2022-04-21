@@ -17,7 +17,7 @@ STM32MP157-Mini开发板
 
 - ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/1geCWi-aZtEQM68J7W6szqA  提取码：peeh 
 
-- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1OZUsNwcv6Xox4eoP1cbGRw 提取码：fq5j 
+- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1EWiyVB1-i8Bv1mGWBHdC7Q 提取码：989x 
 
 
 STM32MP157 虚拟机链接
