@@ -12,7 +12,7 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  即将发布...
+- 链接：https://pan.baidu.com/s/1WejrtbjrX7jAe_B1SK7gSg   提取码：dlsn
 
 
 视频在线学习平台
