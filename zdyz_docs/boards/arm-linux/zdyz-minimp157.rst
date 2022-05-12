@@ -20,6 +20,11 @@ STM32MP157-Mini开发板
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1EWiyVB1-i8Bv1mGWBHdC7Q 提取码：989x 
 
 
+视频网盘链接
+^^^^^^^^^^^
+- 配套 ``Linux之网络环境搭建篇`` 视频链接：https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q 提取码：5sfw
+
+
 STM32MP157 虚拟机链接
 ^^^^^^^^^^^
 学习正点原子STM32MP157驱动开发指南、嵌入式QT开发指南等文档教程时，可以使用已经搭建好的虚拟机环境像，节省环境搭建时间。请严格按照网盘里的《STM32MP157 虚拟机使用参考手册》进行系统安装。

@@ -20,6 +20,11 @@ STM32MP157开发板
 - ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1EWiyVB1-i8Bv1mGWBHdC7Q 提取码：989x 
 
     
+视频网盘链接
+^^^^^^^^^^^
+- 配套 ``Linux之网络环境搭建篇`` 视频链接：https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q 提取码：5sfw
+
+
 资料盘其他下载方式
 ^^^^^^^^^^^
 

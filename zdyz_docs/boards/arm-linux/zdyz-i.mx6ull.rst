@@ -43,6 +43,8 @@ I.MX6U 虚拟机链接
 -  配套 ``Linux之系统移植和文件系统构建篇`` 视频链接：https://pan.baidu.com/s/1vdUOu0uF8VXoLN51boJyHw 提取码：d2rz
 
 -  配套 ``Linux之驱动开发篇`` 视频链接：https://pan.baidu.com/s/1JU95JHG-v7MKvkvXsMNhdw 提取码：n3ju
+   
+-  配套 ``Linux之网络环境搭建篇`` 视频链接：https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q 提取码：5sfw
       
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
