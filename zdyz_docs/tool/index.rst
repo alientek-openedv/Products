@@ -6,6 +6,7 @@
    dap/index
    programmer/index
    shiboqi/index
+   USB/index
    
 
 
