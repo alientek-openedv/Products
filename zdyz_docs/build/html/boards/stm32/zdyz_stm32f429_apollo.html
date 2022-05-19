@@ -1,358 +1,795 @@
-
-
 <!DOCTYPE html>
 <!--[if IE 8]><html class="no-js lt-ie9" lang="zh-CN" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="zh-CN" > <!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <title>stm32f429阿波罗开发板 &mdash; 正点原子资料下载中心 1.0.0 文档</title>
-  
-
-  
-  
-  
-  
-
-  
-  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
-  
-    
-      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
-        <script src="../../_static/jquery.js"></script>
-        <script src="../../_static/underscore.js"></script>
-        <script src="../../_static/doctools.js"></script>
-        <script src="../../_static/language_data.js"></script>
-        <script src="../../_static/translations.js"></script>
-    
-    <script type="text/javascript" src="../../_static/js/theme.js"></script>
-
-    
-
-  
-  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-    <link rel="index" title="索引" href="../../genindex.html" />
-    <link rel="search" title="搜索" href="../../search.html" />
-    <link rel="next" title="stm32f767阿波罗开发板" href="zdyz_stm32f767_apollo.html" />
-    <link rel="prev" title="stm32f407探索者开发板" href="zdyz_stm32f407_explorer.html" /> 
-</head>
-
-<body class="wy-body-for-nav">
-
-   
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="zh-CN">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   stm32f429阿波罗开发板 — 正点原子资料下载中心 1.0.0 文档
+  </title>
+  <script src="../../_static/js/modernizr.min.js" type="text/javascript">
+  </script>
+  <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js" type="text/javascript">
+  </script>
+  <script src="../../_static/jquery.js">
+  </script>
+  <script src="../../_static/underscore.js">
+  </script>
+  <script src="../../_static/doctools.js">
+  </script>
+  <script src="../../_static/language_data.js">
+  </script>
+  <script src="../../_static/translations.js">
+  </script>
+  <script src="../../_static/js/theme.js" type="text/javascript">
+  </script>
+  <link href="../../_static/css/theme.css" rel="stylesheet" type="text/css"/>
+  <link href="../../_static/pygments.css" rel="stylesheet" type="text/css"/>
+  <link href="../../genindex.html" rel="index" title="索引"/>
+  <link href="../../search.html" rel="search" title="搜索"/>
+  <link href="zdyz_stm32f767_apollo.html" rel="next" title="stm32f767阿波罗开发板"/>
+  <link href="zdyz_stm32f407_explorer.html" rel="prev" title="stm32f407探索者开发板"/>
+ </head>
+ <body class="wy-body-for-nav">
   <div class="wy-grid-for-nav">
-    
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
-      <div class="wy-side-scroll">
-        <div class="wy-side-nav-search" >
-          
-
-          
-            <a href="../../index.html" class="icon icon-home"> 正点原子资料下载中心
-          
-
-          
-            
-            <img src="../../_static/atklogo.png" class="logo" alt="Logo"/>
-          
+   <nav class="wy-nav-side" data-toggle="wy-nav-shift">
+    <div class="wy-side-scroll">
+     <div class="wy-side-nav-search">
+      <a class="icon icon-home" href="../../index.html">
+       正点原子资料下载中心
+       <img alt="Logo" class="logo" src="../../_static/atklogo.png"/>
+      </a>
+      <div class="version">
+       1.0.0
+      </div>
+      <div role="search">
+       <form action="../../search.html" class="wy-form" id="rtd-search-form" method="get">
+        <input name="q" placeholder="Search docs" type="text"/>
+        <input name="check_keywords" type="hidden" value="yes"/>
+        <input name="area" type="hidden" value="default"/>
+       </form>
+      </div>
+     </div>
+     <div aria-label="main navigation" class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation">
+      <p class="caption">
+       <span class="caption-text">
+        正点原子开发板&amp;核心板
+       </span>
+      </p>
+      <ul class="current">
+       <li class="toctree-l1 current">
+        <a class="reference internal" href="index.html">
+         正点原子STM32开发板
+        </a>
+        <ul class="current">
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f103_mini.html">
+           stm32f103-mini开发板
           </a>
-
-          
-            
-            
-              <div class="version">
-                1.0.0
-              </div>
-            
-          
-
-          
-<div role="search">
-  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
-    <input type="hidden" name="check_keywords" value="yes" />
-    <input type="hidden" name="area" value="default" />
-  </form>
-</div>
-
-          
-        </div>
-
-        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-          
-            
-            
-              
-            
-            
-              <p class="caption"><span class="caption-text">正点原子开发板&amp;核心板</span></p>
-<ul class="current">
-<li class="toctree-l1 current"><a class="reference internal" href="index.html">正点原子STM32开发板</a><ul class="current">
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f103_mini.html">stm32f103-mini开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f103_jingying.html">stm32f103精英开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f103_warship.html">stm32f103战舰开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f407_explorer.html">stm32f407探索者开发板</a></li>
-<li class="toctree-l2 current"><a class="current reference internal" href="#">stm32f429阿波罗开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f767_apollo.html">stm32f767阿波罗开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32h743_apollo.html">stm32h743阿波罗开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f750_polaris.html">stm32f750北极星开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32h750_polaris.html">stm32h750北极星开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f429_shuixing.html">stm32f429水星开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f767_shuixing.html">stm32f767水星开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32h743_shuixing.html">stm32h743水星开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f103_nano.html">stm32f103-nano开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f407_nano.html">stm32f411-nano开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f103_mini_sysboard.html">stm32f103最小系统板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz_stm32f407_mini_sysboard.html">stm32f407最小系统板</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../arm-linux/index.html">正点原子Linux开发板</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../fpga/index.html">正点原子FPGA开发板</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../iot/index.html">正点原子IOT物联网板</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../i.mx-rt/index.html">正点原子NXP开发板</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子模块与配件</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/camera/index.html">摄像头模块</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/iot/index.html">IoT模块</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/lcd/index.html">LCD液晶屏</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/other/index.html">其他模块和配件</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子开发工具</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/solder/index.html">智能焊台</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/dap/index.html">仿真器与调试器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/programmer/index.html">脱机烧录器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/shiboqi/index.html">数字示波器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/USB/index.html">智能焊台</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子开源四轴</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/minifly.html">MiniFly四轴飞行器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/wukong.html">悟空四轴飞行器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/atkf405.html">开源飞控F405</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子教学书籍与视频</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyzbook/index.html">正点原子书籍</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyzshipin/index.html">正点原子视频</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子智能音频</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../Intelligent-audio/D8.html">D8-HiFi数字功放</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../Intelligent-audio/APTX.html">贝斯蓝牙音频接收器APTX</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子产品选型手册</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../select-manual/index.html">正点原子产品选型手册</a></li>
-</ul>
-<p class="caption"><span class="caption-text">关于正点原子</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html">公司简介</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html#id2">联系方式</a></li>
-</ul>
-
-            
-          
-        </div>
-      </div>
-    </nav>
-
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" aria-label="top navigation">
-        
-          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="../../index.html">正点原子资料下载中心</a>
-        
-      </nav>
-
-
-      <div class="wy-nav-content">
-        
-        <div class="rst-content">
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div role="navigation" aria-label="breadcrumbs navigation">
-
-  <ul class="wy-breadcrumbs">
-    
-      <li><a href="../../index.html">Docs</a> &raquo;</li>
-        
-          <li><a href="../index.html">&lt;no title&gt;</a> &raquo;</li>
-        
-          <li><a href="index.html">正点原子STM32开发板</a> &raquo;</li>
-        
-      <li>stm32f429阿波罗开发板</li>
-    
-    
-      <li class="wy-breadcrumbs-aside">
-        
-            
-            <a href="../../_sources/boards/stm32/zdyz_stm32f429_apollo.rst.txt" rel="nofollow"> View page source</a>
-          
-        
-      </li>
-    
-  </ul>
-
-  
-  <hr/>
-</div>
-          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
-           <div itemprop="articleBody">
-            
-  <div class="section" id="stm32f429">
-<h1>stm32f429阿波罗开发板<a class="headerlink" href="#stm32f429" title="永久链接至标题">¶</a></h1>
-<div class="section" id="id1">
-<h2>开发板介绍<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">开发板综合例程演示视频</span></code>：B站哔哩哔哩链接：<a class="reference external" href="https://www.bilibili.com/video/BV1Zf4y1r75S">https://www.bilibili.com/video/BV1Zf4y1r75S</a></p></li>
-</ul>
-</div>
-<div class="section" id="id2">
-<h2>资料下载链接<a class="headerlink" href="#id2" title="永久链接至标题">¶</a></h2>
-<div class="section" id="id3">
-<h3>资料盘链接<a class="headerlink" href="#id3" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">资料盘</span></code> 开发板资料A盘：链接：<a class="reference external" href="https://pan.baidu.com/s/1kZdtf56EWheIE86tvslovg">https://pan.baidu.com/s/1kZdtf56EWheIE86tvslovg</a>  提取码：uonq</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">资料盘</span></code> 视频PPT合集：<a class="reference external" href="https://pan.baidu.com/s/166mycHGZdIZmPy2lgmbd_Q">https://pan.baidu.com/s/166mycHGZdIZmPy2lgmbd_Q</a>  提取码：c030</p></li>
-</ul>
-</div>
-<div class="section" id="id4">
-<h3>视频网盘链接<a class="headerlink" href="#id4" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">手把手教你学STM32-F429/F767入门篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1x1q5atPDHMk5Lp1F3ydqqg">https://pan.baidu.com/s/1x1q5atPDHMk5Lp1F3ydqqg</a> 提取码：fqut</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">手把手教你学STM32-F429/F767中级篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1CZoDYm7Hsz4omoUbIrPcpw">https://pan.baidu.com/s/1CZoDYm7Hsz4omoUbIrPcpw</a> 提取码：0546</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">手把手教你学STM32-F429/F767高级篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1Wmn1utTpvqOHkvkC2kXenw">https://pan.baidu.com/s/1Wmn1utTpvqOHkvkC2kXenw</a> 提取码：hss9</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">FreeRTOS实时系统</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1HpkImWCS16sxWFOjmcVNhA">https://pan.baidu.com/s/1HpkImWCS16sxWFOjmcVNhA</a> 提取码：dfjs</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">UcosIII-实时系统</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1ASR_TPGcZsWtVXs0VfgpWQ">https://pan.baidu.com/s/1ASR_TPGcZsWtVXs0VfgpWQ</a>  提取码：8h3n</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">STenwin-图形界面</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1Er1lfmbJK5Ti-Pm8qIKH6A">https://pan.baidu.com/s/1Er1lfmbJK5Ti-Pm8qIKH6A</a> 提取码：mvwb</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">LWIP网络通信编程</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1FruKtxfOe_bTJ2EPEN20Rg">https://pan.baidu.com/s/1FruKtxfOe_bTJ2EPEN20Rg</a> 提取码：ywf5</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">LittleVGL开源图形界面</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1-7RFskvZifndQUSzQ4D92Q">https://pan.baidu.com/s/1-7RFskvZifndQUSzQ4D92Q</a> 提取码：zdyz</p></li>
-</ul>
-</div>
-<div class="section" id="id5">
-<h3>视频在线学习平台<a class="headerlink" href="#id5" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p>视频网盘经常失效，请移步在线观看平台：</p></li>
-</ul>
-<ol class="arabic simple">
-<li><p>原子哥在线教学平台免费观看: <a class="reference external" href="https://www.yuanzige.com">https://www.yuanzige.com</a></p></li>
-<li><p>B站哔哩哔哩：<a class="reference external" href="https://space.bilibili.com/394620890">https://space.bilibili.com/394620890</a></p></li>
-<li><p>腾讯课堂：<a class="reference external" href="https://ke.qq.com/course/278479">https://ke.qq.com/course/278479</a></p></li>
-</ol>
-</div>
-<div class="section" id="id6">
-<h3>产品讨论帖<a class="headerlink" href="#id6" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p>stm32f429阿波罗开发板产品讨论贴:  <a class="reference external" href="http://www.openedv.com/thread-308952-1-1.html">http://www.openedv.com/thread-308952-1-1.html</a></p></li>
-<li><p>正点原子STM32技术交流群:756580169</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="id7">
-<h2>产品图片<a class="headerlink" href="#id7" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p>stm32f429阿波罗开发板主图如下所示</p></li>
-</ul>
-<div class="figure align-default" id="id11">
-<span id="pic-major-abl"></span><img alt="../../_images/abl.png" src="../../_images/abl.png" />
-<p class="caption"><span class="caption-text">stm32f429阿波罗开发板实物图正面</span><a class="headerlink" href="#id11" title="永久链接至图片">¶</a></p>
-</div>
-</div>
-<div class="section" id="id8">
-<h2>购买方式<a class="headerlink" href="#id8" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p>正点原子官方淘宝店：<a class="reference external" href="https://openedv.taobao.com">https://openedv.taobao.com</a></p></li>
-</ul>
-</div>
-<div class="section" id="id9">
-<h2>产品问题答疑<a class="headerlink" href="#id9" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p>阿里旺旺：<a class="reference external" href="https://openedv.taobao.com">https://openedv.taobao.com</a> 上淘宝直接一对一咨询技术。</p></li>
-<li><p>开源电子网【论坛】：<a class="reference external" href="http://www.openedv.com/forum.php">http://www.openedv.com/forum.php</a></p></li>
-<li><p>QQ群：<a class="reference external" href="http://www.openedv.com/forum.php">http://www.openedv.com/forum.php</a>   点击首页“官方QQ群”即可加入最新群。</p></li>
-<li><p>微信群：<a class="reference external" href="http://www.openedv.com/forum.php">http://www.openedv.com/forum.php</a> 点击首页“微信群”即可加入最新群。</p></li>
-</ul>
-</div>
-<div class="section" id="id10">
-<h2>关于正点原子<a class="headerlink" href="#id10" title="永久链接至标题">¶</a></h2>
-<blockquote>
-<div><div class="line-block">
-<div class="line"><a class="reference internal" href="../../about/about_us.html#id1"><span class="std std-ref">公司简介</span></a></div>
-<div class="line"><a class="reference internal" href="../../about/about_us.html#id2"><span class="std std-ref">联系方式</span></a></div>
-</div>
-</div></blockquote>
-</div>
-</div>
-
-
-           </div>
-           
-          </div>
-          <footer>
-  
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="zdyz_stm32f767_apollo.html" class="btn btn-neutral float-right" title="stm32f767阿波罗开发板" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
-      
-      
-        <a href="zdyz_stm32f407_explorer.html" class="btn btn-neutral float-left" title="stm32f407探索者开发板" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
-      
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f103_jingying.html">
+           stm32f103精英开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f103_warship.html">
+           stm32f103战舰开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f407_explorer.html">
+           stm32f407探索者开发板
+          </a>
+         </li>
+         <li class="toctree-l2 current">
+          <a class="current reference internal" href="#">
+           stm32f429阿波罗开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f767_apollo.html">
+           stm32f767阿波罗开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32h743_apollo.html">
+           stm32h743阿波罗开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f750_polaris.html">
+           stm32f750北极星开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32h750_polaris.html">
+           stm32h750北极星开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f429_shuixing.html">
+           stm32f429水星开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f767_shuixing.html">
+           stm32f767水星开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32h743_shuixing.html">
+           stm32h743水星开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f103_nano.html">
+           stm32f103-nano开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f407_nano.html">
+           stm32f411-nano开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f103_mini_sysboard.html">
+           stm32f103最小系统板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz_stm32f407_mini_sysboard.html">
+           stm32f407最小系统板
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../arm-linux/index.html">
+         正点原子Linux开发板
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../fpga/index.html">
+         正点原子FPGA开发板
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../iot/index.html">
+         正点原子IOT物联网板
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../i.mx-rt/index.html">
+         正点原子NXP开发板
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子模块与配件
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/camera/index.html">
+         摄像头模块
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/iot/index.html">
+         IoT模块
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/lcd/index.html">
+         LCD液晶屏
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/other/index.html">
+         其他模块和配件
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子开发工具
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/solder/index.html">
+         智能焊台
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/dap/index.html">
+         仿真器与调试器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/programmer/index.html">
+         脱机烧录器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/shiboqi/index.html">
+         数字示波器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/USB/index.html">
+         USB测试仪
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子开源四轴
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../fouraxis-fly/minifly.html">
+         MiniFly四轴飞行器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../fouraxis-fly/wukong.html">
+         悟空四轴飞行器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../fouraxis-fly/atkf405.html">
+         开源飞控F405
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子教学书籍与视频
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../book-videos/zdyzbook/index.html">
+         正点原子书籍
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../book-videos/zdyzshipin/index.html">
+         正点原子视频
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子智能音频
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../Intelligent-audio/D8.html">
+         D8-HiFi数字功放
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../Intelligent-audio/APTX.html">
+         贝斯蓝牙音频接收器APTX
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子产品选型手册
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../select-manual/index.html">
+         正点原子产品选型手册
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        关于正点原子
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../about/about_us.html">
+         公司简介
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../about/about_us.html#id2">
+         联系方式
+        </a>
+       </li>
+      </ul>
+     </div>
     </div>
-  
-
-  <hr/>
-
-  <div role="contentinfo">
-    <p>
-        &copy; Copyright 2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/
-
-    </p>
-  </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
-
-</footer>
-
-        </div>
+   </nav>
+   <section class="wy-nav-content-wrap" data-toggle="wy-nav-shift">
+    <nav aria-label="top navigation" class="wy-nav-top">
+     <i class="fa fa-bars" data-toggle="wy-nav-top">
+     </i>
+     <a href="../../index.html">
+      正点原子资料下载中心
+     </a>
+    </nav>
+    <div class="wy-nav-content">
+     <div class="rst-content">
+      <div aria-label="breadcrumbs navigation" role="navigation">
+       <ul class="wy-breadcrumbs">
+        <li>
+         <a href="../../index.html">
+          Docs
+         </a>
+         »
+        </li>
+        <li>
+         <a href="../index.html">
+          &lt;no title&gt;
+         </a>
+         »
+        </li>
+        <li>
+         <a href="index.html">
+          正点原子STM32开发板
+         </a>
+         »
+        </li>
+        <li>
+         stm32f429阿波罗开发板
+        </li>
+        <li class="wy-breadcrumbs-aside">
+         <a class="fa fa-github" href="https://github.com/alientek-openedv/Products/tree/master/zdyz_docs/boards\stm32\zdyz_stm32f429_apollo.rst" target="_blank">
+          Edit on Zdyz/Products
+         </a>
+        </li>
+       </ul>
+       <hr/>
       </div>
-
-    </section>
-
+      <div class="document" itemscope="itemscope" itemtype="http://schema.org/Article" role="main">
+       <div itemprop="articleBody">
+        <div class="section" id="stm32f429">
+         <h1>
+          stm32f429阿波罗开发板
+          <a class="headerlink" href="#stm32f429" title="永久链接至标题">
+           ¶
+          </a>
+         </h1>
+         <div class="section" id="id1">
+          <h2>
+           开发板介绍
+           <a class="headerlink" href="#id1" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             <code class="docutils literal notranslate">
+              <span class="pre">
+               开发板综合例程演示视频
+              </span>
+             </code>
+             ：B站哔哩哔哩链接：
+             <a class="reference external" href="https://www.bilibili.com/video/BV1Zf4y1r75S" target="_blank">
+              https://www.bilibili.com/video/BV1Zf4y1r75S
+             </a>
+            </p>
+           </li>
+          </ul>
+         </div>
+         <div class="section" id="id2">
+          <h2>
+           资料下载链接
+           <a class="headerlink" href="#id2" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <div class="section" id="id3">
+           <h3>
+            资料盘链接
+            <a class="headerlink" href="#id3" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                资料盘
+               </span>
+              </code>
+              开发板资料A盘：链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1kZdtf56EWheIE86tvslovg" target="_blank">
+               https://pan.baidu.com/s/1kZdtf56EWheIE86tvslovg
+              </a>
+              提取码：uonq
+             </p>
+            </li>
+            <li>
+             <p>
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                资料盘
+               </span>
+              </code>
+              视频PPT合集：
+              <a class="reference external" href="https://pan.baidu.com/s/166mycHGZdIZmPy2lgmbd_Q" target="_blank">
+               https://pan.baidu.com/s/166mycHGZdIZmPy2lgmbd_Q
+              </a>
+              提取码：c030
+             </p>
+            </li>
+           </ul>
+          </div>
+          <div class="section" id="id4">
+           <h3>
+            视频网盘链接
+            <a class="headerlink" href="#id4" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                手把手教你学STM32-F429/F767入门篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1x1q5atPDHMk5Lp1F3ydqqg" target="_blank">
+               https://pan.baidu.com/s/1x1q5atPDHMk5Lp1F3ydqqg
+              </a>
+              提取码：fqut
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                手把手教你学STM32-F429/F767中级篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1CZoDYm7Hsz4omoUbIrPcpw" target="_blank">
+               https://pan.baidu.com/s/1CZoDYm7Hsz4omoUbIrPcpw
+              </a>
+              提取码：0546
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                手把手教你学STM32-F429/F767高级篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1Wmn1utTpvqOHkvkC2kXenw" target="_blank">
+               https://pan.baidu.com/s/1Wmn1utTpvqOHkvkC2kXenw
+              </a>
+              提取码：hss9
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                FreeRTOS实时系统
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1HpkImWCS16sxWFOjmcVNhA" target="_blank">
+               https://pan.baidu.com/s/1HpkImWCS16sxWFOjmcVNhA
+              </a>
+              提取码：dfjs
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                UcosIII-实时系统
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1ASR_TPGcZsWtVXs0VfgpWQ" target="_blank">
+               https://pan.baidu.com/s/1ASR_TPGcZsWtVXs0VfgpWQ
+              </a>
+              提取码：8h3n
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                STenwin-图形界面
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1Er1lfmbJK5Ti-Pm8qIKH6A" target="_blank">
+               https://pan.baidu.com/s/1Er1lfmbJK5Ti-Pm8qIKH6A
+              </a>
+              提取码：mvwb
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                LWIP网络通信编程
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1FruKtxfOe_bTJ2EPEN20Rg" target="_blank">
+               https://pan.baidu.com/s/1FruKtxfOe_bTJ2EPEN20Rg
+              </a>
+              提取码：ywf5
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                LittleVGL开源图形界面
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1-7RFskvZifndQUSzQ4D92Q" target="_blank">
+               https://pan.baidu.com/s/1-7RFskvZifndQUSzQ4D92Q
+              </a>
+              提取码：zdyz
+             </p>
+            </li>
+           </ul>
+          </div>
+          <div class="section" id="id5">
+           <h3>
+            视频在线学习平台
+            <a class="headerlink" href="#id5" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              视频网盘经常失效，请移步在线观看平台：
+             </p>
+            </li>
+           </ul>
+           <ol class="arabic simple">
+            <li>
+             <p>
+              原子哥在线教学平台免费观看:
+              <a class="reference external" href="https://www.yuanzige.com" target="_blank">
+               https://www.yuanzige.com
+              </a>
+             </p>
+            </li>
+            <li>
+             <p>
+              B站哔哩哔哩：
+              <a class="reference external" href="https://space.bilibili.com/394620890" target="_blank">
+               https://space.bilibili.com/394620890
+              </a>
+             </p>
+            </li>
+            <li>
+             <p>
+              腾讯课堂：
+              <a class="reference external" href="https://ke.qq.com/course/278479" target="_blank">
+               https://ke.qq.com/course/278479
+              </a>
+             </p>
+            </li>
+           </ol>
+          </div>
+          <div class="section" id="id6">
+           <h3>
+            产品讨论帖
+            <a class="headerlink" href="#id6" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              stm32f429阿波罗开发板产品讨论贴:
+              <a class="reference external" href="http://www.openedv.com/thread-308952-1-1.html" target="_blank">
+               http://www.openedv.com/thread-308952-1-1.html
+              </a>
+             </p>
+            </li>
+            <li>
+             <p>
+              正点原子STM32技术交流群:756580169
+             </p>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="section" id="id7">
+          <h2>
+           产品图片
+           <a class="headerlink" href="#id7" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             stm32f429阿波罗开发板主图如下所示
+            </p>
+           </li>
+          </ul>
+          <div class="figure align-default" id="id11">
+           <span id="pic-major-abl">
+           </span>
+           <img alt="../../_images/abl.png" src="../../_images/abl.png"/>
+           <p class="caption">
+            <span class="caption-text">
+             stm32f429阿波罗开发板实物图正面
+            </span>
+            <a class="headerlink" href="#id11" title="永久链接至图片">
+             ¶
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="section" id="id8">
+          <h2>
+           购买方式
+           <a class="headerlink" href="#id8" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             正点原子官方淘宝店：
+             <a class="reference external" href="https://openedv.taobao.com" target="_blank">
+              https://openedv.taobao.com
+             </a>
+            </p>
+           </li>
+          </ul>
+         </div>
+         <div class="section" id="id9">
+          <h2>
+           产品问题答疑
+           <a class="headerlink" href="#id9" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             阿里旺旺：
+             <a class="reference external" href="https://openedv.taobao.com" target="_blank">
+              https://openedv.taobao.com
+             </a>
+             上淘宝直接一对一咨询技术。
+            </p>
+           </li>
+           <li>
+            <p>
+             开源电子网【论坛】：
+             <a class="reference external" href="http://www.openedv.com/forum.php" target="_blank">
+              http://www.openedv.com/forum.php
+             </a>
+            </p>
+           </li>
+           <li>
+            <p>
+             QQ群：
+             <a class="reference external" href="http://www.openedv.com/forum.php" target="_blank">
+              http://www.openedv.com/forum.php
+             </a>
+             点击首页“官方QQ群”即可加入最新群。
+            </p>
+           </li>
+           <li>
+            <p>
+             微信群：
+             <a class="reference external" href="http://www.openedv.com/forum.php" target="_blank">
+              http://www.openedv.com/forum.php
+             </a>
+             点击首页“微信群”即可加入最新群。
+            </p>
+           </li>
+          </ul>
+         </div>
+         <div class="section" id="id10">
+          <h2>
+           关于正点原子
+           <a class="headerlink" href="#id10" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <blockquote>
+           <div>
+            <div class="line-block">
+             <div class="line">
+              <a class="reference internal" href="../../about/about_us.html#id1">
+               <span class="std std-ref">
+                公司简介
+               </span>
+              </a>
+             </div>
+             <div class="line">
+              <a class="reference internal" href="../../about/about_us.html#id2">
+               <span class="std std-ref">
+                联系方式
+               </span>
+              </a>
+             </div>
+            </div>
+           </div>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <footer>
+       <div aria-label="footer navigation" class="rst-footer-buttons" role="navigation">
+        <a accesskey="n" class="btn btn-neutral float-right" href="zdyz_stm32f767_apollo.html" rel="next" title="stm32f767阿波罗开发板">
+         Next
+         <span class="fa fa-arrow-circle-right">
+         </span>
+        </a>
+        <a accesskey="p" class="btn btn-neutral float-left" href="zdyz_stm32f407_explorer.html" rel="prev" title="stm32f407探索者开发板">
+         <span class="fa fa-arrow-circle-left">
+         </span>
+         Previous
+        </a>
+       </div>
+       <hr/>
+       <div role="contentinfo">
+        <p>
+         © Copyright 2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/
+        </p>
+       </div>
+       Built with
+       <a href="http://sphinx-doc.org/" target="_blank">
+        Sphinx
+       </a>
+       using a
+       <a href="https://github.com/rtfd/sphinx_rtd_theme" target="_blank">
+        theme
+       </a>
+       provided by
+       <a href="https://readthedocs.org" target="_blank">
+        Read the Docs
+       </a>
+       .
+      </footer>
+     </div>
+    </div>
+   </section>
   </div>
-  
-
-
   <script type="text/javascript">
-      jQuery(function () {
+   jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
   </script>
-
-  
-  
-    
-   
-
-</body>
+ </body>
 </html>
