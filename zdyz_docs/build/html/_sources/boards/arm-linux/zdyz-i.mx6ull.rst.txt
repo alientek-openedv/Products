@@ -46,9 +46,9 @@ I.MX6U 虚拟机链接
    
 -  配套 ``Linux之网络环境搭建篇`` 视频链接：https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q 提取码：5sfw
 
--  配套 ``Qt5（C++）篇`` 视频链接：https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g  提取码：2df1  
+-  配套 ``Linux之Qt5（C++）篇`` 视频链接：https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g  提取码：2df1  
    
--  配套 ``C应用开发篇`` 视频链接：https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA  提取码：j5dj 
+-  配套 ``Linux之C应用开发篇`` 视频链接：https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA  提取码：j5dj 
 
       
 视频在线学习平台
