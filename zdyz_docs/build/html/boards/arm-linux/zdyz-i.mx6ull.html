@@ -1,364 +1,812 @@
-
-
 <!DOCTYPE html>
 <!--[if IE 8]><html class="no-js lt-ie9" lang="zh-CN" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="zh-CN" > <!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
-  <title>i.MX6ULL Linux阿尔法开发板 &mdash; 正点原子资料下载中心 1.0.0 文档</title>
-  
-
-  
-  
-  
-  
-
-  
-  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
-  
-    
-      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
-        <script src="../../_static/jquery.js"></script>
-        <script src="../../_static/underscore.js"></script>
-        <script src="../../_static/doctools.js"></script>
-        <script src="../../_static/language_data.js"></script>
-        <script src="../../_static/translations.js"></script>
-    
-    <script type="text/javascript" src="../../_static/js/theme.js"></script>
-
-    
-
-  
-  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
-  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-    <link rel="index" title="索引" href="../../genindex.html" />
-    <link rel="search" title="搜索" href="../../search.html" />
-    <link rel="next" title="Mini Linux开发板" href="zdyz-i.mx6ullmini.html" />
-    <link rel="prev" title="正点原子Linux开发板" href="index.html" /> 
-</head>
-
-<body class="wy-body-for-nav">
-
-   
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="zh-CN">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title>
+   i.MX6ULL Linux阿尔法开发板 — 正点原子资料下载中心 1.0.0 文档
+  </title>
+  <script src="../../_static/js/modernizr.min.js" type="text/javascript">
+  </script>
+  <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js" type="text/javascript">
+  </script>
+  <script src="../../_static/jquery.js">
+  </script>
+  <script src="../../_static/underscore.js">
+  </script>
+  <script src="../../_static/doctools.js">
+  </script>
+  <script src="../../_static/language_data.js">
+  </script>
+  <script src="../../_static/translations.js">
+  </script>
+  <script src="../../_static/js/theme.js" type="text/javascript">
+  </script>
+  <link href="../../_static/css/theme.css" rel="stylesheet" type="text/css"/>
+  <link href="../../_static/pygments.css" rel="stylesheet" type="text/css"/>
+  <link href="../../genindex.html" rel="index" title="索引"/>
+  <link href="../../search.html" rel="search" title="搜索"/>
+  <link href="zdyz-i.mx6ullmini.html" rel="next" title="Mini Linux开发板"/>
+  <link href="index.html" rel="prev" title="正点原子Linux开发板"/>
+ </head>
+ <body class="wy-body-for-nav">
   <div class="wy-grid-for-nav">
-    
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
-      <div class="wy-side-scroll">
-        <div class="wy-side-nav-search" >
-          
-
-          
-            <a href="../../index.html" class="icon icon-home"> 正点原子资料下载中心
-          
-
-          
-            
-            <img src="../../_static/atklogo.png" class="logo" alt="Logo"/>
-          
+   <nav class="wy-nav-side" data-toggle="wy-nav-shift">
+    <div class="wy-side-scroll">
+     <div class="wy-side-nav-search">
+      <a class="icon icon-home" href="../../index.html">
+       正点原子资料下载中心
+       <img alt="Logo" class="logo" src="../../_static/atklogo.png"/>
+      </a>
+      <div class="version">
+       1.0.0
+      </div>
+      <div role="search">
+       <form action="../../search.html" class="wy-form" id="rtd-search-form" method="get">
+        <input name="q" placeholder="Search docs" type="text"/>
+        <input name="check_keywords" type="hidden" value="yes"/>
+        <input name="area" type="hidden" value="default"/>
+       </form>
+      </div>
+     </div>
+     <div aria-label="main navigation" class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation">
+      <p class="caption">
+       <span class="caption-text">
+        正点原子开发板&amp;核心板
+       </span>
+      </p>
+      <ul class="current">
+       <li class="toctree-l1">
+        <a class="reference internal" href="../stm32/index.html">
+         正点原子STM32开发板
+        </a>
+       </li>
+       <li class="toctree-l1 current">
+        <a class="reference internal" href="index.html">
+         正点原子Linux开发板
+        </a>
+        <ul class="current">
+         <li class="toctree-l2 current">
+          <a class="current reference internal" href="#">
+           i.MX6ULL Linux阿尔法开发板
           </a>
-
-          
-            
-            
-              <div class="version">
-                1.0.0
-              </div>
-            
-          
-
-          
-<div role="search">
-  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
-    <input type="hidden" name="check_keywords" value="yes" />
-    <input type="hidden" name="area" value="default" />
-  </form>
-</div>
-
-          
-        </div>
-
-        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
-          
-            
-            
-              
-            
-            
-              <p class="caption"><span class="caption-text">正点原子开发板&amp;核心板</span></p>
-<ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="../stm32/index.html">正点原子STM32开发板</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="index.html">正点原子Linux开发板</a><ul class="current">
-<li class="toctree-l2 current"><a class="current reference internal" href="#">i.MX6ULL Linux阿尔法开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz-i.mx6ullmini.html">Mini Linux开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyzmp157.html">STM32MP157开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="zdyz-minimp157.html">STM32MP157-Mini开发板</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="../fpga/index.html">正点原子FPGA开发板</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../iot/index.html">正点原子IOT物联网板</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../i.mx-rt/index.html">正点原子NXP开发板</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子模块与配件</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/camera/index.html">摄像头模块</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/iot/index.html">IoT模块</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/lcd/index.html">LCD液晶屏</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../modules/other/index.html">其他模块和配件</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子开发工具</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/solder/index.html">智能焊台</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/dap/index.html">仿真器与调试器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/programmer/index.html">脱机烧录器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/shiboqi/index.html">数字示波器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../tool/USB/index.html">USB测试仪</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子开源四轴</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/minifly.html">MiniFly四轴飞行器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/wukong.html">悟空四轴飞行器</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/atkf405.html">开源飞控F405</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子教学书籍与视频</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyzbook/index.html">正点原子书籍</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyzshipin/index.html">正点原子视频</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子智能音频</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../Intelligent-audio/D8.html">D8-HiFi数字功放</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../Intelligent-audio/APTX.html">贝斯蓝牙音频接收器APTX</a></li>
-</ul>
-<p class="caption"><span class="caption-text">正点原子产品选型手册</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../select-manual/index.html">正点原子产品选型手册</a></li>
-</ul>
-<p class="caption"><span class="caption-text">关于正点原子</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html">公司简介</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html#id2">联系方式</a></li>
-</ul>
-
-            
-          
-        </div>
-      </div>
-    </nav>
-
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-
-      
-      <nav class="wy-nav-top" aria-label="top navigation">
-        
-          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="../../index.html">正点原子资料下载中心</a>
-        
-      </nav>
-
-
-      <div class="wy-nav-content">
-        
-        <div class="rst-content">
-        
-          
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div role="navigation" aria-label="breadcrumbs navigation">
-
-  <ul class="wy-breadcrumbs">
-    
-      <li><a href="../../index.html">Docs</a> &raquo;</li>
-        
-          <li><a href="../index.html">&lt;no title&gt;</a> &raquo;</li>
-        
-          <li><a href="index.html">正点原子Linux开发板</a> &raquo;</li>
-        
-      <li>i.MX6ULL Linux阿尔法开发板</li>
-    
-    
-      <li class="wy-breadcrumbs-aside">
-        
-            
-            <a href="../../_sources/boards/arm-linux/zdyz-i.mx6ull.rst.txt" rel="nofollow"> View page source</a>
-          
-        
-      </li>
-    
-  </ul>
-
-  
-  <hr/>
-</div>
-          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
-           <div itemprop="articleBody">
-            
-  <div class="section" id="i-mx6ull-linux">
-<h1>i.MX6ULL Linux阿尔法开发板<a class="headerlink" href="#i-mx6ull-linux" title="永久链接至标题">¶</a></h1>
-<div class="section" id="id1">
-<h2>开发板介绍<a class="headerlink" href="#id1" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">开发板资料介绍视频</span></code> B站哔哩哔哩链接：<a class="reference external" href="https://www.bilibili.com/video/av68994676">https://www.bilibili.com/video/av68994676</a></p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">开发板QT5演示视频</span></code> B站哔哩哔哩链接：<a class="reference external" href="https://www.bilibili.com/video/av61255737">https://www.bilibili.com/video/av61255737</a></p></li>
-</ul>
-</div>
-<div class="section" id="id2">
-<h2>资料下载链接<a class="headerlink" href="#id2" title="永久链接至标题">¶</a></h2>
-<div class="section" id="id3">
-<h3>资料盘链接<a class="headerlink" href="#id3" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">资料盘</span></code> 开发板资料链接：<a class="reference external" href="https://pan.baidu.com/s/1inZtndgN-L3aVfoch2-sKA">https://pan.baidu.com/s/1inZtndgN-L3aVfoch2-sKA</a>  提取码：m65i</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">资料盘</span></code> PDF合集资料链接：<a class="reference external" href="https://pan.baidu.com/s/1_xpEUW77rQEEzCbuMGahrA">https://pan.baidu.com/s/1_xpEUW77rQEEzCbuMGahrA</a> 提取码：f8n1</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">资料盘</span></code> 视频PPT笔记链接：<a class="reference external" href="https://pan.baidu.com/s/1OP8aOYrx0hzh1dou1f3WQg">https://pan.baidu.com/s/1OP8aOYrx0hzh1dou1f3WQg</a> 提取码：vyda</p></li>
-</ul>
-</div>
-<div class="section" id="id4">
-<h3>资料盘其他下载方式<a class="headerlink" href="#id4" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">Coding(推荐)</span></code> 下载链接：<a class="reference external" href="https://alientek-linux.coding.net/public/">https://alientek-linux.coding.net/public/</a></p></li>
-</ul>
-</div>
-<div class="section" id="i-mx6u">
-<h3>I.MX6U 虚拟机链接<a class="headerlink" href="#i-mx6u" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p>学习正点原子I.MX6ULL驱动开发指南、嵌入式QT开发指南等文档教程时，可以使用已经搭建好的虚拟机环境像，节省环境搭建时间。请严格按照网盘里的《I.MX6U 虚拟机使用参考手册》进行系统安装。</p></li>
-<li><p><code class="docutils literal notranslate"><span class="pre">工具盘</span></code> 百度网盘链接：<a class="reference external" href="https://pan.baidu.com/s/1X_sutSwtYNooaaZ9vSz9Rw">https://pan.baidu.com/s/1X_sutSwtYNooaaZ9vSz9Rw</a>  提取码：phw9</p></li>
-</ul>
-</div>
-<div class="section" id="id5">
-<h3>视频网盘链接<a class="headerlink" href="#id5" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">Linux之Ubuntu入门篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1uTu9-Fy2gVWSUxhoUsqZCQ">https://pan.baidu.com/s/1uTu9-Fy2gVWSUxhoUsqZCQ</a> 提取码：jmoz</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">Linux之ARM裸机篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ">https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ</a>  提取码：r27n</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">Linux之系统移植和文件系统构建篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1vdUOu0uF8VXoLN51boJyHw">https://pan.baidu.com/s/1vdUOu0uF8VXoLN51boJyHw</a> 提取码：d2rz</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">Linux之驱动开发篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1JU95JHG-v7MKvkvXsMNhdw">https://pan.baidu.com/s/1JU95JHG-v7MKvkvXsMNhdw</a> 提取码：n3ju</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">Linux之网络环境搭建篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q">https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q</a> 提取码：5sfw</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">Linux之Qt5（C++）篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g">https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g</a>  提取码：2df1</p></li>
-<li><p>配套 <code class="docutils literal notranslate"><span class="pre">Linux之C应用开发篇</span></code> 视频链接：<a class="reference external" href="https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA">https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA</a>  提取码：j5dj</p></li>
-</ul>
-</div>
-<div class="section" id="id6">
-<h3>视频在线学习平台<a class="headerlink" href="#id6" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p>视频网盘如果失效，请移步在线观看平台：</p></li>
-</ul>
-<ol class="arabic simple">
-<li><p>原子哥在线教学平台免费观看: <a class="reference external" href="https://www.yuanzige.com">https://www.yuanzige.com</a></p></li>
-<li><p>B站哔哩哔哩：<a class="reference external" href="https://space.bilibili.com/394620890">https://space.bilibili.com/394620890</a></p></li>
-<li><p>腾讯课堂：<a class="reference external" href="https://ke.qq.com/course/278479">https://ke.qq.com/course/278479</a></p></li>
-</ol>
-</div>
-<div class="section" id="id7">
-<h3>产品讨论帖<a class="headerlink" href="#id7" title="永久链接至标题">¶</a></h3>
-<ul class="simple">
-<li><p>i.MX6ULL Linux阿尔法产品讨论贴: <a class="reference external" href="http://www.openedv.com/thread-300792-1-1.html">http://www.openedv.com/thread-300792-1-1.html</a></p></li>
-<li><p>正点原子阿尔法Linux开发板交流群：887820935</p></li>
-</ul>
-</div>
-</div>
-<div class="section" id="id8">
-<h2>产品图片<a class="headerlink" href="#id8" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p>i.MX6ULL Linux阿尔法开发板主图如下所示</p></li>
-</ul>
-<div class="figure align-default" id="id12">
-<span id="pic-major-imx6ull-board"></span><img alt="../../_images/imx6ull_board.png" src="../../_images/imx6ull_board.png" />
-<p class="caption"><span class="caption-text">i.MX6ULL Linux阿尔法开发板正面图</span><a class="headerlink" href="#id12" title="永久链接至图片">¶</a></p>
-</div>
-<div class="figure align-default" id="id13">
-<span id="pic-major-imx-6ull-core"></span><img alt="../../_images/imx_6ull_core.png" src="../../_images/imx_6ull_core.png" />
-<p class="caption"><span class="caption-text">i.MX6ULL Linux阿尔法开发板背面图</span><a class="headerlink" href="#id13" title="永久链接至图片">¶</a></p>
-</div>
-</div>
-<div class="section" id="id9">
-<h2>购买方式<a class="headerlink" href="#id9" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p>正点原子官方淘宝店：<a class="reference external" href="https://openedv.taobao.com">https://openedv.taobao.com</a></p></li>
-</ul>
-</div>
-<div class="section" id="id10">
-<h2>产品问题答疑<a class="headerlink" href="#id10" title="永久链接至标题">¶</a></h2>
-<ul class="simple">
-<li><p>阿里旺旺：<a class="reference external" href="https://openedv.taobao.com">https://openedv.taobao.com</a> 上淘宝直接一对一咨询技术。</p></li>
-<li><p>开源电子网【论坛】：<a class="reference external" href="http://www.openedv.com/forum.php">http://www.openedv.com/forum.php</a></p></li>
-<li><p>QQ群：<a class="reference external" href="http://www.openedv.com/forum.php">http://www.openedv.com/forum.php</a>   点击首页“官方QQ群”即可加入最新群。</p></li>
-<li><p>微信群：<a class="reference external" href="http://www.openedv.com/forum.php">http://www.openedv.com/forum.php</a> 点击首页“微信群”即可加入最新群。</p></li>
-</ul>
-</div>
-<div class="section" id="id11">
-<h2>关于正点原子<a class="headerlink" href="#id11" title="永久链接至标题">¶</a></h2>
-<blockquote>
-<div><div class="line-block">
-<div class="line"><a class="reference internal" href="../../about/about_us.html#id1"><span class="std std-ref">公司简介</span></a></div>
-<div class="line"><a class="reference internal" href="../../about/about_us.html#id2"><span class="std std-ref">联系方式</span></a></div>
-</div>
-</div></blockquote>
-</div>
-</div>
-
-
-           </div>
-           
-          </div>
-          <footer>
-  
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-      
-        <a href="zdyz-i.mx6ullmini.html" class="btn btn-neutral float-right" title="Mini Linux开发板" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
-      
-      
-        <a href="index.html" class="btn btn-neutral float-left" title="正点原子Linux开发板" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
-      
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz-i.mx6ullmini.html">
+           Mini Linux开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyzmp157.html">
+           STM32MP157开发板
+          </a>
+         </li>
+         <li class="toctree-l2">
+          <a class="reference internal" href="zdyz-minimp157.html">
+           STM32MP157-Mini开发板
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../fpga/index.html">
+         正点原子FPGA开发板
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../iot/index.html">
+         正点原子IOT物联网板
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../i.mx-rt/index.html">
+         正点原子NXP开发板
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子模块与配件
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/camera/index.html">
+         摄像头模块
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/iot/index.html">
+         IoT模块
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/lcd/index.html">
+         LCD液晶屏
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../modules/other/index.html">
+         其他模块和配件
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子开发工具
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/solder/index.html">
+         智能焊台
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/dap/index.html">
+         仿真器与调试器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/programmer/index.html">
+         脱机烧录器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/shiboqi/index.html">
+         数字示波器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../tool/USB/index.html">
+         USB测试仪
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子开源四轴
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../fouraxis-fly/minifly.html">
+         MiniFly四轴飞行器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../fouraxis-fly/wukong.html">
+         悟空四轴飞行器
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../fouraxis-fly/atkf405.html">
+         开源飞控F405
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子教学书籍与视频
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../book-videos/zdyzbook/index.html">
+         正点原子书籍
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../book-videos/zdyzshipin/index.html">
+         正点原子视频
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子智能音频
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../Intelligent-audio/D8.html">
+         D8-HiFi数字功放
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../Intelligent-audio/APTX.html">
+         贝斯蓝牙音频接收器APTX
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        正点原子产品选型手册
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../select-manual/index.html">
+         正点原子产品选型手册
+        </a>
+       </li>
+      </ul>
+      <p class="caption">
+       <span class="caption-text">
+        关于正点原子
+       </span>
+      </p>
+      <ul>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../about/about_us.html">
+         公司简介
+        </a>
+       </li>
+       <li class="toctree-l1">
+        <a class="reference internal" href="../../about/about_us.html#id2">
+         联系方式
+        </a>
+       </li>
+      </ul>
+     </div>
     </div>
-  
-
-  <hr/>
-
-  <div role="contentinfo">
-    <p>
-        &copy; Copyright 2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/
-
-    </p>
-  </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
-
-</footer>
-
-        </div>
+   </nav>
+   <section class="wy-nav-content-wrap" data-toggle="wy-nav-shift">
+    <nav aria-label="top navigation" class="wy-nav-top">
+     <i class="fa fa-bars" data-toggle="wy-nav-top">
+     </i>
+     <a href="../../index.html">
+      正点原子资料下载中心
+     </a>
+    </nav>
+    <div class="wy-nav-content">
+     <div class="rst-content">
+      <div aria-label="breadcrumbs navigation" role="navigation">
+       <ul class="wy-breadcrumbs">
+        <li>
+         <a href="../../index.html">
+          Docs
+         </a>
+         »
+        </li>
+        <li>
+         <a href="../index.html">
+          &lt;no title&gt;
+         </a>
+         »
+        </li>
+        <li>
+         <a href="index.html">
+          正点原子Linux开发板
+         </a>
+         »
+        </li>
+        <li>
+         i.MX6ULL Linux阿尔法开发板
+        </li>
+        <li class="wy-breadcrumbs-aside">
+         <a class="fa fa-github" href="https://github.com/alientek-openedv/Products/tree/master/zdyz_docs/boards\arm-linux\zdyz-i.mx6ull.rst" target="_blank">
+          Edit on Zdyz/Products
+         </a>
+        </li>
+       </ul>
+       <hr/>
       </div>
-
-    </section>
-
+      <div class="document" itemscope="itemscope" itemtype="http://schema.org/Article" role="main">
+       <div itemprop="articleBody">
+        <div class="section" id="i-mx6ull-linux">
+         <h1>
+          i.MX6ULL Linux阿尔法开发板
+          <a class="headerlink" href="#i-mx6ull-linux" title="永久链接至标题">
+           ¶
+          </a>
+         </h1>
+         <div class="section" id="id1">
+          <h2>
+           开发板介绍
+           <a class="headerlink" href="#id1" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             <code class="docutils literal notranslate">
+              <span class="pre">
+               开发板资料介绍视频
+              </span>
+             </code>
+             B站哔哩哔哩链接：
+             <a class="reference external" href="https://www.bilibili.com/video/av68994676" target="_blank">
+              https://www.bilibili.com/video/av68994676
+             </a>
+            </p>
+           </li>
+           <li>
+            <p>
+             <code class="docutils literal notranslate">
+              <span class="pre">
+               开发板QT5演示视频
+              </span>
+             </code>
+             B站哔哩哔哩链接：
+             <a class="reference external" href="https://www.bilibili.com/video/av61255737" target="_blank">
+              https://www.bilibili.com/video/av61255737
+             </a>
+            </p>
+           </li>
+          </ul>
+         </div>
+         <div class="section" id="id2">
+          <h2>
+           资料下载链接
+           <a class="headerlink" href="#id2" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <div class="section" id="id3">
+           <h3>
+            资料盘链接
+            <a class="headerlink" href="#id3" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                资料盘
+               </span>
+              </code>
+              开发板资料链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1inZtndgN-L3aVfoch2-sKA" target="_blank">
+               https://pan.baidu.com/s/1inZtndgN-L3aVfoch2-sKA
+              </a>
+              提取码：m65i
+             </p>
+            </li>
+            <li>
+             <p>
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                资料盘
+               </span>
+              </code>
+              PDF合集资料链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1_xpEUW77rQEEzCbuMGahrA" target="_blank">
+               https://pan.baidu.com/s/1_xpEUW77rQEEzCbuMGahrA
+              </a>
+              提取码：f8n1
+             </p>
+            </li>
+            <li>
+             <p>
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                资料盘
+               </span>
+              </code>
+              视频PPT笔记链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1OP8aOYrx0hzh1dou1f3WQg" target="_blank">
+               https://pan.baidu.com/s/1OP8aOYrx0hzh1dou1f3WQg
+              </a>
+              提取码：vyda
+             </p>
+            </li>
+           </ul>
+          </div>
+          <div class="section" id="id4">
+           <h3>
+            资料盘其他下载方式
+            <a class="headerlink" href="#id4" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Coding(推荐)
+               </span>
+              </code>
+              下载链接：
+              <a class="reference external" href="https://alientek-linux.coding.net/public/" target="_blank">
+               https://alientek-linux.coding.net/public/
+              </a>
+             </p>
+            </li>
+           </ul>
+          </div>
+          <div class="section" id="i-mx6u">
+           <h3>
+            I.MX6U 虚拟机链接
+            <a class="headerlink" href="#i-mx6u" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              学习正点原子I.MX6ULL驱动开发指南、嵌入式QT开发指南等文档教程时，可以使用已经搭建好的虚拟机环境像，节省环境搭建时间。请严格按照网盘里的《I.MX6U 虚拟机使用参考手册》进行系统安装。
+             </p>
+            </li>
+            <li>
+             <p>
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                工具盘
+               </span>
+              </code>
+              百度网盘链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1X_sutSwtYNooaaZ9vSz9Rw" target="_blank">
+               https://pan.baidu.com/s/1X_sutSwtYNooaaZ9vSz9Rw
+              </a>
+              提取码：phw9
+             </p>
+            </li>
+           </ul>
+          </div>
+          <div class="section" id="id5">
+           <h3>
+            视频网盘链接
+            <a class="headerlink" href="#id5" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Linux之Ubuntu入门篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1uTu9-Fy2gVWSUxhoUsqZCQ" target="_blank">
+               https://pan.baidu.com/s/1uTu9-Fy2gVWSUxhoUsqZCQ
+              </a>
+              提取码：jmoz
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Linux之ARM裸机篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ" target="_blank">
+               https://pan.baidu.com/s/1TjaQSuRZK0OiUCqc6S0SiQ
+              </a>
+              提取码：r27n
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Linux之系统移植和文件系统构建篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1vdUOu0uF8VXoLN51boJyHw" target="_blank">
+               https://pan.baidu.com/s/1vdUOu0uF8VXoLN51boJyHw
+              </a>
+              提取码：d2rz
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Linux之驱动开发篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1JU95JHG-v7MKvkvXsMNhdw" target="_blank">
+               https://pan.baidu.com/s/1JU95JHG-v7MKvkvXsMNhdw
+              </a>
+              提取码：n3ju
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Linux之网络环境搭建篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q" target="_blank">
+               https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q
+              </a>
+              提取码：5sfw
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Linux之Qt5（C++）篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g" target="_blank">
+               https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g
+              </a>
+              提取码：2df1
+             </p>
+            </li>
+            <li>
+             <p>
+              配套
+              <code class="docutils literal notranslate">
+               <span class="pre">
+                Linux之C应用开发篇
+               </span>
+              </code>
+              视频链接：
+              <a class="reference external" href="https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA" target="_blank">
+               https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA
+              </a>
+              提取码：j5dj
+             </p>
+            </li>
+           </ul>
+          </div>
+          <div class="section" id="id6">
+           <h3>
+            视频在线学习平台
+            <a class="headerlink" href="#id6" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              视频网盘如果失效，请移步在线观看平台：
+             </p>
+            </li>
+           </ul>
+           <ol class="arabic simple">
+            <li>
+             <p>
+              原子哥在线教学平台免费观看:
+              <a class="reference external" href="https://www.yuanzige.com" target="_blank">
+               https://www.yuanzige.com
+              </a>
+             </p>
+            </li>
+            <li>
+             <p>
+              B站哔哩哔哩：
+              <a class="reference external" href="https://space.bilibili.com/394620890" target="_blank">
+               https://space.bilibili.com/394620890
+              </a>
+             </p>
+            </li>
+            <li>
+             <p>
+              腾讯课堂：
+              <a class="reference external" href="https://ke.qq.com/course/278479" target="_blank">
+               https://ke.qq.com/course/278479
+              </a>
+             </p>
+            </li>
+           </ol>
+          </div>
+          <div class="section" id="id7">
+           <h3>
+            产品讨论帖
+            <a class="headerlink" href="#id7" title="永久链接至标题">
+             ¶
+            </a>
+           </h3>
+           <ul class="simple">
+            <li>
+             <p>
+              i.MX6ULL Linux阿尔法产品讨论贴:
+              <a class="reference external" href="http://www.openedv.com/thread-300792-1-1.html" target="_blank">
+               http://www.openedv.com/thread-300792-1-1.html
+              </a>
+             </p>
+            </li>
+            <li>
+             <p>
+              正点原子阿尔法Linux开发板交流群：887820935
+             </p>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="section" id="id8">
+          <h2>
+           产品图片
+           <a class="headerlink" href="#id8" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             i.MX6ULL Linux阿尔法开发板主图如下所示
+            </p>
+           </li>
+          </ul>
+          <div class="figure align-default" id="id12">
+           <span id="pic-major-imx6ull-board">
+           </span>
+           <img alt="../../_images/imx6ull_board.png" src="../../_images/imx6ull_board.png"/>
+           <p class="caption">
+            <span class="caption-text">
+             i.MX6ULL Linux阿尔法开发板正面图
+            </span>
+            <a class="headerlink" href="#id12" title="永久链接至图片">
+             ¶
+            </a>
+           </p>
+          </div>
+          <div class="figure align-default" id="id13">
+           <span id="pic-major-imx-6ull-core">
+           </span>
+           <img alt="../../_images/imx_6ull_core.png" src="../../_images/imx_6ull_core.png"/>
+           <p class="caption">
+            <span class="caption-text">
+             i.MX6ULL Linux阿尔法开发板背面图
+            </span>
+            <a class="headerlink" href="#id13" title="永久链接至图片">
+             ¶
+            </a>
+           </p>
+          </div>
+         </div>
+         <div class="section" id="id9">
+          <h2>
+           购买方式
+           <a class="headerlink" href="#id9" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             正点原子官方淘宝店：
+             <a class="reference external" href="https://openedv.taobao.com" target="_blank">
+              https://openedv.taobao.com
+             </a>
+            </p>
+           </li>
+          </ul>
+         </div>
+         <div class="section" id="id10">
+          <h2>
+           产品问题答疑
+           <a class="headerlink" href="#id10" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <ul class="simple">
+           <li>
+            <p>
+             阿里旺旺：
+             <a class="reference external" href="https://openedv.taobao.com" target="_blank">
+              https://openedv.taobao.com
+             </a>
+             上淘宝直接一对一咨询技术。
+            </p>
+           </li>
+           <li>
+            <p>
+             开源电子网【论坛】：
+             <a class="reference external" href="http://www.openedv.com/forum.php" target="_blank">
+              http://www.openedv.com/forum.php
+             </a>
+            </p>
+           </li>
+           <li>
+            <p>
+             QQ群：
+             <a class="reference external" href="http://www.openedv.com/forum.php" target="_blank">
+              http://www.openedv.com/forum.php
+             </a>
+             点击首页“官方QQ群”即可加入最新群。
+            </p>
+           </li>
+           <li>
+            <p>
+             微信群：
+             <a class="reference external" href="http://www.openedv.com/forum.php" target="_blank">
+              http://www.openedv.com/forum.php
+             </a>
+             点击首页“微信群”即可加入最新群。
+            </p>
+           </li>
+          </ul>
+         </div>
+         <div class="section" id="id11">
+          <h2>
+           关于正点原子
+           <a class="headerlink" href="#id11" title="永久链接至标题">
+            ¶
+           </a>
+          </h2>
+          <blockquote>
+           <div>
+            <div class="line-block">
+             <div class="line">
+              <a class="reference internal" href="../../about/about_us.html#id1">
+               <span class="std std-ref">
+                公司简介
+               </span>
+              </a>
+             </div>
+             <div class="line">
+              <a class="reference internal" href="../../about/about_us.html#id2">
+               <span class="std std-ref">
+                联系方式
+               </span>
+              </a>
+             </div>
+            </div>
+           </div>
+          </blockquote>
+         </div>
+        </div>
+       </div>
+      </div>
+      <footer>
+       <div aria-label="footer navigation" class="rst-footer-buttons" role="navigation">
+        <a accesskey="n" class="btn btn-neutral float-right" href="zdyz-i.mx6ullmini.html" rel="next" title="Mini Linux开发板">
+         Next
+         <span class="fa fa-arrow-circle-right">
+         </span>
+        </a>
+        <a accesskey="p" class="btn btn-neutral float-left" href="index.html" rel="prev" title="正点原子Linux开发板">
+         <span class="fa fa-arrow-circle-left">
+         </span>
+         Previous
+        </a>
+       </div>
+       <hr/>
+       <div role="contentinfo">
+        <p>
+         © Copyright 2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/
+        </p>
+       </div>
+       Built with
+       <a href="http://sphinx-doc.org/" target="_blank">
+        Sphinx
+       </a>
+       using a
+       <a href="https://github.com/rtfd/sphinx_rtd_theme" target="_blank">
+        theme
+       </a>
+       provided by
+       <a href="https://readthedocs.org" target="_blank">
+        Read the Docs
+       </a>
+       .
+      </footer>
+     </div>
+    </div>
+   </section>
   </div>
-  
-
-
   <script type="text/javascript">
-      jQuery(function () {
+   jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
   </script>
-
-  
-  
-    
-   
-
-</body>
+ </body>
 </html>
