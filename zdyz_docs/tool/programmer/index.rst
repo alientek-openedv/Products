@@ -15,6 +15,8 @@
 
    mini-pro
 
+   mini-proV2
+
 
 
 
