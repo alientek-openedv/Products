@@ -15,11 +15,20 @@ STM32MP157开发板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/1cBc13o-XWOiTUc-Dl7gTmg 提取码：8xo9 
+- ``资料盘`` 开发板资料链接： https://pan.baidu.com/s/1prWDeLnu2tTepPalQwOxJw 提取码：hn9h 
 
-- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1vgdNfrfMWXFuE6L1XKjfIA 提取码：i64i 
+- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1fpREOnkYcK1qwGntZzl2mQ 提取码：gm6p 
 
     
+视频网盘链接
+^^^^^^^^^^^
+- 配套 ``Linux之网络环境搭建篇`` 视频链接：https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q 提取码：5sfw
+  
+- 配套 ``Linux之Qt5（C++）篇`` 视频链接：https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g  提取码：2df1  
+   
+- 配套 ``Linux之C应用开发篇`` 视频链接：https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA  提取码：j5dj 
+
+
 资料盘其他下载方式
 ^^^^^^^^^^^
 
@@ -30,8 +39,8 @@ STM32MP157 虚拟机链接
 ^^^^^^^^^^^
 学习正点原子STM32MP157驱动开发指南、嵌入式QT开发指南等文档教程时，可以使用已经搭建好的虚拟机环境像，节省环境搭建时间。请严格按照网盘里的《STM32MP157 虚拟机使用参考手册》进行系统安装。
 
--  ``工具盘`` 链接：https://pan.baidu.com/s/1oaxOfrFGXAZe0Zjk51AS8g 
--  提取码：meh7 
+-  ``工具盘`` 链接：https://pan.baidu.com/s/10-G6va7VixjQBIBaCIcVuA 
+-  提取码：6hy8 
 
 
 视频在线学习平台

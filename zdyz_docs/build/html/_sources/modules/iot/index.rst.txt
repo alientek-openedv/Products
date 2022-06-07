@@ -44,6 +44,10 @@ IoT模块
 
    ATK-MW198
 
+   ATK-MW1268
+
+   ATK-MWCC68
+
 
 
 

@@ -12,11 +12,12 @@
 视频网盘链接
 ^^^^^^^^^^^
 
--  即将发布...
+- 链接：https://pan.baidu.com/s/1WejrtbjrX7jAe_B1SK7gSg   提取码：dlsn
 
 
 视频在线学习平台
 ^^^^^^^^^^^^^^^^^
+
 - 视频网盘经常失效，请移步在线观看平台：
 
 1. 原子哥在线教学平台免费观看: https://www.yuanzige.com

@@ -90,6 +90,7 @@
               <p class="caption"><span class="caption-text">正点原子开发板&amp;核心板</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="boards/stm32/index.html">正点原子STM32开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="boards/stm32dj/index.html">正点原子STM32电机开发板</a></li>
 <li class="toctree-l1"><a class="reference internal" href="boards/arm-linux/index.html">正点原子Linux开发板</a></li>
 <li class="toctree-l1"><a class="reference internal" href="boards/fpga/index.html">正点原子FPGA开发板</a></li>
 <li class="toctree-l1"><a class="reference internal" href="boards/iot/index.html">正点原子IOT物联网板</a></li>
@@ -108,6 +109,8 @@
 <li class="toctree-l1"><a class="reference internal" href="tool/dap/index.html">仿真器与调试器</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tool/programmer/index.html">脱机烧录器</a></li>
 <li class="toctree-l1"><a class="reference internal" href="tool/shiboqi/index.html">数字示波器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tool/USB/index.html">USB测试仪</a></li>
+<li class="toctree-l1"><a class="reference internal" href="tool/dianyuan/index.html">数控电源</a></li>
 </ul>
 <p class="caption"><span class="caption-text">正点原子开源四轴</span></p>
 <ul>
@@ -219,6 +222,13 @@
 <li class="toctree-l2"><a class="reference internal" href="boards/stm32/zdyz_stm32f407_nano.html">stm32f411-nano开发板</a></li>
 <li class="toctree-l2"><a class="reference internal" href="boards/stm32/zdyz_stm32f103_mini_sysboard.html">stm32f103最小系统板</a></li>
 <li class="toctree-l2"><a class="reference internal" href="boards/stm32/zdyz_stm32f407_mini_sysboard.html">stm32f407最小系统板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/stm32/zdyz_stm32h750_minipro.html">MiniPro H750开发板</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="boards/stm32dj/index.html">正点原子STM32电机开发板</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="boards/stm32dj/ATK-DMF407.html">ATK-DMF407电机开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/stm32dj/ATK-PD6010B.html">ATK-PD6010B直流无刷驱动板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/stm32dj/ATK-PD6010D.html">ATK-PD6010D直流有刷驱动板</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="boards/arm-linux/index.html">正点原子Linux开发板</a><ul>
@@ -229,11 +239,12 @@
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="boards/fpga/index.html">正点原子FPGA开发板</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_kaituoz.html">FPGA开拓者开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_linhanz.html">ZYNQ领航者开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_linhanz(V2).html">ZYNQ领航者(V2)开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_qimxing.html">ZYNQ启明星开发板</a></li>
-<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_qimxing(V2).html">ZYNQ启明星(V2)开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_kaituoz.html">FPGA开拓者V1开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_kaituoz(V2).html">FPGA开拓者V2开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_linhanz.html">ZYNQ领航者V1开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_linhanz(V2).html">ZYNQ领航者V2开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_qimxing.html">ZYNQ启明星V1开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_qimxing(V2).html">ZYNQ启明星V2开发板</a></li>
 <li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_zynqxtb.html">ZYNQ小型系统板</a></li>
 <li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_xinqidian.html">FPGA新起点V1开发板</a></li>
 <li class="toctree-l2"><a class="reference internal" href="boards/fpga/zdyz_xinqidian(V2).html">FPGA新起点V2开发板</a></li>
@@ -287,6 +298,8 @@
 <li class="toctree-l2"><a class="reference internal" href="modules/iot/ATK-UART2EHT.html">串口转以太网模块ATK-UART2EHT</a></li>
 <li class="toctree-l2"><a class="reference internal" href="modules/iot/ATK-GM510.html">4G通信模块ATK-GM510</a></li>
 <li class="toctree-l2"><a class="reference internal" href="modules/iot/ATK-MW198.html">4G Cat1通信模块ATK-MW196</a></li>
+<li class="toctree-l2"><a class="reference internal" href="modules/iot/ATK-MW1268.html">LORA通信模块ATK-MW1268</a></li>
+<li class="toctree-l2"><a class="reference internal" href="modules/iot/ATK-MWCC68.html">LORA通信模块ATK-MWCC68</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="modules/lcd/index.html">LCD液晶屏</a><ul>
@@ -357,10 +370,19 @@
 <li class="toctree-l2"><a class="reference internal" href="tool/programmer/p100.html">P100脱机烧录器</a></li>
 <li class="toctree-l2"><a class="reference internal" href="tool/programmer/p400.html">P400脱机烧录器</a></li>
 <li class="toctree-l2"><a class="reference internal" href="tool/programmer/mini-pro.html">Mini-Pro脱机烧录器</a></li>
+<li class="toctree-l2"><a class="reference internal" href="tool/programmer/mini-proV2.html">Mini-Pro(V2)脱机烧录器</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="tool/shiboqi/index.html">数字示波器</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="tool/shiboqi/sbq.html">DS100手持数字示波器</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tool/USB/index.html">USB测试仪</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="tool/USB/usb.html">USB 测试仪</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="tool/dianyuan/index.html">数控电源</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="tool/dianyuan/DP100.html">DP100数控电源</a></li>
 </ul>
 </li>
 </ul>

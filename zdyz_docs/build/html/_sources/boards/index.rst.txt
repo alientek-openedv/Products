@@ -4,6 +4,8 @@
 
    stm32/index
 
+   stm32dj/index
+
    arm-linux/index
 
    fpga/index

@@ -38,3 +38,5 @@
 
    zdyz_stm32f407_mini_sysboard
 
+   zdyz_stm32h750_minipro
+
