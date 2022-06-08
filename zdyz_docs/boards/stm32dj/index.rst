@@ -10,5 +10,5 @@
 
    ATK-PD6010B
 
-   ATK-PD6010D
+  
 
