@@ -27,6 +27,8 @@ STM32MP157开发板
 - 配套 ``Linux之Qt5（C++）篇`` 视频链接：https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g  提取码：2df1  
    
 - 配套 ``Linux之C应用开发篇`` 视频链接：https://pan.baidu.com/s/19fOMRvPaPbCokOj5vkYsxA  提取码：j5dj 
+  
+- 配套 ``Linux之C异核通信视频篇`` 视频链接：https://pan.baidu.com/s/1Tmtzxik6jXi3om-YSby-jw  提取码：snd1 
 
 
 资料盘其他下载方式
