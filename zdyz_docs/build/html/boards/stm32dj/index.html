@@ -1,361 +1,269 @@
+
+
 <!DOCTYPE html>
 <!--[if IE 8]><html class="no-js lt-ie9" lang="zh-CN" > <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="zh-CN">
- <!--<![endif]-->
- <head>
-  <meta charset="utf-8"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <title>
-   正点原子STM32电机开发板 — 正点原子资料下载中心 1.0.0 文档
-  </title>
-  <script src="../../_static/js/modernizr.min.js" type="text/javascript">
-  </script>
-  <script data-url_root="../../" id="documentation_options" src="../../_static/documentation_options.js" type="text/javascript">
-  </script>
-  <script src="../../_static/jquery.js">
-  </script>
-  <script src="../../_static/underscore.js">
-  </script>
-  <script src="../../_static/doctools.js">
-  </script>
-  <script src="../../_static/language_data.js">
-  </script>
-  <script src="../../_static/translations.js">
-  </script>
-  <script src="../../_static/js/theme.js" type="text/javascript">
-  </script>
-  <link href="../../_static/css/theme.css" rel="stylesheet" type="text/css"/>
-  <link href="../../_static/pygments.css" rel="stylesheet" type="text/css"/>
-  <link href="../../genindex.html" rel="index" title="索引"/>
-  <link href="../../search.html" rel="search" title="搜索"/>
-  <link href="ATK-DMF407.html" rel="next" title="ATK-DMF407电机开发板"/>
-  <link href="../stm32/zdyz_stm32h750_minipro.html" rel="prev" title="MiniPro H750开发板"/>
- </head>
- <body class="wy-body-for-nav">
+<!--[if gt IE 8]><!--> <html class="no-js" lang="zh-CN" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>正点原子STM32电机开发板 &mdash; 正点原子资料下载中心 1.0.0 文档</title>
+  
+
+  
+  
+  
+  
+
+  
+  <script type="text/javascript" src="../../_static/js/modernizr.min.js"></script>
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
+        <script src="../../_static/jquery.js"></script>
+        <script src="../../_static/underscore.js"></script>
+        <script src="../../_static/doctools.js"></script>
+        <script src="../../_static/language_data.js"></script>
+        <script src="../../_static/translations.js"></script>
+    
+    <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+    
+
+  
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="索引" href="../../genindex.html" />
+    <link rel="search" title="搜索" href="../../search.html" />
+    <link rel="next" title="ATK-DMF407电机开发板" href="ATK-DMF407.html" />
+    <link rel="prev" title="MiniPro H750开发板" href="../stm32/zdyz_stm32h750_minipro.html" /> 
+</head>
+
+<body class="wy-body-for-nav">
+
+   
   <div class="wy-grid-for-nav">
-   <nav class="wy-nav-side" data-toggle="wy-nav-shift">
-    <div class="wy-side-scroll">
-     <div class="wy-side-nav-search">
-      <a class="icon icon-home" href="../../index.html">
-       正点原子资料下载中心
-       <img alt="Logo" class="logo" src="../../_static/atklogo.png"/>
-      </a>
-      <div class="version">
-       1.0.0
-      </div>
-      <div role="search">
-       <form action="../../search.html" class="wy-form" id="rtd-search-form" method="get">
-        <input name="q" placeholder="Search docs" type="text"/>
-        <input name="check_keywords" type="hidden" value="yes"/>
-        <input name="area" type="hidden" value="default"/>
-       </form>
-      </div>
-     </div>
-     <div aria-label="main navigation" class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation">
-      <p class="caption">
-       <span class="caption-text">
-        正点原子开发板&amp;核心板
-       </span>
-      </p>
-      <ul class="current">
-       <li class="toctree-l1">
-        <a class="reference internal" href="../stm32/index.html">
-         正点原子STM32开发板
-        </a>
-       </li>
-       <li class="toctree-l1 current">
-        <a class="current reference internal" href="#">
-         正点原子STM32电机开发板
-        </a>
-        <ul>
-         <li class="toctree-l2">
-          <a class="reference internal" href="ATK-DMF407.html">
-           ATK-DMF407电机开发板
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+          
+
+          
+            <a href="../../index.html" class="icon icon-home"> 正点原子资料下载中心
+          
+
+          
+            
+            <img src="../../_static/atklogo.png" class="logo" alt="Logo"/>
+          
           </a>
-         </li>
-         <li class="toctree-l2">
-          <a class="reference internal" href="ATK-PD6010B.html">
-           驱动板&amp;电机硬件
-          </a>
-         </li>
-        </ul>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../arm-linux/index.html">
-         正点原子Linux开发板
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../fpga/index.html">
-         正点原子FPGA开发板
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../iot/index.html">
-         正点原子IOT物联网板
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../i.mx-rt/index.html">
-         正点原子NXP开发板
-        </a>
-       </li>
-      </ul>
-      <p class="caption">
-       <span class="caption-text">
-        正点原子模块与配件
-       </span>
-      </p>
-      <ul>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../modules/camera/index.html">
-         摄像头模块
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../modules/iot/index.html">
-         IoT模块
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../modules/lcd/index.html">
-         LCD液晶屏
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../modules/other/index.html">
-         其他模块和配件
-        </a>
-       </li>
-      </ul>
-      <p class="caption">
-       <span class="caption-text">
-        正点原子开发工具
-       </span>
-      </p>
-      <ul>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../tool/solder/index.html">
-         智能焊台
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../tool/dap/index.html">
-         仿真器与调试器
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../tool/programmer/index.html">
-         脱机烧录器
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../tool/shiboqi/index.html">
-         数字示波器
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../tool/USB/index.html">
-         USB测试仪
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../tool/dianyuan/index.html">
-         数控电源
-        </a>
-       </li>
-      </ul>
-      <p class="caption">
-       <span class="caption-text">
-        正点原子开源四轴
-       </span>
-      </p>
-      <ul>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../fouraxis-fly/minifly.html">
-         MiniFly四轴飞行器
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../fouraxis-fly/wukong.html">
-         悟空四轴飞行器
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../fouraxis-fly/atkf405.html">
-         开源飞控F405
-        </a>
-       </li>
-      </ul>
-      <p class="caption">
-       <span class="caption-text">
-        正点原子教学书籍与视频
-       </span>
-      </p>
-      <ul>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../book-videos/zdyzbook/index.html">
-         正点原子书籍
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../book-videos/zdyzshipin/index.html">
-         正点原子视频
-        </a>
-       </li>
-      </ul>
-      <p class="caption">
-       <span class="caption-text">
-        正点原子智能音频
-       </span>
-      </p>
-      <ul>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../Intelligent-audio/D8.html">
-         D8-HiFi数字功放
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../Intelligent-audio/APTX.html">
-         贝斯蓝牙音频接收器APTX
-        </a>
-       </li>
-      </ul>
-      <p class="caption">
-       <span class="caption-text">
-        正点原子产品选型手册
-       </span>
-      </p>
-      <ul>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../select-manual/index.html">
-         正点原子产品选型手册
-        </a>
-       </li>
-      </ul>
-      <p class="caption">
-       <span class="caption-text">
-        关于正点原子
-       </span>
-      </p>
-      <ul>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../about/about_us.html">
-         公司简介
-        </a>
-       </li>
-       <li class="toctree-l1">
-        <a class="reference internal" href="../../about/about_us.html#id2">
-         联系方式
-        </a>
-       </li>
-      </ul>
-     </div>
-    </div>
-   </nav>
-   <section class="wy-nav-content-wrap" data-toggle="wy-nav-shift">
-    <nav aria-label="top navigation" class="wy-nav-top">
-     <i class="fa fa-bars" data-toggle="wy-nav-top">
-     </i>
-     <a href="../../index.html">
-      正点原子资料下载中心
-     </a>
-    </nav>
-    <div class="wy-nav-content">
-     <div class="rst-content">
-      <div aria-label="breadcrumbs navigation" role="navigation">
-       <ul class="wy-breadcrumbs">
-        <li>
-         <a href="../../index.html">
-          Docs
-         </a>
-         »
-        </li>
-        <li>
-         <a href="../index.html">
-          &lt;no title&gt;
-         </a>
-         »
-        </li>
-        <li>
-         正点原子STM32电机开发板
-        </li>
-        <li class="wy-breadcrumbs-aside">
-         <a class="fa fa-github" href="https://github.com/alientek-openedv/Products/tree/master/zdyz_docs/boards\stm32dj\index.rst" target="_blank">
-          Edit on Zdyz/Products
-         </a>
-        </li>
-       </ul>
-       <hr/>
-      </div>
-      <div class="document" itemscope="itemscope" itemtype="http://schema.org/Article" role="main">
-       <div itemprop="articleBody">
-        <div class="section" id="stm32">
-         <h1>
-          正点原子STM32电机开发板
-          <a class="headerlink" href="#stm32" title="永久链接至标题">
-           ¶
-          </a>
-         </h1>
-         <div class="toctree-wrapper compound">
-          <ul>
-           <li class="toctree-l1">
-            <a class="reference internal" href="ATK-DMF407.html">
-             ATK-DMF407电机开发板
-            </a>
-           </li>
-           <li class="toctree-l1">
-            <a class="reference internal" href="ATK-PD6010B.html">
-             驱动板&amp;电机硬件
-            </a>
-           </li>
-          </ul>
-         </div>
+
+          
+            
+            
+              <div class="version">
+                1.0.0
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
         </div>
-       </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <p class="caption"><span class="caption-text">正点原子开发板&amp;核心板</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../stm32/index.html">正点原子STM32开发板</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">正点原子STM32电机开发板</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="ATK-DMF407.html">ATK-DMF407电机开发板</a></li>
+<li class="toctree-l2"><a class="reference internal" href="ATK-PD6010B.html">驱动板&amp;电机硬件</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../arm-linux/index.html">正点原子Linux开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../fpga/index.html">正点原子FPGA开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../iot/index.html">正点原子IOT物联网板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../i.mx-rt/index.html">正点原子NXP开发板</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子模块与配件</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../modules/camera/index.html">摄像头模块</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../modules/iot/index.html">IoT模块</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../modules/lcd/index.html">LCD液晶屏</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../modules/other/index.html">其他模块和配件</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子开发工具</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/solder/index.html">智能焊台</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/dap/index.html">仿真器与调试器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/programmer/index.html">脱机烧录器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/shiboqi/index.html">数字示波器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/USB/index.html">USB测试仪</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../tool/dianyuan/index.html">数控电源</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子开源四轴</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/minifly.html">MiniFly四轴飞行器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/wukong.html">悟空四轴飞行器</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../fouraxis-fly/atkf405.html">开源飞控F405</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子教学书籍与视频</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyzbook/index.html">正点原子书籍</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../book-videos/zdyzshipin/index.html">正点原子视频</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子智能音频</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../Intelligent-audio/D8.html">D8-HiFi数字功放</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../Intelligent-audio/APTX.html">贝斯蓝牙音频接收器APTX</a></li>
+</ul>
+<p class="caption"><span class="caption-text">正点原子产品选型手册</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../select-manual/index.html">正点原子产品选型手册</a></li>
+</ul>
+<p class="caption"><span class="caption-text">关于正点原子</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html">公司简介</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../about/about_us.html#id2">联系方式</a></li>
+</ul>
+
+            
+          
+        </div>
       </div>
-      <footer>
-       <div aria-label="footer navigation" class="rst-footer-buttons" role="navigation">
-        <a accesskey="n" class="btn btn-neutral float-right" href="ATK-DMF407.html" rel="next" title="ATK-DMF407电机开发板">
-         Next
-         <span class="fa fa-arrow-circle-right">
-         </span>
-        </a>
-        <a accesskey="p" class="btn btn-neutral float-left" href="../stm32/zdyz_stm32h750_minipro.html" rel="prev" title="MiniPro H750开发板">
-         <span class="fa fa-arrow-circle-left">
-         </span>
-         Previous
-        </a>
-       </div>
-       <hr/>
-       <div role="contentinfo">
-        <p>
-         © Copyright 2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/
-        </p>
-       </div>
-       Built with
-       <a href="http://sphinx-doc.org/" target="_blank">
-        Sphinx
-       </a>
-       using a
-       <a href="https://github.com/rtfd/sphinx_rtd_theme" target="_blank">
-        theme
-       </a>
-       provided by
-       <a href="https://readthedocs.org" target="_blank">
-        Read the Docs
-       </a>
-       .
-      </footer>
-     </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../index.html">正点原子资料下载中心</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../index.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../index.html">&lt;no title&gt;</a> &raquo;</li>
+        
+      <li>正点原子STM32电机开发板</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="../../_sources/boards/stm32dj/index.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="stm32">
+<h1>正点原子STM32电机开发板<a class="headerlink" href="#stm32" title="永久链接至标题">¶</a></h1>
+<div class="toctree-wrapper compound">
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="ATK-DMF407.html">ATK-DMF407电机开发板</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ATK-PD6010B.html">驱动板&amp;电机硬件</a></li>
+</ul>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="ATK-DMF407.html" class="btn btn-neutral float-right" title="ATK-DMF407电机开发板" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="../stm32/zdyz_stm32h750_minipro.html" class="btn btn-neutral float-left" title="MiniPro H750开发板" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
     </div>
-   </section>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2020, 广州市星翼电子科技有限公司(正点原子) http://www.openedv.com/
+
+    </p>
   </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
   <script type="text/javascript">
-   jQuery(function () {
+      jQuery(function () {
           SphinxRtdTheme.Navigation.enable(true);
       });
   </script>
- </body>
+
+  
+  
+    
+   
+
+</body>
 </html>
