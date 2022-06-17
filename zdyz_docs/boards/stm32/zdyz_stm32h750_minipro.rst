@@ -1,4 +1,4 @@
-MiniPro H750开发板
+MiniPro STM32H750开发板
 ==========================
 
 开发板介绍
@@ -26,14 +26,14 @@ MiniPro H750开发板
 产品讨论帖
 ^^^^^^^^^^^^^^^^^
 
-- MiniPro H750开发板产品讨论贴: http://www.openedv.com/thread-336836-1-1.html
+- MiniPro STM32H750开发板产品讨论贴: http://www.openedv.com/thread-336836-1-1.html
 
 - 正点原子STM32技术交流群:756580169
 
 产品图片
 --------
 
-- MiniPro H750开发板主图如下所示
+- MiniPro STM32H750开发板主图如下所示
 
 .. _pic_major_bjxH750XB:
 
@@ -41,7 +41,7 @@ MiniPro H750开发板
 
 
    
- MiniPro H750开发板实物图正面
+ MiniPro STM32H750开发板实物图正面
 
 
 
