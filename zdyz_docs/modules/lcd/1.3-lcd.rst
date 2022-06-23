@@ -36,16 +36,6 @@
 
 
 
-.. _pic_major_1_3TFTLCDb:
-
-.. figure:: media/13lcd (2).png
-
-
-   
-  1.3寸TFTLCD液晶屏V2	模块240*240实物图背面
-
-
-
 
 购买方式
 -------- 
