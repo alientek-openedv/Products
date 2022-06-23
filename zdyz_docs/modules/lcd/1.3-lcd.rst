@@ -28,7 +28,7 @@
 
 .. _pic_major_1_3TFTLCD:
 
-.. figure:: media/1_3TFTLCD.png
+.. figure:: media/13lcd.png
 
 
    
@@ -38,7 +38,7 @@
 
 .. _pic_major_1_3TFTLCDb:
 
-.. figure:: media/1_3TFTLCDb.png
+.. figure:: media/13lcd (2).png
 
 
    
