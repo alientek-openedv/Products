@@ -4,7 +4,7 @@ ATK-DMF407电机开发板
 
 开发板介绍
 ----------
-- ``开发板综合例程演示视频``：B站哔哩哔哩链接：https://www.bilibili.com/video/BV1qV411t785
+- ``开发板综合例程演示视频``：B站哔哩哔哩链接：https://www.bilibili.com/video/BV15U4y1X7ry?
 
 资料下载链接
 ------------
