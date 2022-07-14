@@ -22,6 +22,11 @@ STM32MP157开发板
     
 视频网盘链接
 ^^^^^^^^^^^
+
+- 配套 ``STM32MP157之MP1准备篇`` 视频链接：https://pan.baidu.com/s/1EVn3dRxdDfu6EoWizgR4JA 提取码：o2w1
+  
+- 配套 ``STM32MP157之MP1系统移植和根文件系统构建篇`` 视频链接：https://pan.baidu.com/s/10fd1xVIedVSA7zQaLR64AA 提取码：f6kl
+
 - 配套 ``Linux之网络环境搭建篇`` 视频链接：https://pan.baidu.com/s/1K_cwr2Trq2lvWlXju8bq8Q 提取码：5sfw
   
 - 配套 ``Linux之Qt5（C++）篇`` 视频链接：https://pan.baidu.com/s/1Z_AlP2M1H8R_TjIWN-Pk0g  提取码：2df1  
