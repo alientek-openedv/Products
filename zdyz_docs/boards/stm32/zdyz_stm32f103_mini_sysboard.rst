@@ -11,7 +11,7 @@ stm32f103最小系统板
 资料盘链接
 ^^^^^^^^^^^
 
-- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1v5bqpUzEMnie4bwNT5EwtA  提取码：ctqs
+- ``资料盘`` 开发板资料A盘：https://pan.baidu.com/s/1qu811lzFp0iFC6auLvhT0gxpe9  提取码：xpe9
 
 -  ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1GybWC1lDEYcOeOKv1O7Ajw 提取码：w8pi  
 
