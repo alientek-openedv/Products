@@ -15,7 +15,7 @@ ZYNQ启明星V2开发板
  
 - ``工具盘`` 资料链接B盘：https://pan.baidu.com/s/1XqhLbjb-egAo7XQEfx0jIg  提取码：zdyz 
 
-- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1jtNklZ04WYMJl4U8ufCxuQ  提取码：7k7j
+- ``资料盘`` 视频PPT合集：https://pan.baidu.com/s/1Aj7pzGCIxMQYUvQYE0JK5g  提取码：ldoy
 
 视频网盘链接
 ^^^^^^^^^^^
