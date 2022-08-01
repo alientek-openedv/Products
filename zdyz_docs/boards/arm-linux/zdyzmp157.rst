@@ -83,14 +83,6 @@ STM32MP157 虚拟机链接
   STM32MP157开发板实物图正面
 
 
-.. _pic_major_mp157_core:
-
-.. figure:: media/mp157/dp.png
-
-
-   
- 开发板+7寸屏照（屏幕需购买）
-
 
 .. _pic_major_mp157_board:
 
