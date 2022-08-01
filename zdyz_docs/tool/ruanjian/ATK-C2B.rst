@@ -1,52 +1,45 @@
 .. 正点原子产品资料汇总, created by 2020-03-19 正点原子-alientek 
 
-LORA通信模块ATK-MW1268
+数组转BIN软件(ATK-C2B) 版本：v2.2
 ============================================
 
 资料链接
 ------------
 
-模块使用资料
-^^^^^^^^^^
-
-- 资料链接：https://pan.baidu.com/s/1ZfED8i_NKAzzhofrAx1bwA
-- 提取码：quh6
+- 百度网盘-链接：https://pan.baidu.com/s/1nxBTMTe822QdYT5ImyA5oA 
+- 提取码：hlwl
   
-产品讨论帖
-^^^^^^^^^^
 
-- LORA通信模块ATK-MW1268产品讨论贴: http://www.openedv.com/thread-335832-1-1.html
+软件介绍
+----------
 
-产品图片
+- 支持.c/.txt/.h文件里面的数组转换成bin文件
+- 支持按小端模式/大端模式转换
+- 支持混合数据格式数组转换
+- 支持自动识别数组类型
+- 支持拖拽方式打开文件
+- 支持正点原子软件仓库
+
+
+软件图片
 --------
 
-- LORA通信模块ATK-MW1268主图如下所示
+.. _pic_major_T100:
 
-.. _pic_major_1268Dzm:
-
-.. figure:: media/1268Dzm.png
+.. figure:: media/C2B.png
 
 
    
-  LORA通信模块ATK-MW1268D实物图正面
+  数组转BIN软件界面图
 
 
 
+官方店铺
+-------- 
 
-.. _pic_major_1268Dbm:
-
-.. figure:: media/1268Dbm.png
-
-
-   
-  LORA通信模块ATK-MW1268S实物图正面
+正点原子官方淘宝店：https://openedv.taobao.com 
 
 
-
-购买方式
---------
-
-- 正点原子官方淘宝店：https://openedv.taobao.com 
 
 
 产品问题答疑
@@ -64,6 +57,4 @@ LORA通信模块ATK-MW1268
 
  | :ref:`公司简介` 
  | :ref:`联系方式`
-
-
 
