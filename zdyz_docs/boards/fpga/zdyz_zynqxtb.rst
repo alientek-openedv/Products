@@ -18,7 +18,7 @@ ZYNQ小型系统板
 
 -  参考 ``手把手教你学ZYNQ-FPGA开发篇`` 视频C盘：https://pan.baidu.com/s/1ATMmVzBQ7FbVpc6rZLz6Hw   提取码：m5nr
 
--  参考 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/1iUWGFVQastZel4sBgVMFDQ   提取码：35jt  
+-  参考 ``手把手教你学ZYNQ-嵌入式开发篇`` 视频D盘：https://pan.baidu.com/s/18H7mLjoWFNzmaHjQBGyeDg   提取码：a4iq  
   
 -  参考 ``手把手教你学ZYNQ-嵌入式LINUX开发篇`` 视频E盘：https://pan.baidu.com/s/1nTuRa_pXXhdWDwhhY0wk3w   提取码：gmkw        
 
