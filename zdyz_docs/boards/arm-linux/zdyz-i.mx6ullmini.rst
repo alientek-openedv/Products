@@ -25,7 +25,7 @@ Mini Linux开发板
 ^^^^^^^^^^^
 
 - ``Coding(推荐)`` 下载链接：https://atk-imx6ull.coding.net/public
-- 下载方法：在Windows安装git或ubuntu安装git，进入上面的仓库，进入一个开源项目，点击右上角的克隆，复制链接，使用git clone指令下载即可！
+- 下载方法：在Windows安装git或ubuntu安装git，进入上面的仓库，进入一个开源项目，点击右上角的克隆，复制链接，使用git clone指令下载即可。
 - 下载示例：
 - ``git clone  https://e.coding.net/atk-imx6ull/imx6ull/09_Tutorial_Doc.git``
 
@@ -81,7 +81,14 @@ I.MX6U 虚拟机链接
 .. _pic_major_imx6ull_boardmi:
 
 .. figure:: media/imx6ull/imx6ull_boardmi.png
+   
+ Mini Linux开发板开发板正面图
 
+.. _pic_major_imx6ull_boardmi:
+
+.. figure:: media/imx6ull/imx_6ull_coreb.png
+   
+ Mini Linux开发板开发板背面图
 
 
 购买方式
