@@ -17,7 +17,6 @@ i.MX6ULL Linux阿尔法开发板
 
 - ``资料盘`` 开发板资料链接：https://pan.baidu.com/s/1inZtndgN-L3aVfoch2-sKA  提取码：m65i
 
-- ``资料盘`` PDF合集资料链接：https://pan.baidu.com/s/1_xpEUW77rQEEzCbuMGahrA 提取码：f8n1
 
 - ``资料盘`` 视频PPT笔记链接：https://pan.baidu.com/s/1OP8aOYrx0hzh1dou1f3WQg 提取码：vyda
 
@@ -25,7 +24,11 @@ i.MX6ULL Linux阿尔法开发板
 资料盘其他下载方式
 ^^^^^^^^^^^
 
-- ``Coding(推荐)`` 下载链接：https://alientek-linux.coding.net/public/
+- ``Coding(推荐)`` 下载链接：https://atk-imx6ull.coding.net/public
+- 下载方法：在Windows安装git或ubuntu安装git，进入上面的仓库，进入一个开源项目，点击右上角的克隆，复制链接，使用git clone指令下载即可。
+- 下载示例：
+- ``git clone  https://e.coding.net/atk-imx6ull/imx6ull/09_Tutorial_Doc.git``
+
 
 I.MX6U 虚拟机链接
 ^^^^^^^^^^^
